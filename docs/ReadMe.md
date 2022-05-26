@@ -132,7 +132,7 @@ Bei Interesse, lies bitte [Mitwirkung an meinen Projekten](contributing/Contribu
 <!-- LICENSE -->
 ## Lizenz
 
-Lizensiert unter der [Allgemeinen Öffentlichen GNU-Lizenz, Version 3](../LICENSE.de.md).
+Lizensiert unter der [Allgemeinen Öffentlichen GNU-Lizenz v3.0](../LICENSE.de.md).
 
 <!-- CONTACT -->
 ## Kontakt
