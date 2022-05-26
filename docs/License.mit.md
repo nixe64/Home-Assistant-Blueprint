@@ -8,6 +8,10 @@
 </details>
 </div>
 
+### [MIT Lizenz](https://mit-license.org/)
+
+<br/>
+
 **Sinngemäße Übersetzung** (nicht offiziell) aus [Wikipedia](https://de.wikipedia.org/wiki/MIT-Lizenz).
 
 ### Lizenztext.
