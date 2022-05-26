@@ -19,6 +19,6 @@ For help and questions about using my projects, please use the [Stack Overflow Q
 
 ### Technical Support
 
-This is free software and for that reason the [license agreement](Copyright.md) already states:
+This is free software and for that reason the [license agreement](../COPYRIGHT.en.md) already states:
 
 **This program is released in the hope that you will find it useful, but without any warranty of merchantability or fitness for a particular purpose.**
