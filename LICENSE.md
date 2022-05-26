@@ -3,7 +3,7 @@
 <details>
 <summary>🇩🇪</summary>
     🇩🇪 deutsch<br/>
-    <a href="License.en.md">🇬🇧 english</a>
+    <a href="LICENSE.en.md">🇬🇧 english</a>
 </details>
 </div>
 
@@ -22,7 +22,7 @@ nicht erlaubt.
 
 
 **Diese Übersetzung ist kein rechtskräftiger Ersatz für die
-[englischsprachige Originalversion](License.en.md)!**
+[englischsprachige Originalversion](LICENSE.en.md)!**
 
 <br/>
 
