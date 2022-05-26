@@ -130,7 +130,7 @@ If interested, please read [Contributing to my projects](contributing/Contribute
 <!-- LICENSE -->
 ## License
 
-Licensed under the [GNU General Public License, Version 3](../LICENSE.en.md).
+Licensed under the [GNU General Public License v3.0](../LICENSE.en.md).
 
 <!-- CONTACT -->
 ## Contact
