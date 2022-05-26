@@ -14,7 +14,7 @@
 **Copyright © 2007 Free Software Foundation, Inc.
 [http://fsf.org/](http://fsf.org/)**
 
-<img src="images/1x1.png" height="50" width="1" />
+<img src="docs/images/1x1.png" height="50" width="1" />
 
 Es ist jedermann gestattet, diese Lizenzurkunde zu vervielfältigen
 und unveränderte Kopien zu verbreiten; Änderungen sind jedoch
