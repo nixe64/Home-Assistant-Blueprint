@@ -1,4 +1,4 @@
-  <a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" hspace="20" src="docs/images/osi-approved-license.png" align="right" width="150" /></a>
+<a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" hspace="20" src="docs/images/osi-approved-license.png" align="right" width="150" /></a>
 <div align="right">
 <details>
 <summary>🇬🇧</summary>
@@ -12,9 +12,8 @@
 **Version 3, 29 June 2007**
 
 **Copyright © 2007 Free Software Foundation, Inc.
-(<a href="http://fsf.org">http://fsf.org</a>)**
+\([http://fsf.org](http://fsf.org)\)**
 
-<img src="images/1x1.png" height="50" width="1" />
 
 Everyone is permitted to copy and distribute verbatim copies of
 this license document, but changing it is not allowed.
