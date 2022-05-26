@@ -19,6 +19,6 @@ Für Hilfe und Fragen zur Verwendung meiner Projekte verwende bitte zuerst die [
 
 ### Technischer Support
 
-Der technische Support für die Software in meinen Repositories ist nur sehr eingeschränkt möglich. Dies ist freie Software und aus diesem Grund heißt es bereits in der [Lizenzvereinbarung](Copyright.md):
+Der technische Support für die Software in meinen Repositories ist nur sehr eingeschränkt möglich. Dies ist freie Software und aus diesem Grund heißt es bereits in der [Lizenzvereinbarung](../COPYRIGHT.md):
 
 **Die Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen von Nutzen ist, aber ohne irgeneine Garantie der Marktreife oder der Verwendbarkeit für einen bestimmten Zweck.**
