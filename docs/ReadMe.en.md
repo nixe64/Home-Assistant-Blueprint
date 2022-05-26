@@ -6,24 +6,7 @@
 </details>
 </div>
 
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+<!-- 
 <p>
 <img src="https://img.shields.io/github/license/nixe64/.github?label=License&style=plastic" alt="License" />
 <img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
@@ -31,43 +14,33 @@
 <img src="https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic" alt="Forks" />
 <img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Issues&style=plastic" alt="Issues" />
  <p>
+-->
 
 
-
-<!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Best-README-Template</h3>
+## Custom Component Blueprint
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><Explore the docs</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
+<br/>
 
-<!-- ABOUT THE PROJECT -->
+[![Logo](images/hassio-icon.png)](https://aws.amazon.com/de/polly/)
+
+<br/>
+
+Derivative of a Home Assistant Blueprint.
+
+<br/>
+
+<!--
 ## About The Project
 
 <p align="center">
 <a href="https://example.com"><img src="images/logo.jpg" alt="Projekt-Logo" width="348px"></a>
 </p>
 
-There are many great README templates available on GitHub. However, I only found [**one**](https://github.com/othneildrew/Best-README-Template.git) that really suited my needs. So I used it as the basis for my default community files.
+Derivative of the Home Assistant Integration "Amazon Polly".
 
-
-To get started, please delete this ReadMe.md (also the English language version) and rename ProjectReadMe.md and ProjectReadMe.en.md to ReadMe.md (and ReadMe.en.md). If you're publishing your project in english, rename ReadMe.md to ReadMe.de.md and vice versa.
-
+<!--
 ### Built With
 
 This section should list any major frameworks/libraries needed to launch your project. Leave any add-ons/plugins for the Acknowledgments section. Here are a few examples.
@@ -75,7 +48,6 @@ This section should list any major frameworks/libraries needed to launch your pr
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 To use this template for your own projects, just use the "Use this template" button
@@ -99,14 +71,12 @@ for image editing (i usually use GIMP and InkScape).
 
 This template does not rely on any external dependencies or services.
 
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<!-- ROADMAP -->
 ## Roadmap
 
 - [x] Implement change log.
@@ -120,19 +90,18 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 For a complete list of proposed features (and known issues), see [open issues](https://github.com/othneildrew/Best-README-Template/issues).
 
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such a great place to learn, inspire, and create. Any contributions you make are **much appreciated**.
 
 If interested, please read [Contributing to my projects](contributing/Contribute.en.md) and the [Contributor Covenant Code of Conduct](contributing/CodeOfConduct.en.md).
+-->
 
-<!-- LICENSE -->
 ## License
 
 Licensed under the [GNU General Public License v3.0](../LICENSE.en.md).
 
-<!-- CONTACT -->
+<!-- 
 ## Contact
 
 Andreas Nixdorf \([nixe64](https://github.com/nixe64/")\)
@@ -141,8 +110,9 @@ If you have suggestions for new features or would like to report a bug, please u
 
 If you want to collaborate on this template, just send me a pull request.
 
-<!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 Thanks to <a href="(https://github.com/othneildrew">Othneil Drew</a> for his great 
 ["Best-README-Template"](https://github.com/othneildrew/Best-README-Template).
+-->

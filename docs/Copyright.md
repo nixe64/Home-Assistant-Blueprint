@@ -2,16 +2,15 @@
 <details>
 <summary>🇩🇪</summary>
     🇩🇪 deutsch<br/>
-    <a href="COPYRIGHT.en.md">🇬🇧 english</a>
+    <a href="Copyright.en.md">🇬🇧 english</a>
 </details>
 </div>
 
-### Custom Component Vorlage für Home Assistant
-
+### ReadMe - Vorlage
 Copyright © 2022, Andreas Nixdorf.
 
 Dieses Vorlage ist freie Software. Sie können sie unter den Bedingungen der [Allgemeinen Öffentlichen
-GNU-Lizenz (GPL)](LICENSE.md), wie von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizieren, entweder gemäß Version 3 der Lizenz oder (nach Ihrer Option) jeder späteren Version.
+GNU-Lizenz (GPL)](License.md), wie von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizieren, entweder gemäß Version 3 der Lizenz oder (nach Ihrer Option) jeder späteren Version.
 
 Die Veröffentlichung dieser Vorlage erfolgt in der Hoffnung, daß es Ihnen von Nutzen sein wird, aber **ohne irgeneine**, sogar ohne die implizite Garantie der **Marktreife** oder der **Verwendbarkeit für einen bestimmten Zweck**. Details finden Sie in der GPL.
 
@@ -40,4 +39,4 @@ Dieses Projekt basiert auf einem großartigem Open-Source-Projekt, das mir bei d
 
 [Die beste ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template)<br/>
 Copyright © 2021 Othneil Drew<br/>
-Herausgegeben mit [MIT](docs/License.mit.md) Urheberrecht.
+Herausgegeben mit [MIT](License.mit.md) Urheberrecht.

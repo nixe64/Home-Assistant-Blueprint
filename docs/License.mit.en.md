@@ -7,10 +7,6 @@
 </details>
 </div>
 
-### [MIT License](https://mit-license.org/)
-
-<br/>
-
 ### Begin license text.
 
 Copyright <YEAR> <COPYRIGHT HOLDER>

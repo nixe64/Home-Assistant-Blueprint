@@ -1,16 +1,15 @@
 <div align="right">
 <details>
 <summary>🇬🇧</summary>
-    <a href="COPYRIGHT.md">🇩🇪 deutsch</a><br/>
+    <a href="Copyright.md">🇩🇪 deutsch</a><br/>
     🇬🇧 english
 </details>
 </div>
 
-### Custom Component Template for Home Assistant
-
+### ReadMe - Template
 Copyright © 2022, Andreas Nixdorf.
 
-This template is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](LICENSE.en.md) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This template is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](License.en.md) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This template is distributed in the hope that it will be useful, but **without any warranty**; without even the implied warranty of **merchantability** or **fitness for a particular purpose**. See the GNU General Public License for more details.
 
@@ -46,4 +45,4 @@ my ideas.
 
 [Best-README-Template](https://github.com/othneildrew/Best-README-Template)<br/>
 Copyright © 2021 Othneil Drew<br/>
-Distributed with [MIT](docs/License.mit.en.md) Copyright.
+Distributed with [MIT](license.mit.en.md) Copyright.
