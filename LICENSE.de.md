@@ -12,7 +12,7 @@
 **Deutsche Übersetzung der Version 3, 29. Juni 2007**
 
 **Copyright © 2007 Free Software Foundation, Inc.
-[http://fsf.org/](http://fsf.org/)**
+\([http://fsf.org/](http://fsf.org/)\)**
 
 <img src="docs/images/1x1.png" height="50" width="1" />
 
