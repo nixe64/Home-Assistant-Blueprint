@@ -6,7 +6,7 @@
 </details>
 </div>
 
-### Custom Component Blueprint
+### Home Assistant Blueprint
 
 Copyright © 2022, Andreas Nixdorf.
 

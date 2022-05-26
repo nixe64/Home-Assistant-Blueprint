@@ -19,7 +19,7 @@
 
 <br />
 
-## Custom Component Blueprint
+## Home Assistant Blueprint
 
 <br/>
 
@@ -27,7 +27,8 @@
 
 <br/>
 
-Derivative of a Home Assistant Blueprint.
+Derivative of a Home Assistant Blueprint to set up a new repository with the required directory structure and the most important tools
+to develop a new Home Assistant Integration (Custom Component).
 
 <br/>
 

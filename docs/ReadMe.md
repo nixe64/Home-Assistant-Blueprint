@@ -18,7 +18,7 @@
 
 <br />
 
-## Custom Component Blueprint
+## Home Assistant Blueprint
 
 <br/>
 
@@ -26,7 +26,8 @@
 
 <br/>
 
-Weiterentwicklung eines Home Assistant Blueprints.
+Weiterentwicklung eines Home Assistant Blueprints, um ein neues Repositorie mit der erforderlichen Verzeichnisstruktur und den wichtigsten Tools
+zur Entwicklung einer neuen Home Assistant Integration (Custom Component) anzulegen.
 
 <br/>
 
