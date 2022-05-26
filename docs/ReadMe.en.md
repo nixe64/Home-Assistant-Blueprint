@@ -87,7 +87,7 @@ that don't have their own community files yet (at least if you have an Enterpris
 ### Prerequisites
 
 Before you start editing your community files, you should become familiar with the syntax of the
-.md files on GitHub. A possible starting point would be the <a href="https://docs.github.com/en/enterprise-cloud@latest/get-started/writing-on-github/getting-started-with-writing-and-formatting">official documentation</a>- in the GitHub Docs or the <a href="https://www.markdownguide.org/basic-syntax">Markdown Guide</a>).
+.md files on GitHub. A possible starting point would be the official documentation in [GitHub Docs](https://docs.github.com/en/enterprise-cloud@latest/get-started/writing-on-github/getting-started-with-writing-and-formatting) or the [Markdown Guide](https://www.markdownguide.org/basic-syntax).
 
 Also, it might help if you look around for a "badge maker" (such as
 [Shields.io](https://shields.io)) so you can decorate your files with some badges.
@@ -130,7 +130,7 @@ If interested, please read [Contributing to my projects](contributing/Contribute
 <!-- LICENSE -->
 ## License
 
-Licensed under the [GNU General Public License Version, v3](License.md).
+Licensed under the [GNU General Public License, Version 3](../LICENSE.en.md).
 
 <!-- CONTACT -->
 ## Contact
@@ -146,19 +146,3 @@ If you want to collaborate on this template, just send me a pull request.
 
 Thanks to <a href="(https://github.com/othneildrew">Othneil Drew</a> for his great 
 ["Best-README-Template"](https://github.com/othneildrew/Best-README-Template).
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
