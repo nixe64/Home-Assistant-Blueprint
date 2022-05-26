@@ -6,11 +6,12 @@
 </details>
 </div>
 
-### ReadMe - Vorlage
+### Custom Component Vorlage für Home Assistant
+
 Copyright © 2022, Andreas Nixdorf.
 
 Dieses Vorlage ist freie Software. Sie können sie unter den Bedingungen der [Allgemeinen Öffentlichen
-GNU-Lizenz (GPL)](LICENSE.de.md), wie von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizieren, entweder gemäß Version 3 der Lizenz oder (nach Ihrer Option) jeder späteren Version.
+GNU-Lizenz (GPL)](LICENSE.md), wie von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizieren, entweder gemäß Version 3 der Lizenz oder (nach Ihrer Option) jeder späteren Version.
 
 Die Veröffentlichung dieser Vorlage erfolgt in der Hoffnung, daß es Ihnen von Nutzen sein wird, aber **ohne irgeneine**, sogar ohne die implizite Garantie der **Marktreife** oder der **Verwendbarkeit für einen bestimmten Zweck**. Details finden Sie in der GPL.
 
