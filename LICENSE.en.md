@@ -2,7 +2,7 @@
 <div align="right">
 <details>
 <summary>🇬🇧</summary>
-    <a href="LICENSE.de.md">🇩🇪 deutsch</a><br/>
+    <a href="LICENSE.md">🇩🇪 deutsch</a><br/>
     🇬🇧 english
 </details>
 </div>
