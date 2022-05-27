@@ -1,3 +1,10 @@
+[![License](https://img.shields.io/badge/License-GPLv3-green?style=plastic)](License.gpl.en.md)
+[![Version](https://img.shields.io/github/v/release/nixe64/Home-Assistant-Blueprint?label=Version&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/releases)
+[![Contributors](https://img.shields.io/github/contributors-anon/nixe64/Home-Assistant-Blueprint?label=Cuntributorse&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/nixe64/Home-Assistant-Blueprint?label=Forks&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/network/members)
+[![Feature Requests](https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/feature-request.svg?style=plastic&label=Feature%20Requests)](https://github.com/nixe64/Home-Assistant-Blueprint/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
+[![Bugs](https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/bug.svg?style=plastic&label=Bug%Reports)](https://github.com/nixe64/Home-Assistant-Blueprint/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
+
 <div align="right">
 <details>
 <summary>🇬🇧</summary>
@@ -5,19 +12,6 @@
     🇬🇧 english
 </details>
 </div>
-
-<!-- 
-<p>
-<img src="https://img.shields.io/github/license/nixe64/.github?label=License&style=plastic" alt="License" />
-<img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
-<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Contributors&style=plastic" alt="Contributors" />
-<img src="https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic" alt="Forks" />
-<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Issues&style=plastic" alt="Issues" />
- <p>
--->
-
-
-<br />
 
 ## Home Assistant Blueprint
 

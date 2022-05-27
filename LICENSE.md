@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/badge/Lizenz-GPLv3-green?style=plastic)](docs/License.gpl.md)
+[![Version](https://img.shields.io/github/v/release/nixe64/Home-Assistant-Reloaded?label=Version&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/releases)
+
 <div align="right">
 <details>
 <summary>🇩🇪</summary>
