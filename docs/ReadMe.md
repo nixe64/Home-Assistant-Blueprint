@@ -27,7 +27,7 @@
 <br/>
 
 Weiterentwicklung eines Home Assistant Blueprints, um ein neues Repositorie mit der erforderlichen Verzeichnisstruktur und den wichtigsten Tools
-zur Entwicklung einer neuen Home Assistant Integration (Custom Component) anzulegen.
+für Entwicklung einer neuen Home Assistant Integration (Custom Component) anzulegen.
 
 <br/>
 
