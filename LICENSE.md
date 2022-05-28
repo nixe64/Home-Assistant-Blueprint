@@ -1,8 +1,8 @@
 [![Version][version-badge]][version-url]
 [![License][license-badge]][orig-license-url]
-[![german][german]][current]
-[![english][english]][translation]
-[![empty][empty]][current]
+[![german][german]][de]
+[![english][english]][en]
+[![empty][empty]][de]
 
 ### Home Assistant Blueprint
 
@@ -58,8 +58,8 @@ Von Original: Acts of Union 1800 Vektor: Zscout370 - Eigenes Werk, basierend a
 Von Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation of U. S. Code: Title 4, Chapter 1, Section 1 [1] (the United States Federal &quot;Flag Law&quot;)., Gemeinfrei, <https://commons.wikimedia.org/w/index.php?curid=318418>
 
 
-[current]: LICENSE.md
-[translation]: LICENSE.en.md
+[de]: LICENSE.md
+[en]: LICENSE.en.md
 
 [english]: docs/images/english.svg
 [german]: docs/images/german.svg
