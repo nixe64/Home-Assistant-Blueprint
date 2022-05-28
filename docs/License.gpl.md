@@ -292,19 +292,18 @@ Modifikationen, um es aus dem Programm zu generieren, kopieren und
 §4, vorausgesetzt, daß Sie zusätzlich alle im folgenden
 genannten Bedingungen erfüllen:
 
-|     | zu erfüllende Bedingung |
-|-----|-------------------------|
-|  a) | Das veränderte Werk muß auffällige Vermerke tragen, die besagen, daß Sie es modifiziert haben, und die ein darauf bezogenes Datum angeben. |
-|  b) | Das veränderte Werk muß auffällige Vermerke tragen, die besagen, daß es unter dieser Lizenz einschließlich der gemäß §7 hinzugefügten Bedingungen herausgegeben wird. Diese Anforderung wandelt die Anforderung aus §4 ab, „alle Hinweise intakt zu lassen“. |
-|  c) | Sie müssen das Gesamtwerk als Ganzes gemäß dieser Lizenz an jeden lizensieren, der in den Besitz einer Kopie gelangt. Diese Lizenz wird daher  – ggf. einschließlich zusätzlicher Bedingungen gemäß §7  – für das Werk als Ganzes und alle seine Teile gelten, unabhängig, wie diese zusammengepackt werden. Diese Lizenz erteilt keine Erlaubnis, das Werk in irgendeiner anderen Weise zu lizensieren, setzt  aber eine derartige Erlaubnis nicht außer Kraft, wenn Sie sie diese gesondert erhalten haben. |
-|  d) | Wenn das Werk über interaktive Benutzerschnittstellen verfügt, müssen diese jeweils angemessene rechtliche Hinweise anzeigen. Wenn allerdings das Programm interaktive Benutzerschnittstellen hat, die keine angemessenen rechtlichen Hinweise anzeigen, braucht Ihr Werk nicht dafür zu sorgen, daß sie dies tun. |
+|   Ziffer   | zu erfüllende Bedingung |
+|------------|-------------------------|
+|  a) | Das veränderte Werk muß auffällige Vermerke tragen, die besagen, daß Sie es modifiziert haben, und die ein darauf bezogenes Datum angeben.|
+|  b) | Das veränderte Werk muß auffällige Vermerke tragen, die besagen, daß es unter dieser Lizenz einschließlich der gemäß §7 hinzugefügten Bedingungen herausgegeben wird. Diese Anforderung wandelt die Anforderung aus §4 ab, „alle Hinweise intakt zu lassen“.|
+|  c) | Sie müssen das Gesamtwerk als Ganzes gemäß dieser Lizenz an jeden lizensieren, der in den Besitz einer Kopie gelangt. Diese Lizenz wird daher  – ggf. einschließlich zusätzlicher Bedingungen gemäß §7  – für das Werk als Ganzes und alle seine Teile gelten, unabhängig, wie diese zusammengepackt werden. Diese Lizenz erteilt keine Erlaubnis, das Werk in irgendeiner anderen Weise zu lizensieren, setzt  aber eine derartige Erlaubnis nicht außer Kraft, wenn Sie sie diese gesondert erhalten haben.|
+|  d) | Wenn das Werk über interaktive Benutzerschnittstellen verfügt, müssen diese jeweils angemessene rechtliche Hinweise anzeigen. Wenn allerdings das Programm interaktive Benutzerschnittstellen hat, die keine angemessenen rechtlichen Hinweise anzeigen, braucht Ihr Werk nicht dafür zu sorgen, daß sie dies tun.|
 
 Die Zusammenstellung eines betroffenen Werks mit anderen
 gesonderten und unabhängigen Werken, die nicht ihrer Natur nach
 Erweiterungen des betroffenen Werks sind und die nicht mit ihm in
 einer Weise kombiniert sind, um ein größeres Programm zu bilden,
 in oder auf einem
-<!-- volume of a -->
 Speicher- oder Verbreitungsmedium wird als „Aggregat“
 bezeichnet, wenn die Zusammenstellung und das sich für
 sie ergebende Urheberrecht nicht dazu verwendet werden, den
@@ -321,8 +320,8 @@ Bedingungen der Paragraphen 4 und 5 kopieren und übertragen
 korrespondierenden Quelltext unter den Bedingungen dieser Lizenz
 auf eine der folgenden Weisen übertragen:
 
-|     | zulääsige Art der Übertragung des Quelltextes                   |
-|-----|-----------------------------------------------------------------|
+|  Ziffer  | zulääsige Art der Übertragung des Quelltextes                   |
+|----------|-----------------------------------------------------------------|
 |  a) | Sie übertragen den Objekt-Code in einem physikalischen Produkt (einschließlich ein physikalisches Speichermedium) gemeinsam mit dem korrespondierenden Quelltext, der sich unveränderlich einem haltbaren physikalischen Medium befindet, das üblicherweise für den Austausch von Software verwendet wird|
 |  b) | Sie übertragen den Objekt-Code in einem physikalischen Produkt (einschließlich ein physikalisches Speichermedium) gemeinsam mit einem schriftlichen Angebot, das mindestens drei Jahre lang gültig sein muß und so lange, wie Sie Ersatzteile und Kundendienst für dieses Produktmodell anbieten, jedem, der im  Besitz des Objekt-Codes ist, entweder (1) eine Kopie des korrespondierenden Quelltextes der gesamten Software, die in dem Produkt enthalten und von dieser Lizenz betroffen ist, zur Verfügung zu stellen  – auf einem haltbaren physikalischen Medium, das üblicherweise für den Austausch von Software verwendet wird, und zu nicht höheren Kosten als denen, die begründbar durch den physikalischen Vorgang der Übertragung des Quelltextes anfallen, oder (2) kostenlosen Zugriff, um den  korrespondierenden Quelltext von einem Netzwerk-Server zu kopieren.|
 |  c) | Sie übertragen Kopien des Objekt-Codes gemeinsam mit einer Kopie des schriftlichen Angebots, den korrespondierenden Quelltext zur Verfügung zu stellen. Diese Alternative ist nur für gelegentliche, nicht-kommerzielle Übertragung zulässig und nur, wenn Sie den Objekt-Code als mit einem entsprechenden Angebot gemäß Absatz 6b erhalten haben.|
