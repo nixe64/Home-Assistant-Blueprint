@@ -52,3 +52,9 @@ Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Bluepri
 [Home Assistant Blueprints](https://www.home-assistant.io/docs/automation/using_blueprints/)<br/>
 Copyright © home-assistant.io<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0](docs/License.apache.md).
+
+![Germany](docs/images/germany.svg)
+Von SKopp, Madden, and other users - Eigenes Werk, Gemeinfrei, <https://commons.wikimedia.org/w/index.php?curid=343071>
+
+![US-UK](docs/images/us-uk.svg)
+The original uploader was Skipper Michael at Palatine German Wikipedia., CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
