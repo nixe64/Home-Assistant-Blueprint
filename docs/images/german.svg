@@ -59,7 +59,7 @@
      id="namedview3771"
      showgrid="false"
      inkscape:zoom="10.946667"
-     inkscape:cx="48.426733"
+     inkscape:cx="30.202008"
      inkscape:cy="-9.5667637"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -109,4 +109,11 @@
      height="0.029999996"
      width="0.15000525"
      id="rect3829" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.00135525"
+     id="rect13"
+     width="0.0049999999"
+     height="0.090000004"
+     x="0"
+     y="7.1525577e-09" />
 </svg>
