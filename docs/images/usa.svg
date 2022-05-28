@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="40"
-   height="16"
-   viewBox="0 0 240 96"
+   width="30pt"
+   height="11pt"
+   viewBox="0 0 240 88"
    version="1.1"
    id="svg4013"
    sodipodi:docname="usa.svg"
@@ -43,34 +43,35 @@
      id="namedview4015"
      showgrid="false"
      inkscape:zoom="13.558128"
-     inkscape:cx="0.098352028"
+     inkscape:cx="-11.370783"
      inkscape:cy="-4.8860679"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4013" />
+     inkscape:current-layer="svg4013"
+     units="pt" />
   <rect
      width="182.40001"
-     height="96"
+     height="88"
      id="rect3982"
      x="0"
      y="-3.8146973e-06"
-     style="fill:#b22234;stroke-width:0.02461538" />
+     style="fill:#b22234;stroke-width:0.02356743" />
   <path
-     d="m 0,11.076913 h 182.4 m 0,14.769257 H 0 m 0,14.769257 h 182.4 m 0,14.769145 H 0 m 0,14.769255 h 182.4 m 0,14.769259 H 0"
+     d="m 0,10.153837 h 182.4 m 0,13.538485 H 0 m 0,13.538486 h 182.4 m 0,13.538383 H 0 m 0,13.538483 h 182.4 m 0,13.538488 H 0"
      id="path3984"
      inkscape:connector-curvature="0"
-     style="stroke:#ffffff;stroke-width:7.38461637" />
+     style="stroke:#ffffff;stroke-width:7.07023191" />
   <rect
      width="72.959999"
-     height="51.692318"
+     height="47.384624"
      id="rect3986"
      x="0"
      y="-3.8146973e-06"
-     style="fill:#3c3b6e;stroke-width:0.02461538" />
+     style="fill:#3c3b6e;stroke-width:0.02356743" />
   <g
      id="g4011"
-     transform="matrix(0.02461538,0,0,0.02461538,0,-4.0264718e-6)"
+     transform="matrix(0.02461538,0,0,0.0225641,0,-4e-6)"
      style="fill:#ffffff">
     <g
        id="s18">

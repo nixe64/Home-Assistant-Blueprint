@@ -1,8 +1,8 @@
 [![Version][version-badge]][version-url]
 [![License][license-badge]][my-license-url]
-![german][german]
+[![german][german]][current]
 [![english][english]][translation]
-![empty][empty]
+[![empty][empty]][current]
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->
@@ -60,6 +60,7 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-ur
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[current]: ReadMe.md
 [translation]: ReadMe.en.md
 [english]: images/english.svg
 [german]: images/german.svg
