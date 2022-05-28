@@ -1,11 +1,14 @@
 [![Version][version-badge]][version-url]
 [![License][license-badge]][my-license-url]
-[![german][german]][current]
-[![english][english]][translation]
-[![empty][empty]][current]
+[![german][german]][de]
+[![english][english]][en]
+[![empty][empty]][de]
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->
+<br/>
+<br/>
+<br/>
 
 ### Home Assistant Blueprint
 <br/>
@@ -19,29 +22,9 @@ für Entwicklung einer neuen Home Assistant Integration (Custom Component) anzul
 
 <br/>
 
-<!--
-## Über das Projekt
-
-<p align="center">
-<a href="https://example.com"><img src="images/logo.jpg" alt="Projekt-Logo" width="348px"></a>
-</p>
-
-Weiterentwicklung der Home Assistant Integration "Amazon Polly".
-
-### erstellt mit
-
-in der Entwicklungsphase
--->
 ### Verwendung
 
-Um diese Vorlage für deine eigenen Projekte zu verwenden, nutze einfach den "Use this template"-
-Button von GitHub oder forke dieses Repository. 
-
-<!--
-### Installation
-
-Diese Vorlage ist nicht auf externe Abhängigkeiten oder Dienste angewiesen.
--->
+Um diese Vorlage für dein eigenen Projekt zu verwenden, nutze einfach diesen Button ![btn][template-btn]  oder forke dieses Repository. 
 
 ### Kontakt
 
@@ -60,8 +43,8 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-ur
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[current]: ReadMe.md
-[translation]: ReadMe.en.md
+[de]: ReadMe.md
+[en]: ReadMe.en.md
 [english]: images/english.svg
 [german]: images/german.svg
 [empty]: images/empty.svg
@@ -82,3 +65,5 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-ur
 
 [contribute-url]: contributing/Contribute.md
 [coc-url]: contributing/CodeOfConduct.md
+
+[template-btn]: images/template-btn.svg

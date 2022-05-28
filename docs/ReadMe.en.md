@@ -1,19 +1,16 @@
-[![License](https://img.shields.io/badge/License-GPLv3-green?style=plastic)](License.gpl.en.md)
-[![Version](https://img.shields.io/github/v/release/nixe64/Home-Assistant-Blueprint?label=Version&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/releases)
-[![Contributors](https://img.shields.io/github/contributors-anon/nixe64/Home-Assistant-Blueprint?label=Cuntributorse&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/nixe64/Home-Assistant-Blueprint?label=Forks&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/network/members)
-[![Feature Requests](https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/feature-request.svg?style=plastic&label=Feature%20Requests)](https://github.com/nixe64/Home-Assistant-Blueprint/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
-[![Bugs](https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/bug.svg?style=plastic&label=Bug%Reports)](https://github.com/nixe64/Home-Assistant-Blueprint/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
+[![Version][version-badge]][version-url]
+[![License][license-badge]][my-license-url]
+[![german][german]][de]
+[![english][english]][en]
+[![empty][empty]][en]
+<!--
+[![Bugs][bugs-badge]][bugs-url]
+-->
+<br/>
+<br/>
+<br/>
 
-<div align="right">
-<details>
-<summary>🇬🇧</summary>
-    <a href="ReadMe.md">🇩🇪 deutsch</a><br/>
-    🇬🇧 english
-</details>
-</div>
-
-## Home Assistant Blueprint
+### Home Assistant Blueprint
 
 <br/>
 
@@ -26,77 +23,20 @@ to develop a new Home Assistant Integration (Custom Component).
 
 <br/>
 
-<!--
-## About The Project
-
-<p align="center">
-<a href="https://example.com"><img src="images/logo.jpg" alt="Projekt-Logo" width="348px"></a>
-</p>
-
-Derivative of the Home Assistant Integration "Amazon Polly".
-
-<!--
-### Built With
-
-This section should list any major frameworks/libraries needed to launch your project. Leave any add-ons/plugins for the Acknowledgments section. Here are a few examples.
-
-* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-* [Visual Studio Code](https://code.visualstudio.com/)
-
-## Getting Started
-
-To use this template for your own projects, just use the "Use this template" button
-on GitHub or fork this repository. If you put it in your .github repo
-on GitHub, the files in that repository will be used as default for your projects,
-that don't have their own community files yet (at least if you have an Enterprise Account).
+### Usage
 
 
-### Prerequisites
-
-Before you start editing your community files, you should become familiar with the syntax of the
-.md files on GitHub. A possible starting point would be the official documentation in [GitHub Docs](https://docs.github.com/en/enterprise-cloud@latest/get-started/writing-on-github/getting-started-with-writing-and-formatting) or the [Markdown Guide](https://www.markdownguide.org/basic-syntax).
-
-Also, it might help if you look around for a "badge maker" (such as
-[Shields.io](https://shields.io)) so you can decorate your files with some badges.
-
-I also recommend a development environment of your choice (e.g. Visual Studio Code) and some programs
-for image editing (i usually use GIMP and InkScape).
-
-### Installation
-
-This template does not rely on any external dependencies or services.
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-## Roadmap
-
-- [x] Implement change log.
-- [ ] Add extra templates with examples.
-- [ ] Add "Components" document to easily copy sections of community files
-- [ ] Multi-language support
-     - [ ] Chinese
-     - [x] German
-     - [x] English
-     - [ ] Spanish
-
-For a complete list of proposed features (and known issues), see [open issues](https://github.com/othneildrew/Best-README-Template/issues).
-
-## Contributing
+### Contributing
 
 Contributions are what make the open source community such a great place to learn, inspire, and create. Any contributions you make are **much appreciated**.
 
 If interested, please read [Contributing to my projects](contributing/Contribute.en.md) and the [Contributor Covenant Code of Conduct](contributing/CodeOfConduct.en.md).
 -->
 
-## License
+### License
 
 Licensed under the [GNU General Public License v3.0](../LICENSE.en.md).
 
-<!-- 
 ## Contact
 
 Andreas Nixdorf \([nixe64](https://github.com/nixe64/")\)
@@ -104,10 +44,3 @@ Andreas Nixdorf \([nixe64](https://github.com/nixe64/")\)
 If you have suggestions for new features or would like to report a bug, please use the GitHub Issues.
 
 If you want to collaborate on this template, just send me a pull request.
-
-
-## Acknowledgments
-
-Thanks to <a href="(https://github.com/othneildrew">Othneil Drew</a> for his great 
-["Best-README-Template"](https://github.com/othneildrew/Best-README-Template).
--->
