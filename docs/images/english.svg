@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="52"
-   height="15"
-   viewBox="0 0 13.758332 3.96875"
+   width="70"
+   height="18"
+   viewBox="0 0 18.520832 4.7625"
    version="1.1"
    id="svg4027"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -42,7 +42,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="23.41581"
+     inkscape:cx="13.59839"
      inkscape:cy="3.0645485"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -69,11 +69,11 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-293.03125)">
+     transform="translate(0,-292.2375)">
     <g
        clip-path="url(#s)"
        id="g3903"
-       transform="matrix(0.11759279,0,0,0.11759259,6.7027897,293.03125)">
+       transform="matrix(0.15875027,0,0,0.15875,9.0487663,292.23749)">
       <path
          d="M 0,0 V 30 H 60 V 0 Z"
          id="path3893"
@@ -102,27 +102,27 @@
          style="stroke:#c8102e;stroke-width:6" />
     </g>
     <rect
-       width="6.7027888"
-       height="3.5277777"
+       width="9.0487652"
+       height="4.7624998"
        id="rect3982"
-       x="4.8145114e-07"
-       y="293.03125"
-       style="fill:#b22234;stroke-width:0.00090456" />
+       x="6.4995908e-07"
+       y="292.23749"
+       style="fill:#b22234;stroke-width:0.00122116" />
     <path
-       d="m 0,293.4383 h 6.70279 m 0,0.54274 H 0 m 0,0.54273 h 6.70279 m 0,0.54274 H 0 m 0,0.54273 h 6.70279 m 0,0.54272 H 0"
+       d="m 0,292.78701 h 9.0487667 m 0,0.73269 H 0 m 0,0.73269 h 9.0487667 m 0,0.7327 H 0 m 0,0.73268 h 9.0487667 m 0,0.73268 H 0"
        id="path3984"
        inkscape:connector-curvature="0"
-       style="stroke:#ffffff;stroke-width:0.27136752" />
+       style="stroke:#ffffff;stroke-width:0.36634615" />
     <rect
-       width="2.6811156"
-       height="1.8995726"
+       width="3.6195061"
+       height="2.5644231"
        id="rect3986"
-       x="4.8145114e-07"
-       y="293.03125"
-       style="fill:#3c3b6e;stroke-width:0.00090456" />
+       x="6.4995908e-07"
+       y="292.23749"
+       style="fill:#3c3b6e;stroke-width:0.00122116" />
     <g
        id="g4011"
-       transform="matrix(9.0455618e-4,0,0,9.0455463e-4,0,293.03125)"
+       transform="matrix(0.00122115,0,0,0.00122115,0,292.23749)"
        style="fill:#ffffff">
       <g
          id="s18">
