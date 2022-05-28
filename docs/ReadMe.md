@@ -2,11 +2,12 @@
 [![License][license-badge]][my-license-url]
 ![german][german]
 [![english][english]][translation]
+![empty][empty]
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->
 
-## Home Assistant Blueprint
+### Home Assistant Blueprint
 <br/>
 
 [![Logo][logo]][project-url]
@@ -62,6 +63,7 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-ur
 [translation]: ReadMe.en.md
 [english]: images/english.svg
 [german]: images/german.svg
+[empty]: images/empty.svg
 
 [logo]: images/hassio-icon.png
 [project-url]: https://homeassistant.io
