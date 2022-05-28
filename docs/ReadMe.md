@@ -8,7 +8,6 @@
 -->
 <br/>
 <br/>
-<br/>
 
 ### Home Assistant Blueprint
 <br/>
@@ -24,7 +23,7 @@ für Entwicklung einer neuen Home Assistant Integration (Custom Component) anzul
 
 ### Verwendung
 
-Um diese Vorlage für dein eigenen Projekt zu verwenden, nutze einfach diesen Button ![btn][template-btn]  oder forke dieses Repository. 
+Um diese Vorlage für dein eigenen Projekt zu verwenden, nutze einfach diesen Button ![btn][template-btn] in der Repository-Ansicht auf GitHub oder klone dieses Repository. 
 
 ### Kontakt
 
