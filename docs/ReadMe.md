@@ -1,23 +1,17 @@
-[![License](https://img.shields.io/badge/Lizenz-GPLv3-green?style=plastic)](License.gpl.md)
-[![Version](https://img.shields.io/github/v/release/nixe64/Home-Assistant-Blueprint?label=Version&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/releases)
-[![Contributors](https://img.shields.io/github/contributors-anon/nixe64/Home-Assistant-Blueprint?label=Mitwirkende&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/nixe64/Home-Assistant-Blueprint?label=Forks&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/network/members)
-[![Feature Requests](https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/feature-request.svg?style=plastic&label=Verbesserungsvorschläge)](https://github.com/nixe64/Home-Assistant-Blueprint/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
-[![Bugs](https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/bug.svg?style=plastic&label=Fehlerberichte)](https://github.com/nixe64/Home-Assistant-Blueprint/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
-
-<div align="right">
-<details>
-<summary>🇩🇪</summary>
-    🇩🇪 deutsch<br/>
-    <a href="ReadMe.en.md">🇬🇧 english</a>
-</details>
-</div>
+<!--
+[![Version][version-badge]][version-url]
+-->
+[![License][license-badge]][my-license-url]
+![german](images/german.svg)
+[![english](images/english.svg)][translation]
+<!--
+[![Bugs][bugs-badge]][bugs-url]
+-->
 
 ## Home Assistant Blueprint
-
 <br/>
 
-[![Logo](images/hassio-icon.png)](https://aws.amazon.com/de/polly/)
+[![Logo][logo]](https://aws.amazon.com/de/polly/)
 
 <br/>
 
@@ -105,3 +99,21 @@ Wenn du an dieser Vorlage mitarbeiten möchtest, sende mir einfach einen Pull-Re
 
 Mein Dank geht an [Othneil Drew](https://github.com/othneildrew) für seine großartige [ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template).
 -->
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[translation]: ReadMe.en.md
+[logo]: images/hassio-icon.png
+
+
+[license-badge]: images/lizenz.svg
+[my-license-url]: ../License.md
+[orig-license-url]: License.gpl.md
+
+[version-badge]: images/version.svg
+[version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
+
+[bugs-badge]: https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/bug.svg?label=Fehlerberichte&color=informational
+[bugs-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug
+
