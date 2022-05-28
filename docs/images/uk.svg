@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 2 0.7"
+   viewBox="0 0 2 0.8"
    width="40"
-   height="14"
+   height="16"
    version="1.1"
    id="svg3905"
    sodipodi:docname="uk.svg"
@@ -42,7 +42,7 @@
      id="namedview3907"
      showgrid="false"
      inkscape:zoom="19.733333"
-     inkscape:cx="12.526791"
+     inkscape:cx="4.6467233"
      inkscape:cy="2.1685898"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -65,7 +65,7 @@
   <g
      clip-path="url(#s)"
      id="g3903"
-     transform="scale(0.02333333)">
+     transform="matrix(0.02666667,0,0,0.02666667,0,1e-5)">
     <path
        d="M 0,0 V 30 H 60 V 0 Z"
        id="path3893"

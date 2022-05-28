@@ -9,8 +9,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="40"
-   height="14"
-   viewBox="0 0 240 84"
+   height="16"
+   viewBox="0 0 240 96"
    version="1.1"
    id="svg4013"
    sodipodi:docname="usa.svg"
@@ -43,34 +43,34 @@
      id="namedview4015"
      showgrid="false"
      inkscape:zoom="13.558128"
-     inkscape:cx="11.567487"
+     inkscape:cx="0.098352028"
      inkscape:cy="-4.8860679"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4013" />
   <rect
-     width="159.60001"
-     height="84"
+     width="182.40001"
+     height="96"
      id="rect3982"
      x="0"
-     y="0"
-     style="fill:#b22234;stroke-width:0.02153846" />
+     y="-3.8146973e-06"
+     style="fill:#b22234;stroke-width:0.02461538" />
   <path
-     d="m 0,9.6923 h 159.6 m 0,12.9231 H 0 m 0,12.9231 h 159.6 m 0,12.923 H 0 m 0,12.9231 h 159.6 m 0,12.9231 H 0"
+     d="m 0,11.076913 h 182.4 m 0,14.769257 H 0 m 0,14.769257 h 182.4 m 0,14.769145 H 0 m 0,14.769255 h 182.4 m 0,14.769259 H 0"
      id="path3984"
      inkscape:connector-curvature="0"
-     style="stroke:#ffffff;stroke-width:6.46153831" />
+     style="stroke:#ffffff;stroke-width:7.38461637" />
   <rect
-     width="63.84"
-     height="45.23077"
+     width="72.959999"
+     height="51.692318"
      id="rect3986"
      x="0"
-     y="0"
-     style="fill:#3c3b6e;stroke-width:0.02153846" />
+     y="-3.8146973e-06"
+     style="fill:#3c3b6e;stroke-width:0.02461538" />
   <g
      id="g4011"
-     transform="scale(0.02153846)"
+     transform="matrix(0.02461538,0,0,0.02461538,0,-4.0264718e-6)"
      style="fill:#ffffff">
     <g
        id="s18">

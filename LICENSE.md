@@ -1,20 +1,14 @@
-[![License](https://img.shields.io/badge/Lizenz-GPLv3-green?style=plastic)](docs/License.gpl.md)
-[![Version](https://img.shields.io/github/v/release/nixe64/Home-Assistant-Reloaded?label=Version&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/releases)
-
-<div align="right">
-<details>
-<summary>🇩🇪</summary>
-    🇩🇪 deutsch<br/>
-    <a href="LICENSE.en.md">🇬🇧 english</a>
-</details>
-</div>
+[![Version][version-badge]][version-url]
+[![License][license-badge]][orig-license-url]
+![german][german]
+[![english][english]][translation]
 
 ### Home Assistant Blueprint
 
 Copyright © 2022, Andreas Nixdorf.
 
 Dieses Programm ist freie Software. Sie können es unter den
-Bedingungen der [Allgemeinen Öffentlichen GNU-Lizenz \(GPL\)](docs/License.gpl.md), wie von der Free
+Bedingungen der [Allgemeinen Öffentlichen GNU-Lizenz \(GPL\)][orig-license-url], wie von der Free
 Software Foundation veröffentlicht, weitergeben und/oder
 modifizieren, entweder gemäß Version 3 der Lizenz oder (nach
 Ihrer Option) jeder späteren Version.
@@ -26,7 +20,7 @@ sogar ohne die implizite Garantie der **Marktreife** oder der
 der GPL.
 
 Sie sollten ein Exemplar der Allgemeinen Öffentlichen GNU-Lizenz zusammen
-mit diesem Programm erhalten haben. Falls nicht, siehe [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/).
+mit diesem Programm erhalten haben. Falls nicht, siehe <http://www.gnu.org/licenses/>.
 
 <br/>
 
@@ -49,12 +43,32 @@ Sollten der o.a. Gewährleistungsausschluß und die o.a. Haftungsbegrenzung aufg
 
 Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Blueprints.
 
-[Home Assistant Blueprints](https://www.home-assistant.io/docs/automation/using_blueprints/)<br/>
+[Home Assistant Blueprints][project-url]<br/>
 Copyright © home-assistant.io<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0](docs/License.apache.md).
 
-![Germany](docs/images/germany.svg)
+![Germany][germany]
 Von SKopp, Madden, and other users - Eigenes Werk, Gemeinfrei, <https://commons.wikimedia.org/w/index.php?curid=343071>
 
-![US-UK](docs/images/us-uk.svg)
-The original uploader was Skipper Michael at Palatine German Wikipedia., CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+![UK][uk]
+Von Original: Acts of Union 1800 Vektor: Zscout370 - Eigenes Werk, basierend auf: United Kingdom at Flag of the WorldUnited Kingdom Flag at the Flag Institute, Gemeinfrei, <https://commons.wikimedia.org/w/index.php?curid=347935>
+
+![USA][usa]
+Von Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation of U. S. Code: Title 4, Chapter 1, Section 1 [1] (the United States Federal &quot;Flag Law&quot;)., Gemeinfrei, <https://commons.wikimedia.org/w/index.php?curid=318418>
+
+
+[translation]: LICENSE.en.md
+[english]: docs/images/english.svg
+[german]: docs/images/german.svg
+[germany]: docs/images/germany.svg
+[uk]: docs/images/uk.svg
+[usa]: docs/images/usa.svg
+
+[logo]: images/hassio-icon.png
+[project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
+
+[license-badge]: docs/images/lizenz.svg
+[orig-license-url]: docs/License.gpl.md
+
+[version-badge]: docs/images/version.svg
+[version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
