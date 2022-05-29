@@ -45,17 +45,21 @@ Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Bluepri
 Copyright © home-assistant.io<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][preceding-license].
 
-<a href="https://commons.wikimedia.org/w/index.php?curid=343071"><img src="docs/images/germany.svg" align="left"/></a>
-<p>© SKopp, Madden und andere - Eigenes Werk, Public Domain.</p>
-
-<a href="https://commons.wikimedia.org/w/index.php?curid=347935"><img src="docs/images/uk.svg" align="left" /></a>
-<p>© Acts of Union 1800 Vektor: Zscout370 - Eigenes Werk, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute, Public Domain.
-
-<a href="https://commons.wikimedia.org/w/index.php?curid=318418"><img src="docs/images/usa.svg" align="left" /></a>
-<p>© Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation of U. S. Code: Title 4, Chapter 1, Section 1 [1] (the United States Federal "Flag Law"), Public Domain.
-
-<a href="[shields-url]: https://uptimerobot.com/terms/"><img src="docs/images/shields-logo.svg" align="left" /></a>
-<p>© Alle Shields und Badges werden von Shields.io generiert, einer Dienstleistung der Uptime Robot Service Provider Ltd. mit dem Recht zur freien Nutzung.</p>
+<table border="0">
+<tr><td>
+<a href="https://commons.wikimedia.org/w/index.php?curid=343071"><img src="docs/images/germany.svg" align="left"/></a></td><td>
+<p valign="center">© SKopp, Madden und andere - Eigenes Werk, Public Domain.</p>
+</td></tr><tr><td>
+<a href="https://commons.wikimedia.org/w/index.php?curid=347935"><img src="docs/images/uk.svg" align="left" /></a></td><td valign="center">
+<p>© Acts of Union 1800 Vektor: Zscout370 - Eigenes Werk, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute, Public Domain.</p>
+</td></tr><tr><td>
+<a href="https://commons.wikimedia.org/w/index.php?curid=318418"><img src="docs/images/usa.svg" align="left" /></a></td><td>
+<p valign="center">© Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation of U. S. Code: Title 4, Chapter 1, Section 1 [1] (the United States Federal "Flag Law"), Public Domain.</td></tr>
+<tr><td>
+<a href="[shields-url]: https://uptimerobot.com/terms/"><img src="docs/images/shields-logo.svg" align="left" /></a></td><td>
+<p valign="center">© Alle Shields und Badges werden von Shields.io generiert, einer Dienstleistung der Uptime Robot Service Provider Ltd. mit dem Recht zur freien Nutzung.</p>
+</td></tr>
+</table>
 
 [de]: LICENSE.md
 [en]: LICENSE.en.md
