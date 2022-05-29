@@ -1,8 +1,7 @@
+<a href="LICENSE.en.md"><img src="docs/images/english.svg" valign="top" align="right"/></a>
+<a href="LICENSE.md"><img src="docs/images/german.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][orig-license-url]
-[![german][german]][de]
-[![english][english]][en]
-[![empty][empty]][de]
 
 ### Home Assistant Blueprint
 

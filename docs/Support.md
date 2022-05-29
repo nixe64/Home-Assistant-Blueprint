@@ -25,7 +25,7 @@ Der technische Support für die Software in meinen Repositories ist nur sehr ein
 
 **Die Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen von Nutzen ist, aber ohne irgeneine Garantie der Marktreife oder der Verwendbarkeit für einen bestimmten Zweck.**
 
-Soweit es mir möglich ist, helfe ich jedoch gern, wenn es irgendwo klemmt.
+Wenn es irgendwo klemmt, helfe ich aber trotzdem (soweit es mir möglich ist).
 
 [de]: Support.md
 [en]: Support.en.md

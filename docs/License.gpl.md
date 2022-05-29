@@ -2,7 +2,6 @@
 <a href="https://opensource.org/licenses/GPL-3.0/"><img src="images/empty-10px.svg" valign="top" align="right"/></a>
 <a href="License.gpl.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
 <a href="License.gpl.md"><img src="images/german-license.svg" valign="top" align="right"/></a>
-<br/>
 
 ### Allgemeine Öffentliche GNU-Lizenz (GNU General Public License)
 
@@ -18,7 +17,7 @@ und unveränderte Kopien zu verbreiten.<br/>
 **Diese Übersetzung ist kein rechtskräftiger Ersatz für die
 [englischsprachige Originalversion][english-license]!**
 
-<br/>
+<br/><br/>
 
 ### Vorwort
 

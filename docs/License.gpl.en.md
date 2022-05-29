@@ -1,11 +1,8 @@
-  <a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
-<div align="right">
-<details>
-<summary>🇬🇧</summary>
-    <a href="License.md">🇩🇪 deutsch</a><br/>
-    🇬🇧 english
-</details>
-</div>
+<a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" src="images/osi-approved-license.svg" align="right"/></a>
+<a href="https://opensource.org/licenses/GPL-3.0/"><img src="images/empty-10px.svg" valign="top" align="right"/></a>
+<a href="License.gpl.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
+<a href="License.gpl.md"><img src="images/german-license.svg" valign="top" align="right"/></a>
+<br/>
 
 ### GNU General Public License
 
@@ -14,12 +11,11 @@
 **Copyright © 2007 Free Software Foundation, Inc.
 (<a href="http://fsf.org">http://fsf.org</a>)**
 
-<img src="images/1x1.png" height="50" width="1" />
-
 Everyone is permitted to copy and distribute verbatim copies of
-this license document, but changing it is not allowed.
+this license document, but changing it is not allowed.<br/>
 This page mirrors the text from
 [http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licenses/gpl-3.0.html).
+<br/>
 <br/>
 <br/>
 
