@@ -1,77 +1,33 @@
-<div align="right">
-<details>
-<summary>🇩🇪</summary>
-    🇩🇪 deutsch<br/>
-    <a href="ProjectReadMe en.md">🇬🇧 english</a>
-</details>
-</div>
-
+[![Version][version-badge]][version-url]
+[![License][license-badge]][my-license-url]
+[![german][german]][de]
+[![english][english]][en]
+[![empty][empty]][de]
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
+[![Bugs][bugs-badge]][bugs-url]
 -->
+<br/>
+<br/>
 
+### Home Assistant Blueprint
+<br/>
 
+[![Logo][logo]][project-url]
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-<p>
-<img src="https://img.shields.io/github/license/nixe64/.github?label=Lizenz&style=plastic" alt="Lizenz" />
-<img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
-<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Mitwirkende&style=plastic" alt="Mitwirkende" />
-<img src="https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic" alt="Forks" />
-<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Probleme&style=plastic" alt="Probleme" />
- <p>
+<br/>
 
+### Über das Projekt
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Die beste ReadMe-Vorlage</h3>
-
-  <p align="center">
-    Eine fantastische ReadMe-Vorlage, um deine Projekte zu starten!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Durchsuche die Dokumentation</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template">Demo ansehen</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Fehler melden</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">zusätzlich Funktionalität anfordern</a>
-  </p>
-</div>
-
-<!-- ABOUT THE PROJECT -->
-## Über das Projekt
-
-<p align="center">
-<a href="https://example.com"><img src="images/logo.jpg" alt="Projekt-Logo" width="348px"></a>
-</p>
+[![screenshot][screenshot]][example-url]
 
 Hier ist eine leere Vorlage für den Anfang: Damit du nicht zu viele Informationen wiederholen musst, suche und ersetze mit deinem Texteditor folgendes: `github_username`, `repo_name`, `project_title`, `project_description`
 
 ### erstellt mit
 
-* [Die beste ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template)
-* [Visual Studio Code](https://code.visualstudio.com/)
+[![vscode][vscode]][vscode-url]
+[![python][python]][python-url]
 
-
-<!-- GETTING STARTED -->
-## Einstieg
+### Einstieg
 
 Dies ist ein Beispiel dafür, wie du Anweisungen zur lokalen Einrichtung deines Projekts geben kannst.
 Befolgen Sie diese einfachen Beispielschritte, um eine lokale Kopie zum Laufen zu bringen.
@@ -85,9 +41,10 @@ Dies ist ein Beispiel dafür, wie du Dinge auflisten kannst, die zur Verwendung 
    npm install npm@latest -g
    ```
 
-##### Installation
+### Installation
 
-1. Klone das Repository
+1. Hole dir einen kostenlosen API-Schlüssel von <https://example.com>
+2. Klone das Repository
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
@@ -96,47 +53,68 @@ Dies ist ein Beispiel dafür, wie du Dinge auflisten kannst, die zur Verwendung 
    npm install
    ```
 
-<!-- USAGE EXAMPLES -->
-## Verwendung
+### Verwendung
 
 Nutze diesen Bereich, um zu zeigen, wie dein Projekt verwendet werden kann. Zusätzliche Screenshots, Codebeispiele und Demos eignen sich gut für diesen Bereich. Du kannst auch auf andere Ressourcen verlinken.
 
-*Weitere Beispiele finden Sie in der [Dokumentation](https://example.com)*.
+*Weitere Beispiele finden Sie in der [Dokumentation][example-url]*.
 
-<!-- ROADMAP -->
-#### Roadmap
+### Neue Feature / Fehlerberichte
+
+Wenn du Vorschläge für neue Features hast oder einen Fehler melden möchtest, nutze bitte die [GitHub Issues][issues-url].
+
+### Mitwirkung
+
+Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum Lernen, Inspirieren und Schaffen. Ich würde mich freuen, wenn du ein neues Feature, einen Bugfix oder irgendetwas anderes zu diesem Projekt beitragen möchtest. Es ist alles willkommen, daß dieses Projekt voran bringt. Aber bitte lese zuerst [Mitwirkung][contribute-url] an meinen Projekten und den [Verhaltenskodex][coc-url] für Mitwirkende, **bevor** du mit dem Programmieren beginnst.
+ 
+### Roadmap
 
 - [ ] Funktionalität 1
 - [ ] Funktionalität 2
 - [ ] Funktionalität 3
     - [ ] Teil-Funktionalität von Funktionalität 3
 
-Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme) findest du unter [Issues](https://github.com/othneildrew/Best-README-Template/issues).
+Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme) findest du unter [Issues][issues-url].
 
-<!-- CONTRIBUTING -->
-## Mitwirkung
-
-Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum Lernen, Inspirieren und Schaffen. Alle Beiträge, die du leistet, werden **sehr geschätzt**.
-
-Bei Interesse, lies bitte [Mitwirkung an meinen Projekten](contributing/Contribute.md) und den [Verhaltenskodex für Mitwirkende](contributing/CodeOfConduct.md).
-
-<!-- LICENSE -->
-## Lizenz
-
-Lizensiert unter der [Allgemeinen Öffentlichen GNU-Lizenz, Version 3](License.md).
-
-<!-- CONTACT -->
-## Kontakt
-
-Andreas Nixdorf \([nixe64](https://github.com/nixe64/")\)
-       
-Wenn du Vorschläge für neue Features hast oder einen Fehler melden möchtest, nutze bitte die GitHub Issues.
-
-Wenn du an diesem Projekt mitarbeiten möchtest, sende mir einfach einen Pull-Request.
-
-<!-- ACKNOWLEDGMENTS -->
-## Anerkennung / Danksagungen
+### Anerkennung / Danksagungen
 
 * []()
 * []()
 * []()
+
+### Lizenz
+
+Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-url].
+
+[de]: ProjectReadMe.md
+[en]: ProjectReadMe.en.md
+[english]: images/english.svg
+[german]: images/german.svg
+[empty]: images/empty.svg
+
+[logo]: images/hassio-icon.png
+[project-url]: https://homeassistant.io
+[screenshot]: images/screenshot.png
+[example-url]: https://www.example.com
+
+[license-badge]: images/lizenz.svg
+[my-license-url]: ../License.md
+[orig-license-url]: License.gpl.md
+
+[version-badge]: images/version.svg
+[version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
+
+[issues-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues
+[bugs-badge]: https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/bug.svg?label=Fehlerberichte&color=informational
+[bugs-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug
+
+[contribute-url]: contributing/Contribute.md
+[coc-url]: contributing/CodeOfConduct.md
+
+[template-btn]: images/template-btn.svg
+
+[python]: images/python-badge.svg
+[python-url]: https://www.python.com/
+
+[vscode]: images/vscode-badge.svg
+[vscode-url]: https://code.visualstudio.com/

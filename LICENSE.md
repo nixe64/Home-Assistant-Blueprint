@@ -46,17 +46,19 @@ Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Bluepri
 
 [Home Assistant Blueprints][project-url]<br/>
 Copyright © home-assistant.io<br/>
-Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0](docs/License.apache.md).
+Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][preceding-license].
 
-![Germany][germany]
-Von SKopp, Madden, and other users - Eigenes Werk, Gemeinfrei, <https://commons.wikimedia.org/w/index.php?curid=343071>
+[![Germany][germany]][germany-url]
+©[![tab]][germany-url]SKopp, Madden und andere - Eigenes Werk, [Public Domain][germany-url].
 
-![UK][uk]
-Von Original: Acts of Union 1800 Vektor: Zscout370 - Eigenes Werk, basierend auf: United Kingdom at Flag of the WorldUnited Kingdom Flag at the Flag Institute, Gemeinfrei, <https://commons.wikimedia.org/w/index.php?curid=347935>
+[![UK][uk]][uk-url]
+©[![tab]][uk-url]Acts of Union 1800 Vektor: Zscout370 - Eigenes Werk, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute, [Public Domain][uk-url].
 
-![USA][usa]
-Von Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation of U. S. Code: Title 4, Chapter 1, Section 1 [1] (the United States Federal &quot;Flag Law&quot;)., Gemeinfrei, <https://commons.wikimedia.org/w/index.php?curid=318418>
+[![USA][usa]][usa-url]
+©[![tab]][usa-url]Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation of U. S. Code: Title 4, Chapter 1, Section 1 [1] (the United States Federal "Flag Law")., [Public Domain][usa-url].
 
+[![Shields][shields]][shields-url]
+©[![tab]][shields-url]Alle Shields und Badges werden von Shields.io generiert, einer Dienstleistung der Uptime Robot Service Provider Ltd. mit dem [Recht zur freien Nutzung][shields-url].
 
 [de]: LICENSE.md
 [en]: LICENSE.en.md
@@ -67,12 +69,22 @@ Von Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation o
 [uk]: docs/images/uk.svg
 [usa]: docs/images/usa.svg
 [empty]: docs/images/empty.svg
+[tab]: docs/images/empty-10px.svg
 
 [logo]: images/hassio-icon.png
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
 [license-badge]: docs/images/lizenz.svg
 [orig-license-url]: docs/License.gpl.md
+[preceding-license]: docs/License.apache.md
 
 [version-badge]: docs/images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
+
+
+[shields]: docs/images/shields-logo.svg
+[shields-url]: https://uptimerobot.com/terms/
+
+[germany-url]: https://commons.wikimedia.org/w/index.php?curid=343071
+[uk-url]: https://commons.wikimedia.org/w/index.php?curid=347935
+[usa-url]: https://commons.wikimedia.org/w/index.php?curid=318418

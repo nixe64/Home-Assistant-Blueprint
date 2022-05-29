@@ -1,35 +1,29 @@
-<a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
-<div align="right">
-<details>
-<summary>🇩🇪</summary>
-    🇩🇪 deutsch<br/>
-    <a href="License.en.md">🇬🇧 english</a>
-</details>
-</div>
+<a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" src="images/osi-approved-license.svg" align="right"/></a>
+<a href="https://opensource.org/licenses/GPL-3.0/"><img src="images/empty-10px.svg" valign="top" align="right"/></a>
+<a href="License.gpl.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
+<a href="License.gpl.md"><img src="images/german-license.svg" valign="top" align="right"/></a>
+<br/>
 
-### GNU General Public License
+### Allgemeinen Öffentlichen GNU-Lizenz (GNU General Public License)
 
 **Deutsche Übersetzung der Version 3, 29. Juni 2007**
 
 **Copyright © 2007 Free Software Foundation, Inc.
-[http://fsf.org/](http://fsf.org/)**
-
-<img src="images/1x1.png" height="50" width="1" />
+<http://fsf.org/>**
 
 Es ist jedermann gestattet, diese Lizenzurkunde zu vervielfältigen
-und unveränderte Kopien zu verbreiten; Änderungen sind jedoch
-nicht erlaubt.
-
+und unveränderte Kopien zu verbreiten.<br/>
+Änderungen sind jedoch nicht erlaubt.
 
 **Diese Übersetzung ist kein rechtskräftiger Ersatz für die
-[englischsprachige Originalversion](License.en.md)!**
+[englischsprachige Originalversion][english-license]!**
 
 <br/>
 
 ### Vorwort
 
-Die GNU General Public License – die Allgemeine Öffentliche
-GNU-Lizenz – ist eine freie Copyleft-Lizenz für Software und
+Die die Allgemeine Öffentliche GNU-Lizenz – GNU General Public 
+License – ist eine freie Copyleft-Lizenz für Software und
 andere Arten von Werken.
 
 Die meisten Lizenzen für Software und andere nutzbaren Werke sind
@@ -653,7 +647,7 @@ solche anwendbar.
 #### 14. Überarbeitungen dieser Lizenz
 
 Die Free Software Foundation kann von Zeit zu Zeit überarbeitete
-und/oder neue Versionen der <em>General Public License</em>
+und/oder neue Versionen der *General Public License*
 veröffentlichen. Solche neuen Versionen werden vom Grundprinzip
 her der gegenwärtigen entsprechen, können aber im Detail
 abweichen, um neuen Problemen und Anforderungen gerecht zu werden.
@@ -661,7 +655,7 @@ abweichen, um neuen Problemen und Anforderungen gerecht zu werden.
 Jede Version dieser Lizenz hat eine eindeutige Versionsnummer.
 Wenn in einem Programm angegeben wird, daß es dieser Lizenz in
 einer bestimmten Versionsnummer „oder jeder späteren
-Version“ <em>(“or any later version ”)</em>
+Version“ *(“or any later version ”)*
 unterliegt, so haben Sie die Wahl, entweder den Bestimmungen der
 genannten Version zu folgen oder denen jeder beliebigen späteren
 Version, die von der Free Software Foundation veröffentlicht
@@ -729,8 +723,9 @@ möglichst deutlich darzustellen; zumindest aber sollte jede Datei
 die „Copyright“-Zeile besitzen sowie einen kurzen
 Hinweis darauf, wo die vollständigen Vermerke zu finden sind.
 
-<pre>[<i>eine Zeile mit dem Programmnamen und einer kurzen Beschreibung</i>]
-Copyright (C) [<i>Jahr</i>]  [<i>Name des Autors</i>]
+```
+[eine Zeile mit dem Programmnamen und einer kurzen Beschreibung]
+Copyright (C) [Jahr]  [Name des Autors]
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License as
@@ -745,13 +740,13 @@ General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, see
 <http://www.gnu.org/licenses/>.
-</pre>
+```
 
 Auf Deutsch:
 
-<pre>
-[<i>eine Zeile mit dem Programmnamen und einer kurzen Beschreibung</i>]
-Copyright (C) [<i>Jahr</i>]  [<i>Name des Autors</i>]
+```
+[eine Zeile mit dem Programmnamen und einer kurzen Beschreibung]
+Copyright (C) [Jahr]  [Name des Autors]
 
 Dieses Programm ist freie Software. Sie können es unter den
 Bedingungen der GNU General Public License, wie von der Free
@@ -768,7 +763,7 @@ der GNU General Public License.
 Sie sollten ein Exemplar der GNU General Public License zusammen
 mit diesem Programm erhalten haben. Falls nicht, siehe
 <http://www.gnu.org/licenses/>.
-</pre>
+```
 
 Fügen Sie auch einen kurzen Hinweis hinzu, wie Sie elektronisch
 und per Brief erreichbar sind.
@@ -777,28 +772,26 @@ Wenn Ihr Programm interaktive Befehle in einem Terminal
 entgegennimmt, sorgen Sie dafür, daß es nach dem Start einen
 kurzen Vermerk ausgibt:
 
-<pre>
-[Programm]  Copyright (C)
-[<i>Jahr</i>]  [<i>Name des Autors</i>]
+```
+[Programm]  Copyright (C) [Jahr]  [Name des Autors]
 This program comes with ABSOLUTELY NO WARRANTY; for details type
 ‘show w’.
 This is free software, and you are welcome to redistribute it
 under certain conditions; type ‘show c’ for details.
-</pre>
+```
 
 Auf Deutsch:
 
-<pre>
-[Programm]  Copyright (C)
-[<i>Jahr</i>]  [<i>Name des Autors</i>]
+```
+[Programm]  Copyright (C) [Jahr]  [Name des Autors]
 Für dieses Programm besteht KEINERLEI GARANTIE; geben Sie
 "show w" für Details ein.
 Dies ist freie Software, die Sie unter bestimmten Bedingungen
 weitergeben dürfen; geben Sie "show c" für Details ein.
-</pre>
+```
 
-Die hypothetischen Kommandos „<code>show w</code>“ und
-„<code>show c</code>“ sollten die entsprechenden Teile
+Die hypothetischen Kommandos „```show w```“ und
+„```show c```“ sollten die entsprechenden Teile
 der GNU-GPL anzeigen. Natürlich können die von Ihnen verwendeten
 Kommandos auch anders lauten; für ein Programm mit graphischer
 Benutzeroberfläche werden Sie sicherlich eine
@@ -808,31 +801,41 @@ Soweit vorhanden, sollten Sie auch Ihren Arbeitgeber (wenn Sie als
 Programmierer arbeiten) oder Ihre Schule einen Urheberrechteverzicht
 für das Programm unterschreiben lassen. Für weitere Informationen
 darüber und wie Sie die GNU GPL anwenden und befolgen, siehe
-[http://www.gnu.org/licenses/](http://www.gnu.org/licenses).
+<http://www.gnu.org/licenses>.
 
-Diese <em>General Public License</em> gestattet nicht die
+Diese *General Public License* gestattet nicht die
 Einbindung Ihres Programms in proprietäre Programme. Wenn Ihr
 Programm eine Funktionsbibliothek ist, dann kann es sinnvoller
 sein, das Linken proprietärer Programme mit dieser Bibliothek zu
 gestatten. Wenn dies Ihre Absicht ist, sollten Sie die
-<a href="http://www.gnu.de/documents/lgpl.de.html">GNU Lesser
-General Public License</a> anstelle dieser Lizenz verwenden. Lesen
-Sie aber bitte vorher
-[http://www.gnu.org/philosophy/why-not-lgpl.html](http://www.gnu.org/philosophy/why-not-lgpl.html).
+[GNU Lesser General Public License][lgpl-url] anstelle dieser Lizenz verwenden. 
+Lesen Sie aber bitte vorher <http://www.gnu.org/philosophy/why-not-lgpl.html>.
 
-<p align="center">* * *</p>
+##
 
 Copyright-Notiz des englischsprachigen Orignals:<br/>
-Copyright notice above.<br>
+Copyright notice above.<br/>
 51 Franklin Street, Fifth Floor, Boston, MA 02110, USA<br/>
-Verbatim copying and distribution of this entire article is
-permitted in any medium without royalty provided this notice is
+Verbatim copying and distribution of this entire article is<br/>
+permitted in any medium without royalty provided this notice is<br/>
 preserved.
 
 Übersetzung:<br/>
 Copyright-Notiz siehe oben.<br/>
 51 Franklin Street, Fifth Floor, Boston, MA 02110, USA<br/>
-Es ist gebührenfrei gestattet, diesen Artikel als Ganzes und
-unverändert in beliebigen Medien zu kopieren und weiterzugeben,
+Es ist gebührenfrei gestattet, diesen Artikel als Ganzes und<br/>
+unverändert in beliebigen Medien zu kopieren und weiterzugeben,<br/>
 sofern dieser Hinweis erhalten bleiben.
 
+
+[de]: License.mit.md
+[en]: License.mit.en.md
+[english]: images/english.svg
+[german]: images/german-license.svg
+[empty]: images/empty.svg
+
+[osi-logo]: images/osi-approved-license.svg
+[osi-url]: https://opensource.org/licenses/GPL-3.0
+
+[english-license]: License.gpl.en.md
+[lpgl-url]: http://www.gnu.de/documents/lgpl.de.html

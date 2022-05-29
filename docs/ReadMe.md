@@ -19,21 +19,17 @@
 Weiterentwicklung eines Home Assistant Blueprints, um ein neues Repositorie mit der erforderlichen Verzeichnisstruktur und den wichtigsten Tools
 für Entwicklung einer neuen Home Assistant Integration (Custom Component) anzulegen.
 
-<br/>
-
 ### Verwendung
 
-Um diese Vorlage für dein eigenen Projekt zu verwenden, nutze einfach diesen Button ![btn][template-btn] in der Repository-Ansicht auf GitHub oder klone dieses Repository. 
+Um diese Vorlage für dein eigenes Projekt zu verwenden, nutze einfach diesen Button ![btn][template-btn] in der Repository-Ansicht auf GitHub oder klone dieses Repository. 
 
-### Kontakt
+### Neue Features / Fehlerberichte
 
 Wenn du Vorschläge für neue Features hast oder einen Fehler melden möchtest, nutze bitte die [GitHub Issues][issues-url].
 
 ### Mitwirkung
 
-Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum Lernen, Inspirieren und Schaffen. Alle Beiträge, die du leistet, werden **sehr geschätzt**.
-
-Bei Interesse, lies bitte [Mitwirkung][contribute-url] an meinen Projekten und den [Verhaltenskodex][coc-url] für Mitwirkende.
+Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum Lernen, Inspirieren und Schaffen. Ich würde mich freuen, wenn du ein neues Feature, einen Bugfix oder irgendetwas anderes zu diesem Projekt beitragen möchtest. Es ist alles willkommen, daß dieses Projekt voran bringt. Aber bitte lese zuerst [Mitwirkung][contribute-url] an meinen Projekten und den [Verhaltenskodex][coc-url] für Mitwirkende, **bevor** du mit dem Programmieren beginnst.
  
 ### Lizenz
 
@@ -41,7 +37,6 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-ur
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
 [de]: ReadMe.md
 [en]: ReadMe.en.md
 [english]: images/english.svg

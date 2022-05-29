@@ -1,12 +1,15 @@
-<div align="right">
-<details>
-<summary>🇩🇪</summary>
-    🇩🇪 deutsch<br/>
-    <a href="Security.en.md">🇬🇧 english</a>
-</details>
-</div>
+[![Version][version-badge]][version-url]
+[![License][license-badge]][license-url]
+[![german][german]][de]
+[![english][english]][en]
+[![empty][empty]][de]
 
-## Sicherheitsrichtlinie
+### Home Assistant Blueprint - Sicherrichtlinien
+<br/>
+
+[![Logo][logo]][project-url]
+
+<br/>
 
 ### Unterstützte Versionen
 
@@ -27,3 +30,20 @@ Verwende diesen Abschnitt, um anderen zu erklären, wie sie eine Sicherheitslüc
 
 Sag ihnen auch, wie sie eine Rückmeldung von dir oder deinem Team bekommen,
 ob die gemeldete Schwachstelle akzeptiert oder abgelehnt wurde.
+
+[de]: Security.md
+[en]: Security.en.md
+
+[english]: images/english.svg
+[german]: images/german.svg
+[empty]: images/empty.svg
+
+[logo]: images/hassio-icon.png
+[project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
+
+[license-badge]: images/lizenz.svg
+[license-url]: ../License.gpl.md
+
+[version-badge]: images/version.svg
+[version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
+
