@@ -26,7 +26,7 @@ This is free software and for that reason the [license agreement][license-url] a
 
 **This program is released in the hope that you will find it useful, but without any warranty of merchantability or fitness for a particular purpose.**
 
-But, as far as i can, i'm happy to help if something gets stuck.
+If something gets stuck, I'll still help (as far as I can).
 
 [de]: Support.md
 [en]: Support.en.md

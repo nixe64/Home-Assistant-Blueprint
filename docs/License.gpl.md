@@ -4,7 +4,7 @@
 <a href="License.gpl.md"><img src="images/german-license.svg" valign="top" align="right"/></a>
 <br/>
 
-### Allgemeinen Öffentlichen GNU-Lizenz (GNU General Public License)
+### Allgemeine Öffentliche GNU-Lizenz (GNU General Public License)
 
 **Deutsche Übersetzung der Version 3, 29. Juni 2007**
 
@@ -22,7 +22,7 @@ und unveränderte Kopien zu verbreiten.<br/>
 
 ### Vorwort
 
-Die die Allgemeine Öffentliche GNU-Lizenz – GNU General Public 
+Die Allgemeine Öffentliche GNU-Lizenz – GNU General Public 
 License – ist eine freie Copyleft-Lizenz für Software und
 andere Arten von Werken.
 
