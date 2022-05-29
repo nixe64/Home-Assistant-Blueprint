@@ -1,8 +1,7 @@
+<a href="Security.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
+<a href="Security.md"><img src="images/german.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][license-url]
-[![german][german]][de]
-[![english][english]][en]
-[![empty][empty]][de]
 
 ### Home Assistant Blueprint - Sicherrichtlinien
 <br/>

@@ -1,7 +1,6 @@
 <a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" src="images/osi-approved-license.svg" align="right"/></a>
-<a href="https://opensource.org/licenses/GPL-3.0/"><img src="images/empty-10px.svg" valign="top" align="right"/></a>
 <a href="License.gpl.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
-<a href="License.gpl.md"><img src="images/german-license.svg" valign="top" align="right"/></a>
+<a href="License.gpl.md"><img src="images/german.svg" valign="top" align="right"/></a>
 <br/>
 
 ### GNU General Public License
@@ -12,9 +11,9 @@
 (<a href="http://fsf.org">http://fsf.org</a>)**
 
 Everyone is permitted to copy and distribute verbatim copies of
-this license document, but changing it is not allowed.<br/>
-This page mirrors the text from
-[http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licenses/gpl-3.0.html).
+this license document.<br/>
+Changing it is not allowed. This page mirrors the text from
+<http://www.gnu.org/licenses/gpl-3.0.html>.
 <br/>
 <br/>
 <br/>
@@ -247,7 +246,7 @@ to produce it from the Program, in the form of source code under
 the terms of section 4, provided that you also meet all of these
 conditions:
 
-|     | Condition                                                         |
+|     | Condition to meet                                                 |
 |-----|-------------------------------------------------------------------|
 |  a) | The work must carry prominent notices stating that you modified it, and giving a relevant date.|
 |  b) | The work must carry prominent notices stating that it is released under this License and any conditions added under section 7. This requirement modifies the requirement in section 4 to  “keep intact all notices ”.|

@@ -1,23 +1,23 @@
 <a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" src="images/osi-approved-license.svg" align="right"/></a>
-<a href="https://opensource.org/licenses/GPL-3.0/"><img src="images/empty-10px.svg" valign="top" align="right"/></a>
 <a href="License.gpl.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
-<a href="License.gpl.md"><img src="images/german-license.svg" valign="top" align="right"/></a>
+<a href="License.gpl.md"><img src="images/german.svg" valign="top" align="right"/></a>
+<br/>
 
 ### Allgemeine Öffentliche GNU-Lizenz (GNU General Public License)
 
-**Deutsche Übersetzung der Version 3, 29. Juni 2007**
-
 **Copyright © 2007 Free Software Foundation, Inc.
 <http://fsf.org/>**
+
+**Deutsche Übersetzung der Version 3 vom 29. Juni 2007**
 
 Es ist jedermann gestattet, diese Lizenzurkunde zu vervielfältigen
 und unveränderte Kopien zu verbreiten.<br/>
 Änderungen sind jedoch nicht erlaubt.
 
 **Diese Übersetzung ist kein rechtskräftiger Ersatz für die
-[englischsprachige Originalversion][english-license]!**
+[englischsprachige Originalversion][en]!**
 
-<br/><br/>
+<br/>
 
 ### Vorwort
 
@@ -285,8 +285,8 @@ Modifikationen, um es aus dem Programm zu generieren, kopieren und
 §4, vorausgesetzt, daß Sie zusätzlich alle im folgenden
 genannten Bedingungen erfüllen:
 
-|   Ziffer   | zu erfüllende Bedingung |
-|------------|-------------------------|
+|     | zu erfüllende Bedingung |
+|- ---|-------------------------|
 |  a) | Das veränderte Werk muß auffällige Vermerke tragen, die besagen, daß Sie es modifiziert haben, und die ein darauf bezogenes Datum angeben.|
 |  b) | Das veränderte Werk muß auffällige Vermerke tragen, die besagen, daß es unter dieser Lizenz einschließlich der gemäß §7 hinzugefügten Bedingungen herausgegeben wird. Diese Anforderung wandelt die Anforderung aus §4 ab, „alle Hinweise intakt zu lassen“.|
 |  c) | Sie müssen das Gesamtwerk als Ganzes gemäß dieser Lizenz an jeden lizensieren, der in den Besitz einer Kopie gelangt. Diese Lizenz wird daher  – ggf. einschließlich zusätzlicher Bedingungen gemäß §7  – für das Werk als Ganzes und alle seine Teile gelten, unabhängig, wie diese zusammengepackt werden. Diese Lizenz erteilt keine Erlaubnis, das Werk in irgendeiner anderen Weise zu lizensieren, setzt  aber eine derartige Erlaubnis nicht außer Kraft, wenn Sie sie diese gesondert erhalten haben.|

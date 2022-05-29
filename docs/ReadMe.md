@@ -1,8 +1,7 @@
+<a href="ReadMe.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
+<a href="ReadMe.md"><img src="images/german.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][my-license-url]
-[![german][german]][de]
-[![english][english]][en]
-[![empty][empty]][de]
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->

@@ -1,13 +1,34 @@
-# Amazon Polly for Home Assistant
-![AWS Logo](images/amazon-polly.svg)
+<a href="INFO.en.md"><img src="docs/images/english.svg" valign="top" align="right"/></a>
+<a href="INFO.md"><img src="docs/images/german.svg" valign="top" align="right"/></a>
+[![Version][version-badge]][version-url]
+[![License][license-badge]][my-license-url]
 
-Custom Home Assistant integration for [Amazon Polly](https://aws.amazon.com/polly/)
+### Amazon Polly für Home Assistant
+<br/>
 
-This integration extents the [Amazon Polly Integration](https://www.home-assistant.io/integrations/amazon_polly/) of [Home Assistant](https://www.home-assistant.io/).
+[![Logo][logo]][polly-url]
 
-It allows the use of all configuration variables of the original Amazon Polly Integration in the Options field of the service call (e.g. amazon_polly_say). For security reasons the **aws_access_key_id** and **aws_secret_access_key** are excluded.
+<br/>
 
-#
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
-[![HACS](https://github.com/andreas-nixdorf-de/amazon_polly/actions/workflows/hacs-release.yml/badge.svg)](https://github.com/andreas-nixdorf-de/amazon_polly/actions/workflows/hacs-release.yml)
-[![hassfest](https://github.com/andreas-nixdorf-de/amazon_polly/actions/workflows/hass-validation.yml/badge.svg)](https://github.com/andreas-nixdorf-de/amazon_polly/actions/workflows/hass-validation.yml)
+Benutzerdefinierte Home Assistant-Integration für [Amazon Polly][polly-url]
+
+Diese Integration erweitert die [Amazon Polly Integration][hass-polly] von [Home Assistant][hass-url].
+
+Sie ermöglicht die Verwendung aller Konfigurationsvariablen der ursprünglichen Amazon Polly-Integration im Optionsfeld des Serviceaufrufs (i.d.R. amazon_polly_say). Aus Sicherheitsgründen sind **aws_access_key_id** und **aws_secret_access_key** ausgeschlossen.
+
+### Lizenz
+
+Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0 (GPL)][my-license-url]. Der [Quellcode][github] kann von meinem GitHub-Repository herunter geladen werden.
+
+[license-badge]: docs/images/lizenz.svg
+[my-license-url]: LICENSE.md
+
+[version-badge]: docs/images/version.svg
+[version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
+
+[logo]: docs/images/polly.png
+[polly-url]:https://aws.amazon.com/polly/
+
+[hass-url]: https://www.home-assistant.io/
+[hass-polly]: https://www.home-assistant.io/integrations/amazon_polly/
+[github]: https://github.com/nixe64/Home-Assistant-Blueprint

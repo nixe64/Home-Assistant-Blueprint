@@ -1,8 +1,7 @@
+<a href="LICENSE.en.md"><img src="docs/images/english.svg" valign="top" align="right"/></a>
+<a href="LICENSE.md"><img src="docs/images/german.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][orig-license-url]
-[![german][german]][de]
-[![english][english]][en]
-[![empty][empty]][de]
 
 ### Home Assistant Blueprint
 
@@ -78,7 +77,7 @@ Distributed with copyright under the [Apache license version 2.0](docs/License.a
 [logo]: images/hassio-icon.png
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
-[license-badge]: docs/images/lizenz.svg
+[license-badge]: docs/images/license.svg
 [orig-license-url]: docs/License.gpl.md
 [preceding-licsense]: docs/License.apache.en.md
 
