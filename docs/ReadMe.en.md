@@ -5,8 +5,6 @@
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->
-<br/>
-<br/>
 
 ### Home Assistant Blueprint
 <br/>
@@ -47,7 +45,7 @@ Licensed under the [GNU General Public License v3.0][my-license-url].
 [logo]: images/hassio-icon.png
 [project-url]: https://homeassistant.io
 
-[license-badge]: images/licence.svg
+[license-badge]: images/license.svg
 [my-license-url]: ../License.en.md
 [orig-license-url]: License.gpl.en.md
 

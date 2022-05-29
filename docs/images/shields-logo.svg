@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="40"
-   height="16"
-   viewBox="0 0 10.583333 4.2333334"
+   width="22.799999pt"
+   height="11pt"
+   viewBox="0 0 8.0433328 3.8805556"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -142,12 +142,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.4"
-     inkscape:cx="3.5428706"
+     inkscape:cx="8.9223349"
      inkscape:cy="10.915415"
-     inkscape:document-units="px"
+     inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="false"
-     units="px"
+     units="pt"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="0"
@@ -169,11 +169,11 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-292.76665)">
+     transform="translate(0,-293.11943)">
     <g
        id="g911"
        style="fill:url(#linearGradient944);fill-opacity:1"
-       transform="matrix(0.88888884,0,0,0.88888884,0,33.000012)">
+       transform="matrix(0.81481476,0,0,0.81481476,1.8658024,55.000012)">
       <rect
          y="292.23749"
          x="0.79375052"
@@ -210,7 +210,7 @@
     <g
        id="g936"
        style="fill:url(#linearGradient957);fill-opacity:1"
-       transform="matrix(0.88888884,0,0,0.88888884,0,33.000012)">
+       transform="matrix(0.81481476,0,0,0.81481476,1.8658024,55.000012)">
       <rect
          y="292.23749"
          x="2.6458335"

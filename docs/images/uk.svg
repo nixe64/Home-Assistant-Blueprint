@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 2 0.73333333"
-   width="30pt"
+   viewBox="0 0 1.52 0.73333333"
+   width="22.799999pt"
    height="11pt"
    version="1.1"
    id="svg3905"
@@ -42,13 +42,14 @@
      id="namedview3907"
      showgrid="false"
      inkscape:zoom="19.733333"
-     inkscape:cx="17.036926"
+     inkscape:cx="-3.182669"
      inkscape:cy="2.1685898"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3905"
-     units="pt" />
+     units="pt"
+     inkscape:document-units="pt" />
   <clipPath
      id="s">
     <path
@@ -66,7 +67,7 @@
   <g
      clip-path="url(#s)"
      id="g3903"
-     transform="matrix(0.02444444,0,0,0.02444444,0,1.0103333e-5)">
+     transform="matrix(0.02444444,0,0,0.02444444,0.02666667,1.0103333e-5)">
     <path
        d="M 0,0 V 30 H 60 V 0 Z"
        id="path3893"

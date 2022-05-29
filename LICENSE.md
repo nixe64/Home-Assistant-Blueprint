@@ -37,8 +37,6 @@ In keinem Fall, außer wenn durch geltendes Recht gefordert oder schriftlich zug
 #### Interpretation
 Sollten der o.a. Gewährleistungsausschluß und die o.a. Haftungsbegrenzung aufgrund ihrer Bedingungen gemäß lokalem Recht unwirksam sein, sollen Bewertungsgerichte dasjenige lokale Recht anwenden, das einer absoluten Aufhebung jeglicher zivilen Haftung in Zusammenhang mit der Vorlage am nächsten kommt, es sei denn, der Vorlage lag eine entgeltliche Garantieerklärung oder Haftungsübernahme bei. 
 
-<br/>
-
 ### Urheberrechtslizenzen
 
 Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Blueprints.
@@ -47,17 +45,17 @@ Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Bluepri
 Copyright © home-assistant.io<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][preceding-license].
 
-[![Germany][germany]][germany-url]
-©[![tab]][germany-url]SKopp, Madden und andere - Eigenes Werk, [Public Domain][germany-url].
+<a href="https://commons.wikimedia.org/w/index.php?curid=343071"><img src="docs/images/germany.svg" align="left"/></a>
+<p>© SKopp, Madden und andere - Eigenes Werk, Public Domain.</p>
 
-[![UK][uk]][uk-url]
-©[![tab]][uk-url]Acts of Union 1800 Vektor: Zscout370 - Eigenes Werk, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute, [Public Domain][uk-url].
+<a href="https://commons.wikimedia.org/w/index.php?curid=347935"><img src="docs/images/uk.svg" align="left" /></a>
+<p>© Acts of Union 1800 Vektor: Zscout370 - Eigenes Werk, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute, Public Domain.
 
-[![USA][usa]][usa-url]
-©[![tab]][usa-url]Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation of U. S. Code: Title 4, Chapter 1, Section 1 [1] (the United States Federal "Flag Law")., [Public Domain][usa-url].
+<a href="https://commons.wikimedia.org/w/index.php?curid=318418"><img src="docs/images/usa.svg" align="left" /></a>
+<p>© Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation of U. S. Code: Title 4, Chapter 1, Section 1 [1] (the United States Federal "Flag Law"), Public Domain.
 
-[![Shields][shields]][shields-url]
-©[![tab]][shields-url]Alle Shields und Badges werden von Shields.io generiert, einer Dienstleistung der Uptime Robot Service Provider Ltd. mit dem [Recht zur freien Nutzung][shields-url].
+<a href="[shields-url]: https://uptimerobot.com/terms/"><img src="docs/images/shields-logo.svg" align="left" /></a>
+<p>© Alle Shields und Badges werden von Shields.io generiert, einer Dienstleistung der Uptime Robot Service Provider Ltd. mit dem Recht zur freien Nutzung.</p>
 
 [de]: LICENSE.md
 [en]: LICENSE.en.md
