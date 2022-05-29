@@ -10,7 +10,7 @@
 
 <br/>
 
-Custom Home Assistant integration for [Amazon Polly][polly-url]
+Custom Home Assistant integration for [Amazon Polly][polly-url].
 
 This integration extents the [Amazon Polly Integration][hass-polly] of [Home Assistant][hass-url].
 

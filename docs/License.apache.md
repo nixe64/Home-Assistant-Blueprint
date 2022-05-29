@@ -84,7 +84,7 @@ In keinem Fall und auf keiner Rechtsgrundlage, sei es aufgrund unerlaubter Handl
 
 Bei der Weiterverbreitung des Werks oder der Bearbeitungen desselben steht es Ihnen frei, die  Übernahme von Support, Gewährleistung, Schadenersatz oder sonstiger Haftungsverpflichtungen und/oder Rechte gemäß dieser Lizenz anzubieten und eine Gebühr dafür zu erheben. Bei der  Übernahme solcher Verpflichtungen können Sie jedoch nur in eigenem Namen und auf eigene Verantwortung handeln, nicht jedoch im Namen anderer Beitragsleistender, und nur dann, wenn Sie einwilligen, jeden Beitragsleistenden zu entschädigen, zu verteidigen, und von jeder Haftung, die durch diesen Beitragsleistenden aufgrund der  Übernahme dieser Gewährleistung oder zusätzlicher Haftung eingegangen wird, oder von gegen ihn erhobenen Ansprüchen, schadlos zu halten.
 
-### ENDE DER LIZENZBEDINGUNGEN
+### **ENDE DER LIZENZBEDINGUNGEN**
 
 <br/>
 

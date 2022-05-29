@@ -703,7 +703,7 @@ in Zusammenhang mit dem Programm am nächsten kommt, es sei denn,
 dem Programm lag eine entgeltliche Garantieerklärung oder
 Haftungsübernahme bei.
 
-### ENDE DER LIZENZBEDINGUNGEN
+### **ENDE DER LIZENZBEDINGUNGEN**
 
 <br/>
 

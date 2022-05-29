@@ -10,7 +10,7 @@
 
 <br/>
 
-Benutzerdefinierte Home Assistant-Integration für [Amazon Polly][polly-url]
+Benutzerdefinierte Home Assistant-Integration für [Amazon Polly][polly-url].
 
 Diese Integration erweitert die [Amazon Polly Integration][hass-polly] von [Home Assistant][hass-url].
 

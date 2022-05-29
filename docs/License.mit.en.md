@@ -3,7 +3,7 @@
 <a href="license.mit.md"><img src="images/german.svg" valign="top" align="right"/></a>
 <br/>
 
-### The MIT-Lizenz
+### The MIT-License
 
 **Copyright © Massachusetts Institute of Technology (MIT)**
 
@@ -15,7 +15,7 @@ This page mirrors the text from
 
 <br/><br/>
 
-### Begin license text.
+### **Begin license text.**
 
 Copyright \<YEAR\> \<COPYRIGHT HOLDER\>
 
@@ -23,9 +23,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+**The software is provided "AS-IS", without warranty of any kind, expressed or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infrigement. In no event shall the authors or copyright holders be liable for any claim, damages or ohther liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.**
 
-### End license text.
+### **End license text.**
 
 [de]: License.mit.md
 [en]: License.mit.en.md

@@ -58,7 +58,7 @@ Copyright © Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG impleme
 Recht zur freien Nutzung (Public Domain).
 
 [![shields][shields]][shields-url] Alle verwendeten Shields und Badges<br/>
-Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io<br/>
+Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
 Recht zur freien Nutzung (Public Domain).
 
 [de]: LICENSE.md
