@@ -45,15 +45,15 @@ Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Bluepri
 Copyright © home-assistant.io<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][preceding-license].
 
-[![germany][germany]][germany-url] Deutschlandfahne<br/>
+[![germany][germany]][germany-url] Flagge der Bundesrepublik Deutschland<br/>
 Copyright © SKopp, Madden und andere - Eigenes Werk.<br/>
 Recht zur freien Nutzung (Public Domain).
 
-[![uk][uk]][uk-url] Fahne des Vereinigten Königreichs<br/>
+[![uk][uk]][uk-url] Flagge des Vereinigten Königreichs<br/>
 Copyright © Acts of Union 1800 Vektor: Zscout370 - Eigenes Werk, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute.<br/>
 Recht zur freien Nutzung (Public Domain).
 
-[![usa][usa]][usa-url] Fahne der Vereinigten Staaten von Amerika<br/>
+[![usa][usa]][usa-url] Flagge der Vereinigten Staaten von Amerika<br/>
 Copyright © Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation of U. S. Code: Title 4, Chapter 1, Section 1 [1] (the United States Federal "Flag Law").<br/>
 Recht zur freien Nutzung (Public Domain).
 
