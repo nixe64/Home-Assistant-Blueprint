@@ -22,13 +22,13 @@ to develop a new Home Assistant Integration (Custom Component).
 
 To use this template for your own project, just use this button ![btn][template-btn] in the repository view on GitHub or clone this repository.
 
-## Contact
+### Feature Requests / Bug Reports
 
 If you have suggestions for new features or would like to report a bug, please use the [GitHub Issues][issues-url].
 
 ### Contributing
 
-Contributions are what make the open source community such a great place to learn, inspire, and create. I would be happy if you would like to contribute a new feature, bugfix or anything else to this project. Anything that makes this project better is welcome. But please read [Contribute][contribute-url] to my projects and the [Code of Conduct][coc-url] for contributors first **before** you start coding.
+Contributions are what make the open source community such a great place to learn, inspire, and create. I would be happy if you would like to contribute a new feature, bugfix or anything else to this project. Anything that makes this project better is welcome. But please read [Contributions][contribute-url] to my projects and the [Code of Conduct][coc-url] for contributors first **before** you start coding.
 
 ### License
 

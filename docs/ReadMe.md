@@ -20,7 +20,7 @@ für Entwicklung einer neuen Home Assistant Integration (Custom Component) anzul
 
 Um diese Vorlage für dein eigenes Projekt zu verwenden, nutze einfach diesen Button ![btn][template-btn] in der Repository-Ansicht auf GitHub oder klone dieses Repository. 
 
-### Neue Features / Fehlerberichte
+### Verbesserungsvorschläge / Fehlerberichte
 
 Wenn du Vorschläge für neue Features hast oder einen Fehler melden möchtest, nutze bitte die [GitHub Issues][issues-url].
 

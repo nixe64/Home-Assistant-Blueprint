@@ -1,136 +1,226 @@
-<div align="right">
-<details>
-<summary>🇬🇧</summary>
-    <a href="Support.md">🇩🇪 deutsch</a><br/>
-    🇬🇧 english
-</details>
-</div>
+<a href="Contributions.en.md"><img src="../images/english.svg" valign="top" align="right"/></a>
+<a href="Contributions.md"><img src="../images/german.svg" valign="top" align="right"/></a>
+[![Version][version-badge]][version-url]
+[![License][license-badge]][my-license-url]
+<!--
+[![Bugs][bugs-badge]][bugs-url]
+-->
 
-### Code of Conduct for Contributors
+### Home Assistant Blueprint - Code of Conduct
+<br/>
 
-#### Our Pledge
+[![Logo][logo]][project-url]
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+<br/>
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+### Our Pledge
 
-#### Our Standards
+The heart of this community is people. We put people first and do our best to recognize, appreciate and respect the diversity of our global contributors. This community welcomes contributions from everyone who shares our goals and wants to contribute in a healthy and constructive manner within our community. As such, we have adopted this code of conduct and require all those who participate to agree and adhere to these Community Participation Guidelines in order to help us create a safe and positive community experience for all.
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+These guidelines aim to support a community where all people should feel safe to participate, introduce new ideas and inspire others, regardless of:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+- Background
+- Family status
+- Gender
+- Gender identity or expression
+- Marital status
+- Sex
+- Sexual orientation
+- Native language
+- Age
+- Ability
+- Race and/or ethnicity
+- Caste
+- National origin
+- Socioeconomic status
+- Religion
+- Geographic location
+- Any other dimension of diversity
 
-Examples of unacceptable behavior include:
+Openness, collaboration and participation are core aspects of our work/hobby. We gain strength from diversity and actively seek participation from those who enhance it. These guidelines exist to enable diverse individuals and groups to interact and collaborate to mutual advantage. This document outlines both expected and prohibited behavior.
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+### Our Expectations
 
-#### Enforcement Responsibilities
+These guidelines outline our behavior expectations as members of the community in all community activities, both offline and online. Your participation is contingent upon following these guidelines in all community activities, including but not limited to:
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+- Working in community spaces.
+- Working with other community participants virtually or co-located.
+- Representing the community at public events.
+- Representing the community in social media (official accounts, staff accounts, personal accounts, Facebook pages).
+- Participating in community offsites and trainings.
+- Participating in community-related forums, mailing lists, wikis, websites, chat channels, bugs, group or person-to-person meetings, and community-related correspondence.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+While these guidelines / code of conduct are specifically aimed at community's work, we recognize that it is possible for actions taken outside of community's online or in person spaces to have a deep impact on community health. This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our community about appropriate boundaries. 
 
-#### Scope
+### Expected Behavior
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+The following behaviors are expected of all community participants:
 
-#### Enforcement
+#### Be Respectful
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-safety@nixe-home.de.
-All complaints will be reviewed and investigated promptly and fairly.
+Value each other’s ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be respectful in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes – if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward. 
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+#### Be Direct but Professional
 
-#### Enforcement Guidelines
+We are likely to have some discussions about if and when criticism is respectful and when it’s not. We must be able to speak directly when we disagree and when we think we need to improve. We cannot withhold hard truths. Doing so respectfully is hard, doing so when others don’t seem to be listening is harder, and hearing such comments when one is the recipient can be even harder still. We need to be honest and direct, as well as respectful.
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+#### Be Inclusive
 
-##### 1. Correction
+Seek diverse perspectives. Diversity of views and of people on teams powers innovation, even if it is not always comfortable. Encourage all voices. Help new perspectives be heard and listen actively. If you find yourself dominating a discussion, it is especially important to step back and encourage other voices to join in. Be aware of how much time is taken up by dominant members of the group. Provide alternative ways to contribute or participate when possible.
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+Be inclusive of everyone in an interaction, respecting and facilitating people’s participation whether they are:
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+- Remote (on video or phone)
+- Not native language speakers
+- Coming from a different culture
+- Using pronouns other than “he” or “she”
+- Living in a different time zone
+- Facing other challenges to participate
 
-##### 2. Warning
+Think about how you might facilitate alternative ways to contribute or participate. If you find yourself dominating a discussion, step back. Make way for other voices and listen actively to them. 
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+#### Understand Different Perspectives
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+Our goal should not be to “win” every disagreement or argument. A more productive goal is to be open to ideas that make our own ideas better. Strive to be an example for inclusive thinking. “Winning” is when different perspectives make our work richer and stronger. 
 
-##### 3. Temporary Ban
+#### Appreciate and Accommodate Our Similarities and Differences
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+Community particapants come from many cultures and backgrounds. Cultural differences can encompass everything from official religious observances to personal habits to clothing. Be respectful of people with different cultural practices, attitudes and beliefs. Work to eliminate your own biases, prejudices and discriminatory practices. Think of others’ needs from their point of view. Use preferred titles (including pronouns) and the appropriate tone of voice. Respect people’s right to privacy and confidentiality. Be open to learning from and educating others as well as educating yourself; it is unrealistic to expect community participants to know the cultural practices of every ethnic and cultural group, but everyone needs to recognize one’s native culture is only part of positive interactions. 
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+#### Lead by Example
 
-##### 4. Permanent Ban
+By matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our community outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for community's mission.
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+### Behavior That Will Not Be Tolerated
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+The following behaviors are considered to be unacceptable under these guidelines.
 
-### Attribution
+#### Violence and Threats of Violence
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+Violence and threats of violence are not acceptable - online or offline. This includes incitement of violence toward any individual, including encouraging a person to commit self-harm. This also includes posting or threatening to post other people’s personally identifying information (“doxxing”) online. 
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+#### Personal Attacks
 
-[homepage]: https://www.contributor-covenant.org
+Conflicts will inevitably arise, but frustration should never turn into a personal attack. It is not okay to insult, demean or belittle others. Attacking someone for their opinions, beliefs and ideas is not acceptable. It is important to speak directly when we disagree and when we think we need to improve, but such discussions must be conducted respectfully and professionally, remaining focused on the issue at hand. 
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+#### Derogatory Language
+
+Hurtful or harmful language related to:
+
+
+- Background
+- Family status
+- Gender
+- Gender identity or expression
+- Marital status
+- Sex
+- Sexual orientation
+- Native language
+- Age
+- Ability
+- Race and/or ethnicity
+- Caste
+- National origin
+- Socioeconomic status
+- Religion
+- Geographic location
+- Other attributes
+
+is not acceptable. This includes deliberately referring to someone by a gender that they do not identify with, and/or questioning the legitimacy of an individual’s gender identity. If you’re unsure if a word is derogatory, don’t use it. This also includes repeated subtle and/or indirect discrimination; when asked to stop, stop the behavior in question. 
+
+#### Unwelcome Sexual Attention or Physical Contact
+
+Unwelcome sexual attention or unwelcome physical contact is not acceptable. This includes sexualized comments, jokes or imagery in interactions, communications or presentation materials, as well as inappropriate touching, groping, or sexual advances. Additionally, touching a person without permission, including sensitive areas such as their hair, pregnant stomach, mobility device (wheelchair, scooter, etc) or tattoos is unacceptable. This includes physically blocking or intimidating another person. Physical contact or simulated physical contact (such as emojis like “kiss”) without affirmative consent is not acceptable. The sharing or distribution of sexualized images or text is unacceptable. 
+
+#### Disruptive Behavior
+
+Sustained disruption of events, forums, or meetings, including talks and presentations, will not be tolerated. This includes:
+
+- ‘Talking over’ or ‘heckling’ speakers.
+- Drinking alcohol to excess or using recreational drugs to excess, or pushing others to do so.
+- Making derogatory comments about those who abstain from alcohol or other substances, pushing people to drink, talking about their abstinence or preferences to others, or pressuring them to drink - physically or through jeering.
+- Otherwise influencing crowd actions that cause hostility in the session.
+
+#### Influencing Unacceptable Behavior
+
+We will treat influencing or leading such activities the same way we treat the activities themselves, and thus the same consequences apply. 
+
+### Consequences of Unacceptable Behavior
+
+ Bad behavior from any community participant, including those with decision-making authority, will not be tolerated. Intentional efforts to exclude people (except as part of a consequence of the guidelines or other official action) from community activities are not acceptable and will be dealt with appropriately.
+
+Reports of harassment/discrimination will be promptly and thoroughly investigated by the people responsible for the safety of the space, event or activity. Appropriate measures will be taken to address the situation.
+
+Anyone being asked to stop unacceptable behavior is expected to comply immediately. Violation of these guidelines can result in anyone being asked to leave an event or online space, either temporarily or for the duration of the event, or being banned from participation in spaces, or future events and activities in perpetuity.
+
+In addition, any participants who abuse the reporting process will be considered to be in violation of these guidelines and subject to the same consequences. False reporting, especially to retaliate or exclude, will not be accepted or tolerated. 
+
+#### Reporting of Unacceptable Behaviour
+
+If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, please use <coc-report@nixe-home.de> to report. Reports are triaged by the Community Participation Guidelines Response Lead.
+
+After receiving a concise description of your situation, they will review and determine the next steps. In addition to conducting an investigation, they can provide a range of resources to help you to get the inacceptable behavior stopped - from one-on-one counseling to community resources. In consultation with you they will involve community participant or outside experts (such as legal counsel) who are appropriate and necessary for the situation.
+
+Additional Resources: How to Report<br/>
+Questions: <coc-questions@nixe-home.de>
+
+Please also report to us if you observe a potentially dangerous situation, someone in distress, or violations of these guidelines, even if the situation is not happening to you.
+
+If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process. 
+
+#### Community Spaces
+
+Each physical or virtual community space shall have a designated contact. 
+
+#### Community Events
+
+ All Mozilla events will have designated a specific safety guideline with emergency and anti-abuse contacts at the event as well as online. These contacts will be posted prominently throughout the event, and in print and online materials. Event leaders are requested to speak at the event about the guidelines and to ask participants to review and agree to them when they sign up for the event.
+
+Reports will receive an email notice of receipt. Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to <coc-questions@nixe-home.de>. 
+
+#### Ask Questions
+
+Everyone is encouraged to ask questions about these guidelines. If you are organizing an event or activity, reach out for tips for building inclusion for your event, activity or space. Your input is welcome and you will always get a response within 24 hours (or on the next weekday, if it is the weekend) if you reach out to <coc-questions@nixe-home.de>.
+
+### License and Attribution
+
+This set of guidelines is distributed under a Creative Commons Attribution-ShareAlike license.
+
+These guidelines have been adapted by Mozilla with modifications from Mozilla’s original Community Participation Guidelines, the Ubuntu Code of Conduct, Mozilla’s View Source Conference Code of Conduct, and the Rust Language Code of Conduct, which are based on Stumptown Syndicate’s Citizen Code of Conduct. Additional text from the LGBTQ in Technology Code of Conduct and the WisCon code of conduct.
+
+Mozilla's Richtlinien für das Mitwirken in der Community waren meine Inspiration, und ich habe sie im wesentlichen unverändert übernommen.<br/>
+Version 3.1 - Aktualisiert am 16. Januar 2020<br/>
+<https://www.mozilla.org/de/about/governance/policies/participation/>
+
+Antworten auf die am häufigsten gestellten Fragen findest du in den FAQ unter
+<https://www.contributor-covenant.org/faq>.
+
+### Modifications to these Guidelines
+
+Community Participation Guidelines Response Lead may amend the guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the guidelines will be deemed agreement to any changes to it. 
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[english]: ../images/english.svg
+[german]: ../images/german.svg
+[empty]: ../images/empty.svg
+
+[logo]: ../images/hassio-icon.png
+[project-url]: https://homeassistant.io
+
+[license-badge]: ../images/lizenz.svg
+[my-license-url]: ../../License.md
+[orig-license-url]: ../License.gpl.md
+
+[version-badge]: ../images/version.svg
+[version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
+
+[issues-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues
+[bugs-badge]: https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/bug.svg?label=Fehlerberichte&color=informational
+[bugs-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug
+
+[coc-url]: CodeOfConduct.md
+[pr-reviews]: https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews
+[cla-url]: CLD.md
+[flow-url]: (https://githubflow.github.io/)
+[pr-url]: https://github.com/nixe64/Home-Assistant-Blueprint/pulls
