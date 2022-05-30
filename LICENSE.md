@@ -118,6 +118,6 @@ Veröffentlicht mit Urheberrecht gemäß [GPL][orig-license-url]<br/>
 [en]: docs/images/en.svg
 [fr]: docs/images/fr.svg
 
-[python]: docs/images/python-small.svg
+[python]: docs/images/python.svg
 [python-url]: https://commons.wikimedia.org/w/index.php?curid=34991637
 [ggshield]: docs/images/ggshield.png
