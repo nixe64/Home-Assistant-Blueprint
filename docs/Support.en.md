@@ -12,7 +12,7 @@
 
 ### How to get Help
 
-My projects use GitHub Issues to track bug reports and feature requests. Please **search existing Issues first**,
+This project uses GitHub Issues to track bug reports and feature requests. Please **search existing Issues first**,
 before making a new request.
 
 If you have any problems or suggestions for improvement that have not yet been described, simply open a new [issue][issue-url].

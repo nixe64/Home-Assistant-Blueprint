@@ -1,13 +1,10 @@
 <a href="https://opensource.org/licenses/Apache-2.0"><img alt="OSI Approved License Logo" src="images/osi-approved-license.svg" align="right"/></a>
 <a href="License.apache.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
 <a href="License.apache.md"><img src="images/german.svg" valign="top" align="right"/></a>
-<br/>
 
 ### Apache Lizenz
 
-**Deutsche Übersetzung der Version 2.0 aus dem Januar 2004**
-
-Version 2.0, January 2004<br/> 
+**Deutsche Übersetzung der Version 2.0 aus dem Januar 2004**<br/>
 <http://www.apache.org/licenses/>
 
 Es ist jedermann gestattet, diese Lizenzurkunde zu vervielfältigen
@@ -16,9 +13,6 @@ und unveränderte Kopien zu verbreiten.<br/>
 
 **Diese Übersetzung ist kein rechtskräftiger Ersatz für die
 [englischsprachige Originalversion][en]!**
-
-
-<br/>
 
 ### Bedingungen für die Nutzung, Vervielfältigung und Verbreitung
 

@@ -1,5 +1,5 @@
-<a href="Contributions.en.md"><img src="../images/english.svg" valign="top" align="right"/></a>
-<a href="Contributions.md"><img src="../images/german.svg" valign="top" align="right"/></a>
+<a href="CodeOfConduct.en.md"><img src="../images/english.svg" valign="top" align="right"/></a>
+<a href="CodeOfConduct.md"><img src="../images/german.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][my-license-url]
 <!--
@@ -174,7 +174,7 @@ Each physical or virtual community space shall have a designated contact.
 
 #### Community Events
 
- All Mozilla events will have designated a specific safety guideline with emergency and anti-abuse contacts at the event as well as online. These contacts will be posted prominently throughout the event, and in print and online materials. Event leaders are requested to speak at the event about the guidelines and to ask participants to review and agree to them when they sign up for the event.
+ All community events will have designated a specific safety guideline with emergency and anti-abuse contacts at the event as well as online. These contacts will be posted prominently throughout the event, and in print and online materials. Event leaders are requested to speak at the event about the guidelines and to ask participants to review and agree to them when they sign up for the event.
 
 Reports will receive an email notice of receipt. Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to <coc-questions@nixe-home.de>. 
 
@@ -188,11 +188,11 @@ This set of guidelines is distributed under a Creative Commons Attribution-Share
 
 These guidelines have been adapted by Mozilla with modifications from Mozilla’s original Community Participation Guidelines, the Ubuntu Code of Conduct, Mozilla’s View Source Conference Code of Conduct, and the Rust Language Code of Conduct, which are based on Stumptown Syndicate’s Citizen Code of Conduct. Additional text from the LGBTQ in Technology Code of Conduct and the WisCon code of conduct.
 
-Mozilla's Richtlinien für das Mitwirken in der Community waren meine Inspiration, und ich habe sie im wesentlichen unverändert übernommen.<br/>
-Version 3.1 - Aktualisiert am 16. Januar 2020<br/>
-<https://www.mozilla.org/de/about/governance/policies/participation/>
+Mozilla’s guidelines for community engagement were my inspiration, and I have essentially adopted them unchanged.<br/>
+Version 3.1 - Updated on January 16, 2020<br/>
+<https://www.mozilla.org/en/about/governance/policies/participation/>
 
-Antworten auf die am häufigsten gestellten Fragen findest du in den FAQ unter
+You can find answers to the most frequently asked questions in the FAQ below
 <https://www.contributor-covenant.org/faq>.
 
 ### Modifications to these Guidelines
@@ -206,7 +206,7 @@ Community Participation Guidelines Response Lead may amend the guidelines from t
 [empty]: ../images/empty.svg
 
 [logo]: ../images/hassio-icon.png
-[project-url]: https://homeassistant.io
+[project-url]: https://github.com/nixe64/Home-Assistant-Blueprint/
 
 [license-badge]: ../images/lizenz.svg
 [my-license-url]: ../../License.md

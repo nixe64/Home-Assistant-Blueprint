@@ -40,7 +40,7 @@ This license agreement cannot be signed explicitly as I do not have an Enterpris
 [empty]: ../images/empty.svg
 
 [logo]: ../images/hassio-icon.png
-[project-url]: https://homeassistant.io
+[project-url]: https://github.com/nixe64/Home-Assistant-Blueprint/
 
 [license-badge]: ../images/license.svg
 [my-license-url]: ../../License.en.md

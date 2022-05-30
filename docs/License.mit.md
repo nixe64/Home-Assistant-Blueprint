@@ -1,13 +1,11 @@
 <a href="https://opensource.org/licenses/mit-license.php"><img alt="OSI Approved License Logo" src="images/osi-approved-license.svg" align="right"/></a>
 <a href="License.mit.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
 <a href="license.mit.md"><img src="images/german.svg" valign="top" align="right"/></a>
-<br/>
 
 ### Die MIT-Lizenz
 
+**Deutsche Übersetzung**<<br/>
 **Copyright © Massachusetts Institute of Technology (MIT)**
-
-**Deutsche Übersetzung**
 
 Es ist jedermann gestattet, diese Lizenzurkunde zu vervielfältigen
 und unveränderte Kopien zu verbreiten.<br/>
@@ -15,8 +13,6 @@ und unveränderte Kopien zu verbreiten.<br/>
 
 **Diese Übersetzung ist kein rechtskräftiger Ersatz für die
 [englischsprachige Originalversion][en]!**
-
-<br/>
 
 ### **Lizenztext.**
 

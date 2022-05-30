@@ -13,8 +13,6 @@ Changing it is not allowed.
 This page mirrors the text from
 <https://mit-license.org/>.
 
-<br/><br/>
-
 ### **Begin license text.**
 
 Copyright \<YEAR\> \<COPYRIGHT HOLDER\>

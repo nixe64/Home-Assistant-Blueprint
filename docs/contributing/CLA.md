@@ -23,7 +23,7 @@ Durch meinen Beitrag zu diesem Projekt bestätige ich Folgendes:
 | (c) | Der Beitrag wurde mir direkt von einer anderen Person zur Verfügung gestellt, die (a), (b) oder (c) zertifiziert hat, und ich habe ihn nicht geändert.|
 | (d) | Ich verstehe und stimme zu, dass dieses Projekt und der Beitrag öffentlich sind und dass eine Aufzeichnung des Beitrags (einschließlich aller persönlichen Informationen, die ich damit einreiche) auf unbestimmte Zeit aufbewahrt wird und im Einklang mit diesem Projekt oder der/den betroffenen Open-Source-Lizenz(en) weitergegeben werden kann. |
 
-### Namensnennung
+### Namensnennungen
 
 Der Text dieser Lizenz ist unter der [Creative Commons][cc-url] Attribution-ShareAlike 3.0 Unported License verfügbar. Es basiert auf dem [Entwickler-Ursprungszertifikat][dco-url] von Linux.
 
@@ -40,7 +40,7 @@ Diese Lizenzvereinbarung kann nicht explizit unterzeichnet werden, da ich kein E
 [empty]: ../images/empty.svg
 
 [logo]: ../images/hassio-icon.png
-[project-url]: https://homeassistant.io
+[project-url]: https://github.com/nixe64/Home-Assistant-Blueprint/
 
 [license-badge]: ../images/lizenz.svg
 [my-license-url]: ../../License.md

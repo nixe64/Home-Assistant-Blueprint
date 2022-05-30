@@ -14,8 +14,6 @@ this license document.<br/>
 Changing it is not allowed. This page mirrors the text from
 <https://apache.org/licenses/LICENSE-2.0>
 
-<br/><br/>
-
 ### Terms and Conditions for Use, Reproduction and Distribution
 
 #### 1. Definitions.

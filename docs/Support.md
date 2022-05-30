@@ -12,7 +12,7 @@
 
 ### Hier bekommst du Hilfe
 
-Meine Projekte verwenden GitHub Issues, um Fehlerberichte und Funktionsanfragen zu verfolgen. 
+Dieses Projekt verwenden GitHub Issues, um Fehlerberichte und Funktionsanfragen zu verfolgen. 
 
 Bitte **durchsuche zuerst die vorhandenen Issues**, bevor du eine neue Anfrage stellst. Bei noch nicht geschilderten Problemen oder Vorschlägen für die Verbesserung, eröffne einfach ein neues [Issue][issue-url].
 

@@ -1,3 +1,4 @@
+<a href="LICENSE.fr.md"><img src="docs/images/fr.svg" valign="top" align="right"/></a>
 <a href="LICENSE.en.md"><img src="docs/images/english.svg" valign="top" align="right"/></a>
 <a href="LICENSE.md"><img src="docs/images/german.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
@@ -37,55 +38,64 @@ In keinem Fall, außer wenn durch geltendes Recht gefordert oder schriftlich zug
 #### Interpretation
 Sollten der o.a. Gewährleistungsausschluß und die o.a. Haftungsbegrenzung aufgrund ihrer Bedingungen gemäß lokalem Recht unwirksam sein, sollen Bewertungsgerichte dasjenige lokale Recht anwenden, das einer absoluten Aufhebung jeglicher zivilen Haftung in Zusammenhang mit der Vorlage am nächsten kommt, es sei denn, der Vorlage lag eine entgeltliche Garantieerklärung oder Haftungsübernahme bei. 
 
-### Urheberrechtslizenzen
+### Danksagungen
+
+Mein Dank gilt allen, die zu diesem Projekt beitragen, oder deren Vorarbeit ich für die Realisierung meiner Ideen nutzen durfte.
+
+### Urheberrechtslizenzen / Namensnennungen
 
 Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Blueprints.
+
 
 [Home Assistant Blueprints][project-url]<br/>
 Copyright © home-assistant.io<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][preceding-license].
 
+[![canada][canada]][ca-url] Flagge von Kanada<br/>
+Copyright © Wikimedia Commons. Die aktuelle SVG-Kodierung wurde von MapGrid neu geschrieben. - Dieses Vektorbild wird programmatisch aus der in File:Flagge von Kanada definierten Geometrie generiert (Konstruktionsblatt – Blattgeometrie)<br/>
+Recht zur freien Nutzung (Public Domain)
+
+[![france][france]][fr-url] Flagge der Französischen Republik<br/>
+Copyright © SKopp 
+Recht zur freien Nutzung (Public Domain)
+
 [![germany][germany]][germany-url] Flagge der Bundesrepublik Deutschland<br/>
-Copyright © SKopp, Madden und andere - Eigenes Werk.<br/>
-Recht zur freien Nutzung (Public Domain).
+Copyright © SKopp, Madden and other users - Own Work.<br/>
+Recht zur freien Nutzung (Public Domain)
 
-[![uk][uk]][uk-url] Flagge des Vereinigten Königreichs<br/>
-Copyright © Acts of Union 1800 Vektor: Zscout370 - Eigenes Werk, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute.<br/>
-Recht zur freien Nutzung (Public Domain).
+[![uk][uk]][uk-url] Flagge des Vereinigten Königreichsw<br/>
+Copyright © Acts of Union 1800 Vektor: Zscout370 – Eigene Arbeit, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute.<br/>
+Recht zur freien Nutzung (Public Domain)
 
-[![usa][usa]][usa-url] Flagge der Vereinigten Staaten von Amerika<br/>
-Copyright © Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation of U. S. Code: Title 4, Chapter 1, Section 1 [1] (the United States Federal "Flag Law").<br/>
-Recht zur freien Nutzung (Public Domain).
+[![usa][usa]][usa-url] Flag of the United States of America<br/>
+Copyright © Dbenbenn, Zscout370, Jacobolus, Trägheit, Technion. - SVG-Umsetzung des U.S. Code: Titel 4, Kapitel 1, Abschnitt 1 [1] (das «Flaggengesetz» der Vereinigten Staaten).<br/>
+Recht zur freien Nutzung (Public Domain)
 
-[![shields][shields]][shields-url] Alle verwendeten Shields und Badges<br/>
+[![shields][shields]][shields-url] All used shields and badges<br/>
 Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
-Recht zur freien Nutzung (Public Domain).
+Recht zur freien Nutzung (Public Domain)
 
-[de]: LICENSE.md
-[en]: LICENSE.en.md
-
-[english]: docs/images/english.svg
-[german]: docs/images/german.svg
+[canada]: docs/images/canada.svg
+[france]: docs/images/france.svg
 [germany]: docs/images/germany.svg
 [uk]: docs/images/uk.svg
 [usa]: docs/images/usa.svg
-[empty]: docs/images/empty.svg
-[tab]: docs/images/empty-10px.svg
 
 [logo]: images/hassio-icon.png
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
-[license-badge]: docs/images/lizenz.svg
+[license-badge]: docs/images/license.svg
 [orig-license-url]: docs/License.gpl.md
-[preceding-license]: docs/License.apache.md
+[preceding-licsense]: docs/License.apache.en.md
 
 [version-badge]: docs/images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
 
-
 [shields]: docs/images/shields-logo.svg
 [shields-url]: https://uptimerobot.com/terms/
 
+[ca-url]: https://commons.wikimedia.org/w/index.php?curid=32276527
+[fr-url]: https://commons.wikimedia.org/w/index.php?curid=343059
 [germany-url]: https://commons.wikimedia.org/w/index.php?curid=343071
 [uk-url]: https://commons.wikimedia.org/w/index.php?curid=347935
 [usa-url]: https://commons.wikimedia.org/w/index.php?curid=318418

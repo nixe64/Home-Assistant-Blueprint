@@ -6,7 +6,7 @@
 [![Bugs][bugs-badge]][bugs-url]
 -->
 
-### Home Assistant Blueprint - Feature suggestions and bug reports
+### Home Assistant Blueprint - Feature Suggestions, Bug Reports and Translations
 <br/>
 
 [![Logo][logo]][project-url]
@@ -24,7 +24,7 @@ Everybody is invited and welcome to contribute to this project. There is a lot t
 The process is straightforward.
 
 - Read the [License Agreement][cla-url] and the [Code of Conduct][coc-url] for contributors. If you agree to the terms, then...
-- Read [How to get faster PR reviews][pr-reviews] by Kubernetes...
+- Read [How to get faster PR reviews][pr-reviews] by Kubernetes, then...
 - Fork the project on GitHub.
 - Check out the **develop** branch before you start your development.
 This way, you have already the latest features that are still under development in your code. But you can also start
@@ -33,7 +33,9 @@ with the source of the latest stable release, which is the default behaviour of 
 [GitHub Flow][flow-url], but it is not required.
 - Write the code and, if possible, include new tests for your implementation. Changes to the original tests are **not permitted**, unless the test itself has a bug or is incomplete.
 - Ensure your code is working locally and, if available, the tests work.
-- Create a [Pull Request][pr-url] against the **develop** branch of the project you choose.
+- Create a [Pull Request][pr-url] against the **develop** branch.
+
+Translators who can improve existing translations or who want to contribute new ones are also welcome. I will not make translations to languages that I do not (at least rudimentarily) speak and/or understand myself. This is the better solution for all sides! Machine translations would not be helpful. Unfortunately, the technology is not yet mature enough to be able to use the translations (except for a personal encounter, where hands and feet are also available).
 
 Still interested? **Great, welcome to the team!**
 
@@ -60,5 +62,5 @@ Still interested? **Great, welcome to the team!**
 [coc-url]: CodeOfConduct.md
 [pr-reviews]: https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews
 [cla-url]: CLD.md
-[flow-url]: (https://githubflow.github.io/)
+[flow-url]: https://githubflow.github.io/
 [pr-url]: https://github.com/nixe64/Home-Assistant-Blueprint/pulls

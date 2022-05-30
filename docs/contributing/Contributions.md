@@ -6,7 +6,7 @@
 [![Bugs][bugs-badge]][bugs-url]
 -->
 
-### Home Assistant Blueprint - Verbesserungsvorschläge und Fehlerberichte
+### Home Assistant Blueprint - Verbesserungsvorschläge, Fehlerberichte und Übersetzungen
 <br/>
 
 [![Logo][logo]][project-url]
@@ -15,7 +15,7 @@
 
 Wenn du einen Verbesserungsvorschlag hast oder einen Fehler melden möchtest, eröffne einfach ein neues [Issue][issues-url] auf GitHub.
 
-Aber **bitte überprüfe**, daß du die/der Erste bist, die/der die Verbesserung vorschlägt oder diesen Fehler meldet. Danke!
+Aber **bitte überprüfe**, daß du die/der Erste bist, die/der die Verbesserung vorschlägt oder diesen Fehler meldet. Vielen Dank!
 <br/>
 
 ### Mitwirkung an diesem Projekt
@@ -24,7 +24,7 @@ Jeder ist eingeladen und willkommen, sich an diesem Projekt zu beteiligen. Es gi
 Der Prozess ist unkompliziert.
 
 - Lies die [Lizenzverbarung][cla-url] und den [Verhaltenscodex][coc-url] für Mitwirkende. Wenn du mit den Vereinbarungen einverstanden bist, dann...
-- Lies [So erhälst du schnellere PR-Reviews][pr-reviews] von Kubernetes...
+- Lies [So erhälst du schnellere PR-Reviews][pr-reviews] von Kubernetes, dann...
  - Forke dieses Projekt auf GitHub.
  - Checke den Branch **develop** aus, bevor du mit der Entwicklung beginnst.
   Auf diese Weise hast du bereits die neuesten Funktionen, die sich noch in der Entwicklung befinden, in deinem Code. Aber du kannst auch
@@ -33,6 +33,8 @@ Der Prozess ist unkompliziert.
  - Schreibe deinen Code und füge nach Möglichkeit neue Tests für deine Implementierung hinzu. Änderungen an den ursprünglichen Tests sind **nicht gestattet**, außer wenn der Test selbst einen Bug hat oder unvollständig ist.
  - Stelle sicher, dass dein Code lokal funktioniert und, falls verfügbar, die Tests keine Fehler finden.
  - Erstelle einen [Pull-Request][pr-url] für den Branch **develop**.
+
+Ebenfalls gern gesehen wären Übersetzer, die entwder die vorhanden Übersetzungen verbessern können oder neue Übersetzungen beitragen möchten. Ich werde keine Übersetzungen in Sprachen anfertigen, die ich nicht (zumindest rudimentär) auch selber spreche und/oder verstehe. Das ist für alle Seiten die bessere Lösung! Nicht hilfreich wären dabei maschinelle Übersetzungen. Leider ist die Technik noch nicht ausgereift genug, um die Übersetzungen auch verwenden zu können (außer bei einer persönlichen Begegnung, wo zusätzlich auch noch Hände und Füsse zur Verfügung stehen).
 
 Noch interessiert? **Super, herzlich willkommen im Team!**
 
@@ -59,5 +61,5 @@ Noch interessiert? **Super, herzlich willkommen im Team!**
 [coc-url]: CodeOfConduct.md
 [pr-reviews]: https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews
 [cla-url]: CLD.md
-[flow-url]: (https://githubflow.github.io/)
+[flow-url]: https://githubflow.github.io/
 [pr-url]: https://github.com/nixe64/Home-Assistant-Blueprint/pulls

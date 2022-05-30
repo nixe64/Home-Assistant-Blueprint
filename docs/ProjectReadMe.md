@@ -5,8 +5,6 @@
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->
-<br/>
-<br/>
 
 ### Home Assistant Blueprint
 <br/>

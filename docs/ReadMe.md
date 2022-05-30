@@ -20,13 +20,13 @@ für Entwicklung einer neuen Home Assistant Integration (Custom Component) anzul
 
 Um diese Vorlage für dein eigenes Projekt zu verwenden, nutze einfach diesen Button ![btn][template-btn] in der Repository-Ansicht auf GitHub oder klone dieses Repository. 
 
-### Verbesserungsvorschläge / Fehlerberichte
+### Verbesserungsvorschläge / Fehlerberichte / Serviceanfragen
 
-Wenn du Vorschläge für neue Features hast oder einen Fehler melden möchtest, nutze bitte die [GitHub Issues][issues-url].
+Wenn du Vorschläge für neue Features hast, einen Fehler melden möchtest oder bei einem Problem nicht weiter kommst, schau bitte als Erstes bei [Unterstützung und Wartung][support-url] nach. Dort wird ausführlich erläutert, wie und wo du dein Anliegen vorbringen kannst.
 
 ### Mitwirkung
 
-Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum Lernen, Inspirieren und Schaffen. Ich würde mich freuen, wenn du ein neues Feature, einen Bugfix oder irgendetwas anderes zu diesem Projekt beitragen möchtest. Es ist alles willkommen, daß dieses Projekt voran bringt. Aber bitte lese zuerst [Mitwirkung][contribute-url] an meinen Projekten und den [Verhaltenskodex][coc-url] für Mitwirkende, **bevor** du mit dem Programmieren beginnst.
+Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum Lernen, Inspirieren und Schaffen. Ich würde mich freuen, wenn du ein neues Feature, einen Bugfix oder irgendetwas anderes zu diesem Projekt beitragen möchtest. Es ist alles willkommen, daß dieses Projekt voran bringt. Aber bitte lese zuerst [Mitwirkung][contribute-url] an diesem Projekt und den [Verhaltenskodex][coc-url] für Mitwirkende, **bevor** du mit dem Programmieren beginnst.
  
 ### Lizenz
 
@@ -58,3 +58,5 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-ur
 [coc-url]: contributing/CodeOfConduct.md
 
 [template-btn]: images/template-btn.svg
+
+[support-url]: Support.md

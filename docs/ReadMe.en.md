@@ -16,19 +16,17 @@
 Derivative of a Home Assistant Blueprint to set up a new repository with the required directory structure and the most important tools
 to develop a new Home Assistant Integration (Custom Component).
 
-<br/>
-
 ### Usage
 
 To use this template for your own project, just use this button ![btn][template-btn] in the repository view on GitHub or clone this repository.
 
-### Feature Requests / Bug Reports
+### Feature Requests / Bug Reports / Service Requests
 
-If you have suggestions for new features or would like to report a bug, please use the [GitHub Issues][issues-url].
+If you have suggestions for new features, want to report a bug, or get stuck on a problem, please first check [Support and Servicing][support-url]. It explains in detail how and where you can make your case.
 
 ### Contributing
 
-Contributions are what make the open source community such a great place to learn, inspire, and create. I would be happy if you would like to contribute a new feature, bugfix or anything else to this project. Anything that makes this project better is welcome. But please read [Contributions][contribute-url] to my projects and the [Code of Conduct][coc-url] for contributors first **before** you start coding.
+Contributions are what make the open source community such a great place to learn, inspire, and create. I would be happy if you would like to contribute a new feature, bugfix or anything else to this project. Anything that makes this project better is welcome. But please read [Contributions][contribute-url] to this project and the [Code of Conduct][coc-url] for contributors first **before** you start coding.
 
 ### License
 

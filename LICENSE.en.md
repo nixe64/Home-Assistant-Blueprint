@@ -1,5 +1,6 @@
-<a href="LICENSE.en.md"><img src="docs/images/english.svg" valign="top" align="right"/></a>
-<a href="LICENSE.md"><img src="docs/images/german.svg" valign="top" align="right"/></a>
+<a href="LICENSE.fr.md"><img src="docs/images/fr.svg" valign="top" align="right"/></a>
+<a href="LICENSE.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
+<a href="LICENSE.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][orig-license-url]
 
@@ -20,7 +21,6 @@ General Public License for more details.
 You should have received a copy of the GNU General Public
 License along with this program.  If not, see 
 <http://www.gnu.org/licenses/>.
-<br/>
 
 ### The most important licensing terms in a nutshell
 
@@ -41,15 +41,25 @@ approximates an absolute waiver of all civil liability in
 connection with the Program, unless a warranty or assumption of
 liability accompanies a copy of the Program in return for a fee.
 
-<br/>
+### Acknowledgements
 
-### Copyrights
+My thanks go to all those who contributed to this project or whose preparatory work I was able to use for the realization of my ideas.
+
+### Copyrights / Attribution
 
 This repository template is a derivative of a Home Assistant Blueprint.
 
 [Home Assistant Blueprints][project-url]<br/>
 Copyright © home-assistant.io<br/>
 Distributed with copyright under the [Apache license version 2.0](docs/License.apache.md).
+
+[![canada][canada]][ca-url] Flag of Canada<br/>
+Copyright © Wikimedia Commons. The current SVG encoding is a rewrite performed by MapGrid. - This vector image is generated programmatically from geometry defined in File:Flag of Canada (construction sheet - leaf geometry)<br/>
+Free to use (Public Domain)
+
+[![france][france]][fr-url] Flag of the French Republic<br/>
+Copyright © SKopp 
+Free to use (Public Domain)
 
 [![germany][germany]][germany-url] Flag of the Federal Republic of Germany<br/>
 Copyright © SKopp, Madden and other users - Own Work.<br/>
@@ -60,38 +70,33 @@ Copyright © Acts of Union 1800 Vektor: Zscout370 - Own Work, based on: United
 Free to use (Public Domain).
 
 [![usa][usa]][usa-url] Flag of the United States of America<br/>
-Copyright © Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation of U. S. Code: Title 4, Chapter 1, Section 1 [1] (the United States Federal "Flag Law").<br/>
+Copyright © Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation of U.S. Code: Title 4, Chapter 1, Section 1 [1] (the United States Federal "Flag Law").<br/>
 Free to use (Public Domain).
 
 [![shields][shields]][shields-url] All used shields and badges<br/>
 Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
 Free to use (Public Domain).
 
-[de]: LICENSE.md
-[en]: LICENSE.en.md
-
-[english]: docs/images/english.svg
-[german]: docs/images/german.svg
+[canada]: docs/images/canada.svg
+[france]: docs/images/france.svg
 [germany]: docs/images/germany.svg
 [uk]: docs/images/uk.svg
 [usa]: docs/images/usa.svg
-[empty]: docs/images/empty.svg
-[tab]: docs/images/empty-10px.svg
 
 [logo]: images/hassio-icon.png
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
 [license-badge]: docs/images/license.svg
-[orig-license-url]: docs/License.gpl.md
-[preceding-licsense]: docs/License.apache.en.md
+[orig-license-url]: docs/License.gpl.en.md
 
 [version-badge]: docs/images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
 
-
 [shields]: docs/images/shields-logo.svg
 [shields-url]: https://uptimerobot.com/terms/
 
+[ca-url]: https://commons.wikimedia.org/w/index.php?curid=32276527
+[fr-url]: https://commons.wikimedia.org/w/index.php?curid=343059
 [germany-url]: https://commons.wikimedia.org/w/index.php?curid=343071
 [uk-url]: https://commons.wikimedia.org/w/index.php?curid=347935
 [usa-url]: https://commons.wikimedia.org/w/index.php?curid=318418
