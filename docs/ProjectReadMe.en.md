@@ -1,5 +1,5 @@
-<a href="ProjectReadMe.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
-<a href="ProjectReadMe.md"><img src="images/german.svg" valign="top" align="right"/></a>
+<a href="ProjectReadMe.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
+<a href="ProjectReadMe.md"><img src="images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][my-license-url]
 <!--
@@ -85,12 +85,6 @@ See the [open issues][issues-url] for a full list of proposed features (and know
 ### License
 
 Licensed under the [GNU General Public License Version, v3][my-license-url].
-
-[de]: ProjectReadMe.md
-[en]: ProjectReadMe.en.md
-[english]: images/english.svg
-[german]: images/german.svg
-[empty]: images/empty.svg
 
 [logo]: images/hassio-icon.png
 [project-url]: https://homeassistant.io

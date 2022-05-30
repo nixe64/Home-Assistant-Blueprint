@@ -1,5 +1,5 @@
-<a href="Contributions.en.md"><img src="../images/english.svg" valign="top" align="right"/></a>
-<a href="Contributions.md"><img src="../images/german.svg" valign="top" align="right"/></a>
+<a href="Contributions.en.md"><img src="../images/en.svg" valign="top" align="right"/></a>
+<a href="Contributions.md"><img src="../images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][my-license-url]
 <!--
@@ -41,10 +41,6 @@ Still interested? **Great, welcome to the team!**
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[english]: ../images/english.svg
-[german]: ../images/german.svg
-[empty]: ../images/empty.svg
-
 [logo]: ../images/hassio-icon.png
 [project-url]: https://homeassistant.io
 

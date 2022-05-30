@@ -1,5 +1,5 @@
-<a href="ProjectReadMe.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
-<a href="ProjectReadMe.md"><img src="images/german.svg" valign="top" align="right"/></a>
+<a href="ProjectReadMe.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
+<a href="ProjectReadMe.md"><img src="images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][my-license-url]
 <!--
@@ -82,12 +82,6 @@ Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme)
 ### Lizenz
 
 Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-url].
-
-[de]: ProjectReadMe.md
-[en]: ProjectReadMe.en.md
-[english]: images/english.svg
-[german]: images/german.svg
-[empty]: images/empty.svg
 
 [logo]: images/hassio-icon.png
 [project-url]: https://homeassistant.io

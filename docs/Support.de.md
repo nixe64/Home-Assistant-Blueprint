@@ -1,5 +1,5 @@
-<a href="Support.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
-<a href="Support.md"><img src="images/german.svg" valign="top" align="right"/></a>
+<a href="Support.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
+<a href="Support.md"><img src="images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][license-url]
 
@@ -25,13 +25,6 @@ Der technische Support für die Software in meinen Repositories ist nur sehr ein
 **Die Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen von Nutzen ist, aber ohne irgeneine Garantie der Marktreife oder der Verwendbarkeit für einen bestimmten Zweck.**
 
 Wenn es irgendwo klemmt, helfe ich aber trotzdem (soweit es mir möglich ist).
-
-[de]: Support.md
-[en]: Support.en.md
-
-[english]: images/english.svg
-[german]: images/german.svg
-[empty]: images/empty.svg
 
 [logo]: images/hassio-icon.png
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/

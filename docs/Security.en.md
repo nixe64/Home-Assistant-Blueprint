@@ -1,5 +1,5 @@
-<a href="Support.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
-<a href="Support.md"><img src="images/german.svg" valign="top" align="right"/></a>
+<a href="Support.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
+<a href="Support.md"><img src="images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][license-url]
 
@@ -29,13 +29,6 @@ Use this section to tell others how to report a security vulnerability.
 
 Also tell them how they get feedback from you or your team,
 whether the reported vulnerability was accepted or rejected.
-
-[de]: Security.md
-[en]: Security.en.md
-
-[english]: images/english.svg
-[german]: images/german.svg
-[empty]: images/empty.svg
 
 [logo]: images/hassio-icon.png
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/

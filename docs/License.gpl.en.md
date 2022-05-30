@@ -1,6 +1,6 @@
 <a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" src="images/osi-approved-license.svg" align="right"/></a>
-<a href="License.gpl.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
-<a href="License.gpl.md"><img src="images/german.svg" valign="top" align="right"/></a>
+<a href="License.gpl.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
+<a href="License.gpl.md"><img src="images/de.svg" valign="top" align="right"/></a>
 
 ### GNU General Public License
 
@@ -583,7 +583,7 @@ or implied, including, but not limited to, the implied warranties
 of merchantability and fitness for a particular purpose. The
 entire risk as to the quality and performance of the program is
 with you. Should the program prove defective, you assume the cost
-of all neccesary servicing, repair or correction.**
+of all necessary servicing, repair or correction.**
 
 #### 16. Limitation of Liability.
 

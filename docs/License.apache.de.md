@@ -1,6 +1,6 @@
 <a href="https://opensource.org/licenses/Apache-2.0"><img alt="OSI Approved License Logo" src="images/osi-approved-license.svg" align="right"/></a>
-<a href="License.apache.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
-<a href="License.apache.md"><img src="images/german.svg" valign="top" align="right"/></a>
+<a href="License.apache.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
+<a href="License.apache.md"><img src="images/de.svg" valign="top" align="right"/></a>
 
 ### Apache Lizenz
 

@@ -1,5 +1,5 @@
-<a href="INFO.en.md"><img src="docs/images/english.svg" valign="top" align="right"/></a>
-<a href="INFO.md"><img src="docs/images/german.svg" valign="top" align="right"/></a>
+<a href="INFO.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
+<a href="INFO.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][my-license-url]
 

@@ -1,6 +1,6 @@
 <a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" src="images/osi-approved-license.svg" align="right"/></a>
-<a href="License.gpl.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
-<a href="License.gpl.md"><img src="images/german.svg" valign="top" align="right"/></a>
+<a href="License.gpl.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
+<a href="License.gpl.md"><img src="images/de.svg" valign="top" align="right"/></a>
 
 ### Allgemeine Öffentliche GNU-Lizenz (GNU General Public License)
 

@@ -26,11 +26,11 @@ License along with this program.  If not, see
 
 #### Disclaimer of Warranties
 
-There is no warranty for the template, to the extent permitted by applicable law. Except when otherwise stated in writing the copyright holders and/or other parties provide the template **"AS IS"** without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantablility and fitness for a particular purpose. The entire risk as to the quality an performance of the template is with you. Should the template prove defective, you assume the cost of all neccessary servicing, repair or correction.
+There is no warranty for the template, to the extent permitted by applicable law. Except when otherwise stated in writing the copyright holders and/or other parties provide the template **"AS IS"** without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantablility and fitness for a particular purpose. The entire risk as to the quality an performance of the template is with you. Should the template prove defective, you assume the cost of all necessary servicing, repair or correction.
 
 #### Limitation of Liability
 
-In no event unless required by applicable law or agreed to in writting will any copyright holder, or any other party who modifies and/or conveys to the template as permitted above, be liable to you for damages, including any general, special, incidential or consequential damages arising out of the use or inability to use the template (including but not limited to loss of data or data being rendered inaccurate or losses sustained by you or third parties or a failure of the template to operate with any other programs), even if such holder or other party has been advised of the possibility of such damages.
+In no event unless required by applicable law or agreed to in writing will any copyright holder, or any other party who modifies and/or conveys to the template as permitted above, be liable to you for damages, including any general, special, incidental or consequential damages arising out of the use or inability to use the template (including but not limited to loss of data or data being rendered inaccurate or losses sustained by you or third parties or a failure of the template to operate with any other programs), even if such holder or other party has been advised of the possibility of such damages.
 
 #### Interpretation
 
@@ -62,7 +62,7 @@ Copyright © SKopp, Madden and other users - Own Work.<br/>
 Free to use (Public Domain).
 
 [![uk][uk]][uk-url] Flag of the United Kingdom<br/>
-Copyright © Acts of Union 1800 Vektor: Zscout370 - Own Work, based on: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute.<br/>
+Copyright © Acts of Union 1800 Vector: Zscout370 - Own Work, based on: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute.<br/>
 Free to use (Public Domain).
 
 [![usa][usa]][usa-url] Flag of the United States of America<br/>
@@ -70,7 +70,7 @@ Copyright © Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG impleme
 Free to use (Public Domain).
 
 [![shields][shields]][shields-url] All used shields and badges<br/>
-Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
+Copyright © Uptime Robot Service Provider Ltd. as the operator of Shields.io.<br/>
 Free to use (Public Domain).
 
 [canada]: docs/images/canada.svg

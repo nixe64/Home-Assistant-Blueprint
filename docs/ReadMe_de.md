@@ -1,5 +1,5 @@
-<a href="ReadMe.en.md"><img src="images/english.svg" valign="top" align="right"/></a>
-<a href="ReadMe.md"><img src="images/german.svg" valign="top" align="right"/></a>
+<a href="ReadMe.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
+<a href="ReadMe.md"><img src="images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][my-license-url]
 <!--
@@ -19,6 +19,10 @@ für Entwicklung einer neuen Home Assistant Integration (Custom Component) anzul
 ### Verwendung
 
 Um diese Vorlage für dein eigenes Projekt zu verwenden, nutze einfach diesen Button ![btn][template-btn] in der Repository-Ansicht auf GitHub oder klone dieses Repository. 
+
+Ich verwende in allen Repositories GitGuardian, um zu verhindern, dass ich versehentlich sensible Daten wie Zugangsdaten zu bezahlten Diensten im Quellcode auf GitHub öffentlich zugänglich mache (vor allem in den Tests der Implierungen). Ich rate dir dringend, dies für deine Projekte ebenfalls zu erwägen, weil es teuer für dich werden kann, wenn diese Daten in die falschen Hände geraten. Falls du diese Überprüfung nicht wünscht, lösche die Datei ```.github/workflows/gitguardian.yml``` und passe die pre-commit Überprüfungen an, indem du in der Datei ```.pre-commit-config.yaml``` den "Hook" mit der id ```ggshield``` entfernst. Falls du mit der Überprüfung einverstanden bist, benötgst du einen ```API_KEY``` von GitGuardian. 
+
+
 
 ### Verbesserungsvorschläge / Fehlerberichte / Serviceanfragen
 
@@ -40,12 +44,6 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-ur
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[de]: ReadMe.md
-[en]: ReadMe.en.md
-[english]: images/english.svg
-[german]: images/german.svg
-[empty]: images/empty.svg
-
 [logo]: images/hassio-icon.png
 [project-url]: https://homeassistant.io
 

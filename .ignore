@@ -1,0 +1,7 @@
+*.svg
+*_de*.md
+*.de*.md
+*.fr*.md
+temp
+bandit.yaml
+setup.cfg
