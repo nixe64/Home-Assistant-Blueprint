@@ -1,6 +1,6 @@
 <a href="LICENSE.fr.md"><img src="docs/images/fr.svg" valign="top" align="right"/></a>
-<a href="LICENSE.en.md"><img src="docs/images/english.svg" valign="top" align="right"/></a>
-<a href="LICENSE.md"><img src="docs/images/german.svg" valign="top" align="right"/></a>
+<a href="LICENSE.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
+<a href="LICENSE.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][orig-license-url]
 
@@ -40,7 +40,7 @@ Sollten der o.a. Gewährleistungsausschluß und die o.a. Haftungsbegrenzung aufg
 
 ### Danksagungen
 
-Mein Dank gilt allen, die zu diesem Projekt beitragen, oder deren Vorarbeit ich für die Realisierung meiner Ideen nutzen durfte.
+Mein Dank gilt allen, die ich von meinem Vorhaben überzeugen konnte/kann und die aktiv an der Realisierung unserer gemeinsam entwickelten Ideen mitgewirkt haben/werden oder deren Vorarbeit wir für die Realisierung dieses Vorhabens verwenden durften. Ganz besonders möchte ich meiner Freundin für Ihr Verständnis und Ihre Unterstützung danken, ohne die meine Vision nie Wirklichkeit wird/geworden wäre (weil es viel zu oft darauf hinaus läuft, das ich nicht viel Zeit für sie habe).
 
 ### Urheberrechtslizenzen / Namensnennungen
 
@@ -56,22 +56,22 @@ Copyright © Wikimedia Commons. Die aktuelle SVG-Kodierung wurde von MapGrid neu
 Recht zur freien Nutzung (Public Domain)
 
 [![france][france]][fr-url] Flagge der Französischen Republik<br/>
-Copyright © SKopp 
+Copyright © SKopp<br/>
 Recht zur freien Nutzung (Public Domain)
 
 [![germany][germany]][germany-url] Flagge der Bundesrepublik Deutschland<br/>
-Copyright © SKopp, Madden and other users - Own Work.<br/>
+Copyright © SKopp, Madden und andere - Eigenes Werk.<br/>
 Recht zur freien Nutzung (Public Domain)
 
 [![uk][uk]][uk-url] Flagge des Vereinigten Königreichsw<br/>
-Copyright © Acts of Union 1800 Vektor: Zscout370 – Eigene Arbeit, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute.<br/>
+Copyright © Acts of Union 1800 Vektor: Zscout370 – Eigenes Werk, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute.<br/>
 Recht zur freien Nutzung (Public Domain)
 
-[![usa][usa]][usa-url] Flag of the United States of America<br/>
+[![usa][usa]][usa-url] Flagge der Vereinigten Staaten von Amerika<br/>
 Copyright © Dbenbenn, Zscout370, Jacobolus, Trägheit, Technion. - SVG-Umsetzung des U.S. Code: Titel 4, Kapitel 1, Abschnitt 1 [1] (das «Flaggengesetz» der Vereinigten Staaten).<br/>
 Recht zur freien Nutzung (Public Domain)
 
-[![shields][shields]][shields-url] All used shields and badges<br/>
+[![shields][shields]][shields-url] Alle verwendeten Shields und Badges<br/>
 Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
 Recht zur freien Nutzung (Public Domain)
 

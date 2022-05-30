@@ -43,7 +43,7 @@ liability accompanies a copy of the Program in return for a fee.
 
 ### Acknowledgements
 
-My thanks go to all those who contributed to this project or whose preparatory work I was able to use for the realization of my ideas.
+My thanks go to all those whom I was able to convince of my project and who actively participated in the realization of our jointly developed ideas or whose preparatory work we were able to use for the realization of this project. I would especially like to thank my girlfriend for her understanding and support, without whom my vision will/would never become a reality (because all too often it comes down to the fact that I don't have much time for her).
 
 ### Copyrights / Attribution
 
