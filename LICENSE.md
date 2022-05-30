@@ -45,6 +45,10 @@ Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Bluepri
 Copyright © home-assistant.io<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][preceding-license].
 
+[![shields][shields]][shields-url] Alle verwendeten Shields und Badges<br/>
+Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
+Recht zur freien Nutzung (Public Domain).
+
 [![canada][canada]][ca-url] Flagge von Kanada<br/>
 Copyright © Wikimedia Commons. Die aktuelle SVG-Kodierung wurde von MapGrid neu geschrieben. - Dieses Vektorbild wird programmatisch aus der in File:Flagge von Kanada definierten Geometrie generiert (Konstruktionsblatt – Blattgeometrie).<br/>
 Recht zur freien Nutzung (Public Domain).
@@ -65,9 +69,26 @@ Recht zur freien Nutzung (Public Domain).
 Copyright © Dbenbenn, Zscout370, Jacobolus, Trägheit, Technion. - SVG-Umsetzung des U.S. Code: Titel 4, Kapitel 1, Abschnitt 1 [1] (das «Flaggengesetz» der Vereinigten Staaten).<br/>
 Recht zur freien Nutzung (Public Domain).
 
-[![shields][shields]][shields-url] Alle verwendeten Shields und Badges<br/>
-Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
-Recht zur freien Nutzung (Public Domain).
+[![en][en]][my-license] Symbol für englische Übersetzung<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+Orignalflaggen siehe oben
+
+[![fr][fr]][my-license] Symbol für französiche Übersetzung<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+Orignalflaggen siehe oben
+
+[![ggshield][ggshield]][my-license] GitGuardian Logo<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+Original von [github.githubassets.com](https://github.githubassets.com/images/icons/emoji/unicode/1f989.png)<br/>
+Lizenz unbekannt
+
+[![python][python]][python-url]Python-Logo<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+Original von ™/®Python Software Foundation<br/>
+Veröffentlicht mit Urheberrecht gemäß [GPL][orig-license-url]<br/> 
+<http://www.python.org/community/logos/>
+
+
 
 [canada]: docs/images/canada.svg
 [france]: docs/images/france.svg
@@ -81,6 +102,7 @@ Recht zur freien Nutzung (Public Domain).
 [license-badge]: docs/images/license.svg
 [orig-license-url]: docs/License.gpl.de.md
 [preceding-licsense]: docs/License.apache.de.md
+[my-license]: LICENSE.md
 
 [version-badge]: docs/images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
@@ -93,3 +115,9 @@ Recht zur freien Nutzung (Public Domain).
 [germany-url]: https://commons.wikimedia.org/w/index.php?curid=343071
 [uk-url]: https://commons.wikimedia.org/w/index.php?curid=347935
 [usa-url]: https://commons.wikimedia.org/w/index.php?curid=318418
+[en]: docs/images/en.svg
+[fr]: docs/images/fr.svg
+
+[python]: docs/images/python-small.svg
+[python-url]: https://commons.wikimedia.org/w/index.php?curid=34991637
+[ggshield]: docs/images/ggshield.png
