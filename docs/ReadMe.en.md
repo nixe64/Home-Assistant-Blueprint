@@ -28,6 +28,10 @@ If you have suggestions for new features, want to report a bug, or get stuck on 
 
 Contributions are what make the open source community such a great place to learn, inspire, and create. I would be happy if you would like to contribute a new feature, bugfix or anything else to this project. Anything that makes this project better is welcome. But please read [Contributions][contribute-url] to this project and the [Code of Conduct][coc-url] for contributors first **before** you start coding.
 
+### Acknowledgements
+
+My thanks go to all those whom I was able to convince of my project and who actively participated in the realization of our jointly developed ideas or whose preparatory work we were able to use for the realization of this project. I would especially like to thank my girlfriend for her understanding and support, without whom my vision will/would never become a reality (because all too often it comes down to the fact that I don't have much time for her).
+
 ### License
 
 Licensed under the [GNU General Public License v3.0][my-license-url].

@@ -23,8 +23,6 @@ der GPL.
 Sie sollten ein Exemplar der Allgemeinen Öffentlichen GNU-Lizenz zusammen
 mit diesem Programm erhalten haben. Falls nicht, siehe <http://www.gnu.org/licenses/>.
 
-<br/>
-
 ### Die wichtigsten Lizenzbestimmungen in aller Kürze
 
 #### Gewährleistungsausschluß
@@ -38,10 +36,6 @@ In keinem Fall, außer wenn durch geltendes Recht gefordert oder schriftlich zug
 #### Interpretation
 Sollten der o.a. Gewährleistungsausschluß und die o.a. Haftungsbegrenzung aufgrund ihrer Bedingungen gemäß lokalem Recht unwirksam sein, sollen Bewertungsgerichte dasjenige lokale Recht anwenden, das einer absoluten Aufhebung jeglicher zivilen Haftung in Zusammenhang mit der Vorlage am nächsten kommt, es sei denn, der Vorlage lag eine entgeltliche Garantieerklärung oder Haftungsübernahme bei. 
 
-### Danksagungen
-
-Mein Dank gilt allen, die ich von meinem Vorhaben überzeugen konnte/kann und die aktiv an der Realisierung unserer gemeinsam entwickelten Ideen mitgewirkt haben/werden oder deren Vorarbeit wir für die Realisierung dieses Vorhabens verwenden durften. Ganz besonders möchte ich meiner Freundin für Ihr Verständnis und Ihre Unterstützung danken, ohne die meine Vision nie Wirklichkeit wird/geworden wäre (weil es viel zu oft darauf hinaus läuft, das ich nicht viel Zeit für sie habe).
-
 ### Urheberrechtslizenzen / Namensnennungen
 
 Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Blueprints.
@@ -52,28 +46,28 @@ Copyright © home-assistant.io<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][preceding-license].
 
 [![canada][canada]][ca-url] Flagge von Kanada<br/>
-Copyright © Wikimedia Commons. Die aktuelle SVG-Kodierung wurde von MapGrid neu geschrieben. - Dieses Vektorbild wird programmatisch aus der in File:Flagge von Kanada definierten Geometrie generiert (Konstruktionsblatt – Blattgeometrie)<br/>
-Recht zur freien Nutzung (Public Domain)
+Copyright © Wikimedia Commons. Die aktuelle SVG-Kodierung wurde von MapGrid neu geschrieben. - Dieses Vektorbild wird programmatisch aus der in File:Flagge von Kanada definierten Geometrie generiert (Konstruktionsblatt – Blattgeometrie).<br/>
+Recht zur freien Nutzung (Public Domain).
 
 [![france][france]][fr-url] Flagge der Französischen Republik<br/>
-Copyright © SKopp<br/>
-Recht zur freien Nutzung (Public Domain)
+Copyright © SKopp.<br/>
+Recht zur freien Nutzung (Public Domain).
 
 [![germany][germany]][germany-url] Flagge der Bundesrepublik Deutschland<br/>
 Copyright © SKopp, Madden und andere - Eigenes Werk.<br/>
-Recht zur freien Nutzung (Public Domain)
+Recht zur freien Nutzung (Public Domain).
 
-[![uk][uk]][uk-url] Flagge des Vereinigten Königreichsw<br/>
+[![uk][uk]][uk-url] Flagge des Vereinigten Königreichs<br/>
 Copyright © Acts of Union 1800 Vektor: Zscout370 – Eigenes Werk, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute.<br/>
-Recht zur freien Nutzung (Public Domain)
+Recht zur freien Nutzung (Public Domain).
 
 [![usa][usa]][usa-url] Flagge der Vereinigten Staaten von Amerika<br/>
 Copyright © Dbenbenn, Zscout370, Jacobolus, Trägheit, Technion. - SVG-Umsetzung des U.S. Code: Titel 4, Kapitel 1, Abschnitt 1 [1] (das «Flaggengesetz» der Vereinigten Staaten).<br/>
-Recht zur freien Nutzung (Public Domain)
+Recht zur freien Nutzung (Public Domain).
 
 [![shields][shields]][shields-url] Alle verwendeten Shields und Badges<br/>
 Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
-Recht zur freien Nutzung (Public Domain)
+Recht zur freien Nutzung (Public Domain).
 
 [canada]: docs/images/canada.svg
 [france]: docs/images/france.svg

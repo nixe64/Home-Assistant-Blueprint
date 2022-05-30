@@ -27,7 +27,11 @@ Wenn du Vorschläge für neue Features hast, einen Fehler melden möchtest oder 
 ### Mitwirkung
 
 Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum Lernen, Inspirieren und Schaffen. Ich würde mich freuen, wenn du ein neues Feature, einen Bugfix oder irgendetwas anderes zu diesem Projekt beitragen möchtest. Es ist alles willkommen, daß dieses Projekt voran bringt. Aber bitte lese zuerst [Mitwirkung][contribute-url] an diesem Projekt und den [Verhaltenskodex][coc-url] für Mitwirkende, **bevor** du mit dem Programmieren beginnst.
- 
+
+### Danksagungen
+
+Mein Dank gilt allen, die ich von meinem Vorhaben überzeugen konnte/kann und die aktiv an der Realisierung unserer gemeinsam entwickelten Ideen mitgewirkt haben/werden oder deren Vorarbeit wir für die Realisierung dieses Vorhabens verwenden dürfen. Ganz besonders möchte ich meiner Freundin für Ihr Verständnis und Ihre Unterstützung danken, ohne die meine Vision nie Wirklichkeit wird/geworden wäre (weil es viel zu oft darauf hinaus läuft, das ich nicht viel Zeit für sie habe).
+
 ### Lizenz
 
 Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-url].
