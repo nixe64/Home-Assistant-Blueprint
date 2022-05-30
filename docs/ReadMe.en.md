@@ -30,7 +30,9 @@ Contributions are what make the open source community such a great place to lear
 
 ### Acknowledgements
 
-My thanks go to all those whom I was able to convince of my project and who actively participated in the realization of our jointly developed ideas or whose preparatory work we were able to use for the realization of this project. I would especially like to thank my girlfriend for her understanding and support, without whom my vision will/would never become a reality (because all too often it comes down to the fact that I don't have much time for her).
+My thanks go to all those who have supported or will support my project and who actively participate in the realization or contribute with a new perspective and suggestions for improvements to the further refinement and completion of my initial idea. I would also like to thank everyone whose preparatory work I have been able to use for the realization of this project. 
+
+However, I would like to express my gratitude to my friend for her understanding and support, without which my vision will never become a reality (because it often amounts to me sitting late at night and at weekends on the implementation and refinement of my idea, leaving less time for joint activities than she should have deserved).
 
 ### License
 
