@@ -1,7 +1,7 @@
 <a href="ReadMe.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
-<a href="ReadMe.md"><img src="images/de.svg" valign="top" align="right"/></a>
+<a href="ReadMe_de.md"><img src="images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
-[![License][license-badge]][my-license-url]
+[![License][license-badge]][license-url]
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->
@@ -34,13 +34,13 @@ Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum L
 
 ### Danksagungen
 
-Mein Dank gilt allen, die mein Vorhaben unterstützt haben oder noch unterstützen werden und die aktiv an der Realisierung mitwirken oder durch eine neue Sichtweise und Vorschläge für Verbesserungen dazu beitragen meine anfängliche Idee weiter zu verfeinern und abzurunden. Ebenfalls bedanken möchte ich mich bei allen, deren Vorarbeit ich für die Realisierung dieses Vorhabens verwenden darf. 
+Mein Dank gilt allen, die mein Vorhaben unterstützt haben oder noch unterstützen werden und die aktiv an der Realisierung mitwirken oder durch eine neue Sichtweise und Vorschläge für Verbesserungen dazu beitragen oder bereits beigetragen haben, meine anfängliche Idee weiter zu verfeinern und abzurunden. Ebenfalls bedanken möchte ich mich bei allen, deren Vorarbeit ich für die Realisierung dieses Vorhabens verwenden darf. 
 
 Besonders und ausdrücklich möchte ich allerdings meiner Freundin für Ihr Verständnis und Ihre Unterstützung danken, ohne die meine Vision nie Wirklichkeit wird (weil es oft darauf hinaus läuft, das ich bis spät in der Nacht und am Wochenende an der Umsetzung und Verfeinerung meiner Idee sitze und deshalb für gemeinsame Aktivitäten weniger Zeit übrig bleibt, als sie verdient hätte).
 
 ### Lizenz
 
-Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-url].
+Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][license-url].
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -48,8 +48,7 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-ur
 [project-url]: https://homeassistant.io
 
 [license-badge]: images/lizenz.svg
-[my-license-url]: ../License.md
-[orig-license-url]: License.gpl.md
+[license-url]: ../LICENSE_de.md
 
 [version-badge]: images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
@@ -58,9 +57,9 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-ur
 [bugs-badge]: https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/bug.svg?label=Fehlerberichte&color=informational
 [bugs-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug
 
-[contribute-url]: contributing/Contribute.md
-[coc-url]: contributing/CodeOfConduct.md
+[contribute-url]: contributing/Contribute.de.md
+[coc-url]: contributing/CodeOfConduct.de.md
 
 [template-btn]: images/template-btn.svg
 
-[support-url]: Support.md
+[support-url]: Support.de.md

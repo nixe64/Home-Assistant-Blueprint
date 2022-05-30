@@ -1,5 +1,5 @@
 <a href="Support.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
-<a href="Support.md"><img src="images/de.svg" valign="top" align="right"/></a>
+<a href="Support.de.md"><img src="images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][license-url]
 

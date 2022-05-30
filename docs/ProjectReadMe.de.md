@@ -89,8 +89,7 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-ur
 [example-url]: https://www.example.com
 
 [license-badge]: images/lizenz.svg
-[my-license-url]: ../License.md
-[orig-license-url]: License.gpl.md
+[license-url]: ../LICENSE_de.md
 
 [version-badge]: images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
@@ -99,8 +98,8 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][my-license-ur
 [bugs-badge]: https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/bug.svg?label=Fehlerberichte&color=informational
 [bugs-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug
 
-[contribute-url]: contributing/Contribute.md
-[coc-url]: contributing/CodeOfConduct.md
+[contribute-url]: contributing/Contribute.de.md
+[coc-url]: contributing/CodeOfConduct.de.md
 
 [template-btn]: images/template-btn.svg
 

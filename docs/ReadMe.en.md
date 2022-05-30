@@ -1,5 +1,5 @@
 <a href="ReadMe.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
-<a href="ReadMe.md"><img src="images/de.svg" valign="top" align="right"/></a>
+<a href="ReadMe_de.md"><img src="images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][my-license-url]
 <!--
@@ -30,7 +30,7 @@ Contributions are what make the open source community such a great place to lear
 
 ### Acknowledgements
 
-My thanks go to all those who have supported or will support my project and who actively participate in the realization or contribute with a new perspective and suggestions for improvements to the further refinement and completion of my initial idea. I would also like to thank everyone whose preparatory work I have been able to use for the realization of this project. 
+My thanks go to all those who have supported or will continue to support my project and who are actively involved in its realization or who have contributed or already contributed to the refinement and completion of my initial idea with a new point of view and suggestions for improvements. I would also like to thank everyone whose preparatory work I have been able to use for the realization of this project. 
 
 However, I would like to express my gratitude to my friend for her understanding and support, without which my vision will never become a reality (because it often amounts to me sitting late at night and at weekends on the implementation and refinement of my idea, leaving less time for joint activities than she should have deserved).
 

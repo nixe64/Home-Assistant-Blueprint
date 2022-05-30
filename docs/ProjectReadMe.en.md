@@ -1,7 +1,7 @@
 <a href="ProjectReadMe.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
-<a href="ProjectReadMe.md"><img src="images/de.svg" valign="top" align="right"/></a>
+<a href="ProjectReadMe.de.md"><img src="images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
-[![License][license-badge]][my-license-url]
+[![License][license-badge]][license-url]
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->
@@ -84,7 +84,7 @@ See the [open issues][issues-url] for a full list of proposed features (and know
 
 ### License
 
-Licensed under the [GNU General Public License Version, v3][my-license-url].
+Licensed under the [GNU General Public License Version, v3][license-url].
 
 [logo]: images/hassio-icon.png
 [project-url]: https://homeassistant.io
@@ -92,8 +92,7 @@ Licensed under the [GNU General Public License Version, v3][my-license-url].
 [example-url]: https://www.example.com
 
 [license-badge]: images/license.svg
-[my-license-url]: ../License.en.md
-[orig-license-url]: License.gpl.en.md
+[license-url]: ../LICENSE.en.md
 
 [version-badge]: images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

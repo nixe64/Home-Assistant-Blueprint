@@ -1,5 +1,5 @@
 <a href="Support.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
-<a href="Support.md"><img src="images/de.svg" valign="top" align="right"/></a>
+<a href="Support.de.md"><img src="images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][license-url]
 
@@ -31,7 +31,7 @@ If something gets stuck, I'll still help (as far as I can).
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
 [license-badge]: images/license.svg
-[license-url]: ../License.gpl.md
+[license-url]: ../LICENSE_de.md
 
 [version-badge]: images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

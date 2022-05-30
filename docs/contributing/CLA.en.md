@@ -1,7 +1,7 @@
 <a href="CLA.en.md"><img src="../images/en.svg" valign="top" align="right"/></a>
-<a href="CLA.md"><img src="../images/de.svg" valign="top" align="right"/></a>
+<a href="CLA.de.md"><img src="../images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
-[![License][license-badge]][my-license-url]
+[![License][license-badge]][license-url]
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->
@@ -37,8 +37,7 @@ This license agreement cannot be signed explicitly as I do not have an Enterpris
 [project-url]: https://github.com/nixe64/Home-Assistant-Blueprint/
 
 [license-badge]: ../images/license.svg
-[my-license-url]: ../../License.en.md
-[orig-license-url]: ../License.gpl.en.md
+[license-url]: ../../LICENSE.en.md
 
 [version-badge]: ../images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

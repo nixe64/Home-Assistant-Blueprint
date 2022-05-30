@@ -1,6 +1,6 @@
 <a href="LICENSE.fr.md"><img src="docs/images/fr.svg" valign="top" align="right"/></a>
 <a href="LICENSE.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
-<a href="LICENSE.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
+<a href="LICENSE_de.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][orig-license-url]
 
@@ -47,7 +47,7 @@ This repository template is a derivative of a Home Assistant Blueprint.
 
 [Home Assistant Blueprints][project-url]<br/>
 Copyright © home-assistant.io<br/>
-Distributed with copyright under the [Apache license version 2.0](docs/License.apache.md).
+Distributed with copyright under the [Apache license version 2.0](docs/License.apache.en.md).
 
 [![canada][canada]][ca-url] Flag of Canada<br/>
 Copyright © Wikimedia Commons. The current SVG encoding is a rewrite performed by MapGrid. - This vector image is generated programmatically from geometry defined in File:Flag of Canada (construction sheet - leaf geometry).<br/>

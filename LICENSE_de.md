@@ -1,6 +1,6 @@
 <a href="LICENSE.fr.md"><img src="docs/images/fr.svg" valign="top" align="right"/></a>
 <a href="LICENSE.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
-<a href="LICENSE.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
+<a href="LICENSE_de.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][orig-license-url]
 
@@ -79,8 +79,8 @@ Recht zur freien Nutzung (Public Domain).
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
 [license-badge]: docs/images/license.svg
-[orig-license-url]: docs/License.gpl.md
-[preceding-licsense]: docs/License.apache.en.md
+[orig-license-url]: docs/License.gpl.de.md
+[preceding-licsense]: docs/License.apache.de.md
 
 [version-badge]: docs/images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

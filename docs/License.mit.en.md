@@ -1,6 +1,6 @@
 <a href="https://opensource.org/licenses/mit-license.php"><img alt="OSI Approved License Logo" src="images/osi-approved-license.svg" align="right"/></a>
 <a href="License.mit.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
-<a href="license.mit.md"><img src="images/de.svg" valign="top" align="right"/></a>
+<a href="license.mit.de.md"><img src="images/de.svg" valign="top" align="right"/></a>
 <br/>
 
 ### The MIT-License
@@ -25,7 +25,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 ### **End license text.**
 
-[de]: License.mit.md
+[de]: License.mit.de.md
 [en]: License.mit.en.md
 [english]: images/english.svg
 [german]: images/german-without-badges.svg

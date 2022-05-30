@@ -1,7 +1,7 @@
 <a href="CodeOfConduct.en.md"><img src="../images/en.svg" valign="top" align="right"/></a>
-<a href="CodeOfConduct.md"><img src="../images/de.svg" valign="top" align="right"/></a>
+<a href="CodeOfConduct.de.md"><img src="../images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
-[![License][license-badge]][my-license-url]
+[![License][license-badge]][license-url]
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->
@@ -205,8 +205,7 @@ Community Participation Guidelines Response Lead may amend the guidelines from t
 [project-url]: https://github.com/nixe64/Home-Assistant-Blueprint/
 
 [license-badge]: ../images/lizenz.svg
-[my-license-url]: ../../License.md
-[orig-license-url]: ../License.gpl.md
+[license-url]: ../../LICENSE_de.md
 
 [version-badge]: ../images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
@@ -214,9 +213,3 @@ Community Participation Guidelines Response Lead may amend the guidelines from t
 [issues-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues
 [bugs-badge]: https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/bug.svg?label=Fehlerberichte&color=informational
 [bugs-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug
-
-[coc-url]: CodeOfConduct.md
-[pr-reviews]: https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews
-[cla-url]: CLD.md
-[flow-url]: (https://githubflow.github.io/)
-[pr-url]: https://github.com/nixe64/Home-Assistant-Blueprint/pulls
