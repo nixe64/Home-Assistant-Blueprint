@@ -1,7 +1,7 @@
 <a href="ReadMe.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
-<a href="ReadMe_de.md"><img src="images/de.svg" valign="top" align="right"/></a>
+<a href="ReadMe.md"><img src="images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
-[![License][license-badge]][my-license-url]
+[![License][license-badge]][license-url]
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->
@@ -36,7 +36,7 @@ However, I would like to express my gratitude to my friend for her understanding
 
 ### License
 
-Licensed under the [GNU General Public License v3.0][my-license-url].
+Licensed under the [GNU General Public License v3.0][license-url].
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -45,7 +45,7 @@ Licensed under the [GNU General Public License v3.0][my-license-url].
 
 [license-badge]: images/license.svg
 [my-license-url]: ../License.en.md
-[orig-license-url]: License.gpl.en.md
+[license-url]: ../LICENSE.en.md
 
 [version-badge]: images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

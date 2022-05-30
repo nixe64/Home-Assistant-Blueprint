@@ -31,7 +31,7 @@ If something gets stuck, I'll still help (as far as I can).
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
 [license-badge]: images/license.svg
-[license-url]: ../LICENSE_de.md
+[license-url]: ../LICENSE.md
 
 [version-badge]: images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

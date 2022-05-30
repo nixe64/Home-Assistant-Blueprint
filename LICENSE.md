@@ -1,6 +1,6 @@
 <a href="LICENSE.fr.md"><img src="docs/images/fr.svg" valign="top" align="right"/></a>
 <a href="LICENSE.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
-<a href="LICENSE_de.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
+<a href="LICENSE.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][orig-license-url]
 

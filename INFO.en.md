@@ -1,7 +1,7 @@
 <a href="INFO.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
-<a href="INFO_de.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
+<a href="INFO.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
-[![License][license-badge]][my-license-url]
+[![License][license-badge]][license-url]
 
 ### Amazon Polly for Home Assistant
 <br/>
@@ -18,11 +18,11 @@ It allows the use of all configuration variables of the original Amazon Polly In
 
 ### License
 
-Licensed under the [GNU General Public License v3.0][my-license-url]. The [Source Code][github] can be found in my GitHub Repository.
+Licensed under the [GNU General Public License v3.0][license-url]. The [Source Code][github] can be found in my GitHub Repository.
 
 
 [license-badge]: docs/images/lizenz.svg
-[my-license-url]:LICENSE.en.md
+[license-url]:LICENSE.en.md
 
 [version-badge]: docs/images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

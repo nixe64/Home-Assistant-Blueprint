@@ -45,7 +45,7 @@ Still interested? **Great, welcome to the team!**
 [project-url]: https://homeassistant.io
 
 [license-badge]: ../images/lizenz.svg
-[license-url]: ../../LICENSE_de.md
+[license-url]: ../../LICENSE.md
 
 [version-badge]: ../images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

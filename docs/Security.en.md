@@ -34,7 +34,7 @@ whether the reported vulnerability was accepted or rejected.
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
 [license-badge]: images/lizenz.svg
-[license-url]: ../License.gpl.md
+[license-url]: ..LICENSE.en.md
 
 [version-badge]: images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
