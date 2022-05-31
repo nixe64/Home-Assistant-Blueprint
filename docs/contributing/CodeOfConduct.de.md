@@ -220,7 +220,7 @@ Wir möchten alle ermutigen, Fragen zu den Richtlinien zu stellen. Wenn Du eine 
 
 Diese Richtlinien werden unter der Creative Commons Attribution-ShareAlike Lizenz veröffentlicht. Dies gilt auch für den Abschnitt **Nenne deine Quellen**, für den ich das Copyright habe.
 
-Nenne deine Quellen, Copyright © 2022, Andreas Nixdorf, Eigenes Werk.
+**Nenne deine Quellen**, Copyright © 2022, Andreas Nixdorf, Eigenes Werk.
 
 Sie wurden mit Modifizierungen an den ursprünglichen Community-Participation-Richtlinien von Mozilla, dem Ubuntu Code of Conduct, Mozillas View Source Conference Code of Conduct und dem Rust Language Code of Conduct abgeändert, die auf dem Stumptown Syndicates Citizen Code of Conduct basieren. Zusätzlicher Text wurde dem LGBTQ in Technology Code of Conduct und dem WisCon Code of Conduct entnommen. 
 
