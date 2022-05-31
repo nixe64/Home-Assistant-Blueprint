@@ -38,7 +38,7 @@ Als erstes solltest du deine Repositories schon mal vorbereiten. Dazu musst du f
 
 Abschliessend muss GitGuardian dann noch als GitHub-App aktiviert werden (zu finden unter deinen Konto-Settings / Applications). Der Vorgang muss allerdings **auf GitGuardian** eingeleitet werden. Dazu gehst du im [Dashboard][gg-dash] auf ```INTEGRATIONS```. Unter *VCS Integrations* findest du GitHub und dort musst du dann nur noch den ```Install```-Button drücken und die Einstellungen vornehmen. Damit hast du es dann geschafft.
 
-### Vorbereitung des virtuellen Python-Environments
+### [![python][python]][python-url]Vorbereitung des virtuellen Python-Environments
 
 
 
@@ -56,3 +56,5 @@ Abschliessend muss GitGuardian dann noch als GitHub-App aktiviert werden (zu fin
 [ggshield]: images/ggshield.png
 [ggshield-url]: https://www.gitguardian.com/
 [gg-dash]: https://dashboard.gitguardian.com/
+[python]: images/python.svg
+[python-url]: https://www.python.org/
