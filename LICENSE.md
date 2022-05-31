@@ -9,7 +9,7 @@
 Copyright © 2022, Andreas Nixdorf.
 
 Dieses Programm ist freie Software. Sie können es unter den
-Bedingungen der [Allgemeinen Öffentlichen GNU-Lizenz (GPL)][orig-license-url], wie von der Free
+Bedingungen der [Allgemeinen Öffentlichen GNU-Lizenz (GPL)][gpl], wie von der Free
 Software Foundation veröffentlicht, weitergeben und/oder
 modifizieren, entweder gemäß Version 3 der Lizenz oder (nach
 Ihrer Option) jeder späteren Version.
