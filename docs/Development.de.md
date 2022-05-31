@@ -7,11 +7,9 @@
 -->
 
 ### Home Assistant Blueprint - Einrichtung der Entwicklungsumgebung
-<br/>
 
-[![Logo][logo]][project-url]
-
-### [![ggshield][ggshield]][ggshield-url]GitGuardian einrichten (falls gewünscht)
+[![ggshield][ggshield]][ggshield-url]
+### GitGuardian Shield einrichten (falls gewünscht)
 
 Um die Überprüfungen von [GitGuardian][ggshield-url] zu verwenden, benötigst du zunächst ein kostenloses Konto. Der Link im vorherigen Satz führt dich direkt auf die Startseite und dort nutze den ```Start for free```-Button. Nachdem du dein Konto eingerichtet hast, kannst du über ```API``` / ```Personal access tokens``` die benötigten persönlichen Zugangstoken erzeugen lassen. Nach dem Drücken von ```Create token``` gib deinem Token einen Namen, damit du später erkennen kannst, wofür du es verwendest und nimm dann die folgenden Einstellungen vor:
 
@@ -38,14 +36,12 @@ Als erstes solltest du deine Repositories schon mal vorbereiten. Dazu musst du f
 
 Abschliessend muss GitGuardian dann noch als GitHub-App aktiviert werden (zu finden unter deinen Konto-Settings / Applications). Der Vorgang muss allerdings **auf GitGuardian** eingeleitet werden. Dazu gehst du im [Dashboard][gg-dash] auf ```INTEGRATIONS```. Unter *VCS Integrations* findest du GitHub und dort musst du dann nur noch den ```Install```-Button drücken und die Einstellungen vornehmen. Damit hast du es dann geschafft.
 
-### [![python][python]][python-url]Vorbereitung des virtuellen Python-Environments
+[![python][python]][python-url]
+### Vorbereitung des virtuellen Python-Environments
 
 
 
 
-
-[logo]: images/hassio-icon.png
-[project-url]: https://homeassistant.io
 
 [license-badge]: images/lizenz.svg
 [license-url]: ../LICENSE.md
@@ -53,8 +49,8 @@ Abschliessend muss GitGuardian dann noch als GitHub-App aktiviert werden (zu fin
 [version-badge]: images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
 
-[ggshield]: images/ggshield.png
+[ggshield]: images/gg-logo.svg
 [ggshield-url]: https://www.gitguardian.com/
 [gg-dash]: https://dashboard.gitguardian.com/
-[python]: images/python.svg
+[python]: images/python-logo.svg
 [python-url]: https://www.python.org/

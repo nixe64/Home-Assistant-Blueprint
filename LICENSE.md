@@ -2,7 +2,7 @@
 <a href="LICENSE.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
 <a href="LICENSE.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
-[![License][license-badge]][orig-license-url]
+[![License][license-badge]][gpl]
 
 ### Home Assistant Blueprint
 
@@ -43,7 +43,7 @@ Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Bluepri
 
 [Home Assistant Blueprints][project-url]<br/>
 Copyright © home-assistant.io<br/>
-Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][preceding-license].
+Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][apache]-Lizenz.
 
 [![canada][canada]][ca-url]<br/>
 Flagge von Kanada<br/>
@@ -87,15 +87,15 @@ Recht zur freien Nutzung (Public Domain).
 
 [![ggshield][ggshield]][my-license]<br/>
 GitGuardian Logo<br/>
-Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
-Original von [github.githubassets.com](https://github.githubassets.com/images/icons/emoji/unicode/1f989.png)<br/>
-Lizenz unbekannt
+Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
+Original: Copyright © 2022, GitGuardian<br/>
+Veröffentlicht mit Urheberrecht gemäß [MIT][mit]-Lizenz.
 
-[![python][python]][python-url]<br/>
-Python-Logo<br/>
+[![python][python]][python-url][![and][and]][python-url][![python-logo][python-logo]][python-url]<br/>
+Python-Logos<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 Original von ™/®Python Software Foundation<br/>
-Veröffentlicht mit Urheberrecht gemäß [GPL][orig-license-url]<br/> 
+Veröffentlicht mit Urheberrecht gemäß [GPL][gpl]-Lizenz<br/> 
 <http://www.python.org/community/logos/>
 
 
@@ -110,8 +110,9 @@ Veröffentlicht mit Urheberrecht gemäß [GPL][orig-license-url]<br/>
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
 [license-badge]: docs/images/license.svg
-[orig-license-url]: docs/License.gpl.de.md
-[preceding-licsense]: docs/License.apache.de.md
+[gpl]: docs/License.gpl.de.md
+[apache]: docs/License.apache.de.md
+[mit]: docs/License.mit.de.md
 [my-license]: LICENSE.md
 
 [version-badge]: docs/images/version.svg
@@ -128,6 +129,8 @@ Veröffentlicht mit Urheberrecht gemäß [GPL][orig-license-url]<br/>
 [en]: docs/images/en.svg
 [fr]: docs/images/fr.svg
 
+[and]: docs/images/and.svg
 [python]: docs/images/python.svg
+[python-logo]: docs/images/python-logo.svg
 [python-url]: https://commons.wikimedia.org/w/index.php?curid=34991637
-[ggshield]: docs/images/ggshield.png
+[ggshield]: docs/images/gg-logo.svg
