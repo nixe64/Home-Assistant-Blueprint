@@ -8,6 +8,8 @@
 
 ### Home Assistant Blueprint - Einrichtung der Entwicklungsumgebung
 
+##
+
 [![ggshield][ggshield]][ggshield-url]
 ### GitGuardian Shield einrichten (falls gewünscht)
 
@@ -35,6 +37,8 @@ api-key: <Dein gerade erzeugtes persönliches Zugriffstoken>
 Als erstes solltest du deine Repositories schon mal vorbereiten. Dazu musst du für jedes Repository in die Einstellungen (```Settings```) gehen. Dort findest du unter ```Secrets``` den Punkt ```Actions```. Nutze den ```New repository secret```-Button. Dort kannst du dann dein zweites persönliches Zugriffstoken eintragen. Bei ```Name``` musst du den Namen **GITGUARDIAN_API_KEY** verwenden und bei ```Value``` dein Token. Fertig!
 
 Abschliessend muss GitGuardian dann noch als GitHub-App aktiviert werden (zu finden unter deinen Konto-Settings / Applications). Der Vorgang muss allerdings **auf GitGuardian** eingeleitet werden. Dazu gehst du im [Dashboard][gg-dash] auf ```INTEGRATIONS```. Unter *VCS Integrations* findest du GitHub und dort musst du dann nur noch den ```Install```-Button drücken und die Einstellungen vornehmen. Damit hast du es dann geschafft.
+
+##
 
 [![python][python]][python-url]
 ### Vorbereitung des virtuellen Python-Environments
