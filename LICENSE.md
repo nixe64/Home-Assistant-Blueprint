@@ -23,6 +23,8 @@ der GPL.
 Sie sollten ein Exemplar der Allgemeinen Öffentlichen GNU-Lizenz zusammen
 mit diesem Programm erhalten haben. Falls nicht, siehe <http://www.gnu.org/licenses/>.
 
+Dies gilt für alle Dokumente und/oder Quellcode-Dateien, die keinen anders lauteten Copyright-Vermerk beinhalten. Zur Zeit wird nur der **Verhaltenscodex für Mitwirkende** abweichend von den Richtlinien der GPLv3 veröffentlicht. Wie *Mozilla's Richtlinien für das Mitwirken in der Community*, die als Basis und Inspiration dienten, wird er gemäß den Richtlinien der Creative Commons Attribution-ShareAlike Lizenz veröffentlicht.
+
 ### Die wichtigsten Lizenzbestimmungen in aller Kürze
 
 #### Gewährleistungsausschluß
