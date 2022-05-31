@@ -91,6 +91,37 @@ Die Mitglieder dieser Community kommen aus vielen Kulturen und haben die verschi
 
 Wenn Du so handelst, wie Du sprichst, wirst Du zu einer Person, der andere gerne folgen. Deine Handlungen beeinflussen andere, sich so zu verhalten und zu reagieren, dass dies wertvoll und für die Ergebnisse unserer Community angemessen ist. Gestalte Deine Community und Deine Arbeit mit dem Ziel der Integration. Übernimm selbst die Verantwortung für integratives Verhalten und verlange dies auch von anderen. Entscheide auf der Grundlage des höchsten Guts für die Mission der Community. 
 
+#### Benenne deine Quellen
+
+In allen Open-Source-Lizenzen steht aus gutem Grund, dass der Code / das Bildmaterial / das sonstige geistige Eigentum nur verwendet und/oder verändert werden darf, wenn der Original-Copyright-Vermerk erhalten bleibt und dass das eigene Werk mit einem Copyright-Vermerk versehen werden muss, der das Werk gemäß der entsprechenden Lizenz der Allgemeinheit zur freien Nutzung / Veränderung zur Verfügung stellt. Häufig wird dabei auch exemplarisch oder fest vorgeschrieben, wie die Kennzeichnung des eigenen Werks zu erfolgen hat, damit die gewählte Lizenz wirksam wird. Unter der GPL sieht die vorgeschriebene Kennzeichnung zum Beispiel so aus:
+
+```
+[eine Zeile mit dem Programmnamen und einer kurzen Beschreibung]
+Copyright (C) [Jahr]  [Name des Autors]
+
+Dieses Programm ist freie Software. Sie können es unter den
+Bedingungen der GNU General Public License, wie von der Free
+Software Foundation veröffentlicht, weitergeben und/oder
+modifizieren, entweder gemäß Version 3 der Lizenz oder (nach
+Ihrer Option) jeder späteren Version.
+
+Die Veröffentlichung dieses Programms erfolgt in der Hoffnung,
+daß es Ihnen von Nutzen sein wird, aber OHNE IRGENDEINE GARANTIE,
+sogar ohne die implizite Garantie der MARKTREIFE oder der
+VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK. Details finden Sie in
+der GNU General Public License.
+
+Sie sollten ein Exemplar der GNU General Public License zusammen
+mit diesem Programm erhalten haben. Falls nicht, siehe
+<http://www.gnu.org/licenses/>.
+```
+
+Leider hat es sich bei vielen in der Open-Source-Community eingebürgert, diese Lizenzbedingungen ganz oder teilweise zu ignorieren. Es wird nach meiner Erfahrung häufig nicht einmal üerprüft, wie die Lizenzbedingungen aussehen. Gefühlt geht es meistens nach dem Motto: *Es ist Open-Source, also kann ich es benutzen/modifizieren, der Rest interessiert mich nicht*. Ich kann und werde dieses Verhalten bei der Mitwirkung an diesem Projekten nicht tolerieren. Nun, ich kann die Open-Source-Community natürlich nicht zwingen, sich mehr um die Grundlagen ihrer Veröffentlichungen zu kümmern, aber ich kann auch hier mit gutem Beispiel voran gehen.
+
+Ich werde keine Pull-Requests akzeptieren, in denen nicht klar hervor geht, wessen Werk als Basis für die eigene Modifizierung diente und unter welchen Voraussetzungen / gemäß welcher Lizenz die Nutzung / Modifizierung zugelassen wird. Dein eigenes Werk **muss** ebenfalls in geeigneter Form mit einen Copyright-Vermerk versehen werden, aus dem klar hervor geht, unter welchen Bedingungen **du dein Werk** der Open-Source-Community zur freien Nutzung / Modifizierung zur Verfügung stellst (z.B. Copyright-Kommentar im Quelltext). Da ich all dieses Projekt (ebenso wie alle anderen Projekte) gemäß der GPLv3-Lizenz zur freien Nutzung / Modifizierung zur Verfügung stelle, müssen deine Lizenzbedingen natürlich mit der GPL vereinbar sein (mir fällt im Moment allerdings auch keine Lizenz ein, bei der das nicht der Fall wäre).
+
+Ich finde, die Namesnennung ist für die harte Arbeit, die die Mitglieder unserer gemeinsamen Open-Source-Community investiert haben, das **Mindeste**, dass sie verdient haben. Als **Teil dieser Open-Source-Community** sollten wir **die Ersten** sein, die das **geistige Eigentum unserer Mitglieder respektieren und anerkennen**. Wir möchten ja schließlich auch, dass die Mitglieder unserer Community unser geistige Eigentum  als solches anerkannen und respektieren. Wenn wir unsere eigenen Regeln nicht beachten, können wir auch von niemandem sonst erwarten, das er sich an unsere Regeln hält. Es handelt sich hier also um eine Konkretisierung des Ersten und Wichtigsten Abschnitts über das erwartete Verhaltens der Mitglieder dieser Community: **Sei Respektvoll**
+
 ### Verhalten, das nicht toleriert wird
 
 Die folgenden Verhaltensweisen sind unter diesen Richtlinien unannehmbar.

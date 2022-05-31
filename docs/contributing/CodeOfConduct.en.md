@@ -91,6 +91,35 @@ Community particapants come from many cultures and backgrounds. Cultural differe
 
 By matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our community outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for community's mission.
 
+#### Name your sources
+
+In all open source licenses, it is for good reason that the code/images/other intellectual property may only be used and/or modified if the original copyright notice is retained and that the own work must be provided with a copyright notice that makes the work available to the public for free use/modification in accordance with the respective license. Often, it is also specified in an exemplary or firm manner how the labeling of one’s own work is to be carried out in order for the chosen licence to take effect. Under the GPL, for example, the required labelling looks like this:
+
+```
+[one line with the program name and a short description]
+Copyright (C) [Year] [Author’s name]
+
+This program is free software: you can redistribute it and/or
+modify it under the terms of the [GNU General Public License]([orig-license-url] as
+published by the Free Software Foundation, either version 3 of
+the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but **without any warranty**; without even the implied warranty of
+**merchantability** or **fitness for a particular purpose**.  See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public
+License along with this program.  If not, see 
+<http://www.gnu.org/licenses/>.
+```
+
+Unfortunately, it has become common practice for many in the open source community to ignore these license terms in whole or in part. In my experience, they often don't even check what the license terms are. Feels like it mostly goes along the lines of *It's open source, so I can use/modify it, I don't care about the rest*. I cannot and will not tolerate this behaviour when participating in this project. Well, of course, I can’t force the open source community to be more concerned with the basics of their releases, but I can lead by example here as well.
+
+I will not accept pull requests that do not make it clear whose work served as the basis for your modification and under what conditions / license the use / modification is permitted. Your own work **must** also be provided with a copyright notice in an appropriate form that clearly states the conditions under which **you make your work** available to the open source community for free use/modification (e.g. copyright comment in source code). Since I make all this project (as well as all other projects) available under GPLv3 license terms for free use/modification, of course, your license terms have to be compatible with the GPL (but I can’t think of a license that doesn’t, right now).
+
+I think the naming is the **least** that the members of our common open source community deserve for the hard work they have put in. As **part of this open source community** we should be **the first** to acknowledge and respect the **intellectual property of our members**. After all, we also want the members of our community to recognize and respect our intellectual property as such. If we don't follow our own rules, we can't expect anyone else to follow our rules either. So this is a concretization of the first and most important section about the expected behavior of the members of this community: **Be Respectful**
+
 ### Behavior That Will Not Be Tolerated
 
 The following behaviors are considered to be unacceptable under these guidelines.

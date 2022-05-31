@@ -86,13 +86,13 @@ Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br
 Recht zur freien Nutzung (Public Domain).
 
 [![ggshield][ggshield]][my-license]<br/>
-GitGuardian Logo<br/>
+GitGuardian Shield - Logo<br/>
 Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
 Original: Copyright © 2022, GitGuardian<br/>
 Veröffentlicht mit Urheberrecht gemäß [MIT][mit]-Lizenz.
 
 [![python][python]][python-url][![and][and]][python-url][![python-logo][python-logo]][python-url]<br/>
-Python-Logos<br/>
+Python - Logos<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 Original von ™/®Python Software Foundation<br/>
 Veröffentlicht mit Urheberrecht gemäß [GPL][gpl]-Lizenz<br/> 
