@@ -45,44 +45,54 @@ Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Bluepri
 Copyright © home-assistant.io<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][preceding-license].
 
-[![shields][shields]][shields-url] Alle verwendeten Shields und Badges<br/>
-Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
-Recht zur freien Nutzung (Public Domain).
-
-[![canada][canada]][ca-url] Flagge von Kanada<br/>
+[![canada][canada]][ca-url]<br/>
+Flagge von Kanada<br/>
 Copyright © Wikimedia Commons. Die aktuelle SVG-Kodierung wurde von MapGrid neu geschrieben. - Dieses Vektorbild wird programmatisch aus der in File:Flagge von Kanada definierten Geometrie generiert (Konstruktionsblatt – Blattgeometrie).<br/>
 Recht zur freien Nutzung (Public Domain).
 
-[![france][france]][fr-url] Flagge der Französischen Republik<br/>
+[![france][france]][fr-url]<br/>
+Flagge der Französischen Republik<br/>
 Copyright © SKopp.<br/>
 Recht zur freien Nutzung (Public Domain).
 
-[![germany][germany]][germany-url] Flagge der Bundesrepublik Deutschland<br/>
+[![germany][germany]][germany-url]<br/>
+Flagge der Bundesrepublik Deutschland<br/>
 Copyright © SKopp, Madden und andere - Eigenes Werk.<br/>
 Recht zur freien Nutzung (Public Domain).
 
-[![uk][uk]][uk-url] Flagge des Vereinigten Königreichs<br/>
+[![uk][uk]][uk-url]<br/>
+Flagge des Vereinigten Königreichs<br/>
 Copyright © Acts of Union 1800 Vektor: Zscout370 – Eigenes Werk, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute.<br/>
 Recht zur freien Nutzung (Public Domain).
 
-[![usa][usa]][usa-url] Flagge der Vereinigten Staaten von Amerika<br/>
+[![usa][usa]][usa-url]<br/>
+Flagge der Vereinigten Staaten von Amerika<br/>
 Copyright © Dbenbenn, Zscout370, Jacobolus, Trägheit, Technion. - SVG-Umsetzung des U.S. Code: Titel 4, Kapitel 1, Abschnitt 1 [1] (das «Flaggengesetz» der Vereinigten Staaten).<br/>
 Recht zur freien Nutzung (Public Domain).
 
-[![en][en]][my-license] Symbol für englische Übersetzung<br/>
+[![en][en]][my-license]<br/>
+Symbol für englische Übersetzung<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 Orignalflaggen siehe oben
 
-[![fr][fr]][my-license] Symbol für französiche Übersetzung<br/>
+[![fr][fr]][my-license]<br/>
+Symbol für französiche Übersetzung<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 Orignalflaggen siehe oben
 
-[![ggshield][ggshield]][my-license] GitGuardian Logo<br/>
+[![shields][shields]][shields-url]<br/>
+Alle verwendeten Shields und Badges<br/>
+Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
+Recht zur freien Nutzung (Public Domain).
+
+[![ggshield][ggshield]][my-license]<br/>
+GitGuardian Logo<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 Original von [github.githubassets.com](https://github.githubassets.com/images/icons/emoji/unicode/1f989.png)<br/>
 Lizenz unbekannt
 
-[![python][python]][python-url]Python-Logo<br/>
+[![python][python]][python-url]<br/>
+Python-Logo<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 Original von ™/®Python Software Foundation<br/>
 Veröffentlicht mit Urheberrecht gemäß [GPL][orig-license-url]<br/> 
