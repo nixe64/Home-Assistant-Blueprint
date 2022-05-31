@@ -85,7 +85,10 @@ Free to use (Public Domain).
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
 [license-badge]: docs/images/license.svg
-[orig-license-url]: docs/License.gpl.en.md
+[gpl]: docs/License.gpl.de.md
+[apache]: docs/License.apache.de.md
+[mit]: docs/License.mit.de.md
+[my-license]: LICENSE.md
 
 [version-badge]: docs/images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
