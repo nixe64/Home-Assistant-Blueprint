@@ -217,7 +217,9 @@ Everyone is encouraged to ask questions about these guidelines. If you are organ
 
 ### License and Attribution
 
-This set of guidelines is distributed under a Creative Commons Attribution-ShareAlike license.
+These guidelines are published under the Creative Commons Attribution-ShareAlike license. This also applies to the **Name your sources** section, for which I hold the copyright.
+
+**Name your sources**, Copyright © 2022, Andreas Nixdorf, Own work.
 
 These guidelines have been adapted by Mozilla with modifications from Mozilla’s original Community Participation Guidelines, the Ubuntu Code of Conduct, Mozilla’s View Source Conference Code of Conduct, and the Rust Language Code of Conduct, which are based on Stumptown Syndicate’s Citizen Code of Conduct. Additional text from the LGBTQ in Technology Code of Conduct and the WisCon code of conduct.
 
