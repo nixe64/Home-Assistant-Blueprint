@@ -1,3 +1,7 @@
+<a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" src="images/osi-approved-license.svg" align="right"/></a>
+<a href="License.gpl.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
+<a href="License.gpl.de.md"><img src="images/de.svg" valign="top" align="right"/></a>
+
 ### GNU GENERAL PUBLIC LICENSE<br/>
 Version 3, 29 June 2007
 
@@ -5,7 +9,7 @@ Version 3, 29 June 2007
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
-                            Preamble
+  ### Preamble
 
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
