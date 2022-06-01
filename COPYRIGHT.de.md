@@ -1,5 +1,5 @@
-<a href="LICENSE.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
-<a href="LICENSE.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
+<a href="COPYRIGHT.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
+<a href="COPYRIGHT.de.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][gpl]
 
@@ -116,11 +116,11 @@ Veröffentlicht mit Urheberrecht gemäß [GPL][gpl]-Lizenz<br/>
 [logo]: images/hassio-icon.png
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
-[license-badge]: docs/images/license.svg
-[gpl]: docs/License.gpl.de.md
+[license-badge]: docs/images/license.de.svg
+[gpl]: docs/LICENSE.de.md
 [apache]: docs/License.apache.de.md
 [mit]: docs/License.mit.de.md
-[my-license]: LICENSE.md
+[my-license]: docs/LICENSE.de.md
 
 [version-badge]: docs/images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
