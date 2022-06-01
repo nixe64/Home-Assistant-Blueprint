@@ -819,15 +819,5 @@ Es ist gebührenfrei gestattet, diesen Artikel als Ganzes und<br/>
 unverändert in beliebigen Medien zu kopieren und weiterzugeben,<br/>
 sofern dieser Hinweis erhalten bleiben.
 
-
-[de]: License.mit.md
-[en]: License.mit.en.md
-[english]: images/english.svg
-[german]: images/german-license.svg
-[empty]: images/empty.svg
-
-[osi-logo]: images/osi-approved-license.svg
-[osi-url]: https://opensource.org/licenses/GPL-3.0
-
-[english-license]: License.gpl.en.md
+[en]: License.gpl.en.md
 [lpgl-url]: http://www.gnu.de/documents/lgpl.de.html

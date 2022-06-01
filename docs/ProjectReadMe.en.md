@@ -91,7 +91,7 @@ Licensed under the [GNU General Public License Version, v3][license-url].
 [screenshot]: images/screenshot.png
 [example-url]: https://www.example.com
 
-[license-badge]: images/license.svg
+[license-badge]: images/license.en.svg
 [license-url]: ../LICENSE.en.md
 
 [version-badge]: images/version.svg

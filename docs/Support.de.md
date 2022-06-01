@@ -29,8 +29,8 @@ Wenn es irgendwo klemmt, helfe ich aber trotzdem (soweit es mir möglich ist).
 [logo]: images/hassio-icon.png
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
-[license-badge]: images/lizenz.svg
-[license-url]: ../License.gpl.md
+[license-badge]: images/license.de.svg
+[license-url]: ../LICENSE.md
 
 [version-badge]: images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

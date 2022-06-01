@@ -21,7 +21,7 @@ It allows the use of all configuration variables of the original Amazon Polly In
 Licensed under the [GNU General Public License v3.0][license-url]. The [Source Code][github] can be found in my GitHub Repository.
 
 
-[license-badge]: docs/images/lizenz.svg
+[license-badge]: docs/images/license.en.svg
 [license-url]:LICENSE.en.md
 
 [version-badge]: docs/images/version.svg

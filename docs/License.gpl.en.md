@@ -681,15 +681,4 @@ Verbatim copying and distribution of this entire article is
 permitted in any medium without royalty provided this notice is
 preserved.
 
-
-[de]: License.mit.de.md
-[en]: License.mit.en.md
-[english]: images/english.svg
-[german]: images/german-license.svg
-[empty]: images/empty.svg
-
-[osi-logo]: images/osi-approved-license.svg
-[osi-url]: https://opensource.org/licenses/GPL-3.0
-
-[english-license]: License.gpl.en.md
-[lpgl-url]: http://www.gnu.de/documents/lgpl.de.html
+[lpgl-url]: http://www.gnu.de/documents/lgpl.en.html

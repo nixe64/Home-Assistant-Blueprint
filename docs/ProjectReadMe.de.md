@@ -88,7 +88,7 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][license-url].
 [screenshot]: images/screenshot.png
 [example-url]: https://www.example.com
 
-[license-badge]: images/lizenz.svg
+[license-badge]: images/license.de.svg
 [license-url]: ../LICENSE.md
 
 [version-badge]: images/version.svg

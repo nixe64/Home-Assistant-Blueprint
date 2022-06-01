@@ -1,7 +1,7 @@
 <a href="Contributions.en.md"><img src="../images/en.svg" valign="top" align="right"/></a>
 <a href="Contributions.md"><img src="../images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
-[![License][license-badge]][my-license-url]
+[![License][license-badge]][license-url]
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->
@@ -43,10 +43,9 @@ Noch interessiert? **Super, herzlich willkommen im Team!**
 [logo]: ../images/hassio-icon.png
 [project-url]: https://homeassistant.io
 
-[license-badge]: ../images/lizenz.svg
-[my-license-url]: ../../License.md
-[orig-license-url]: ../License.gpl.md
-
+[license-badge]: ../images/license.de.svg
+[license-url]: ../../LICENSE.md
+[
 [version-badge]: ../images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
 
@@ -54,8 +53,8 @@ Noch interessiert? **Super, herzlich willkommen im Team!**
 [bugs-badge]: https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/bug.svg?label=Fehlerberichte&color=informational
 [bugs-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug
 
-[coc-url]: CodeOfConduct.md
+[coc-url]: CodeOfConduct.de.md
 [pr-reviews]: https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews
-[cla-url]: CLD.md
+[cla-url]: CLA.de.md
 [flow-url]: https://githubflow.github.io/
 [pr-url]: https://github.com/nixe64/Home-Assistant-Blueprint/pulls

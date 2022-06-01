@@ -20,7 +20,7 @@ Sie ermöglicht die Verwendung aller Konfigurationsvariablen der ursprünglichen
 
 Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0 (GPL)][license-url]. Der [Quellcode][github] kann von meinem GitHub-Repository herunter geladen werden.
 
-[license-badge]: docs/images/lizenz.svg
+[license-badge]: docs/images/license.de.svg
 [license-url]: LICENSE.md
 
 [version-badge]: docs/images/version.svg

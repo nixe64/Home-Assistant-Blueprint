@@ -25,8 +25,3 @@ The above copyright notice and this permission notice shall be included in all c
 
 ### **End license text.**
 
-[de]: License.mit.de.md
-[en]: License.mit.en.md
-[english]: images/english.svg
-[german]: images/german-without-badges.svg
-[empty]: images/empty.svg

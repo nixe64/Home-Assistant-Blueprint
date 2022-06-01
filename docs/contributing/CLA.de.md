@@ -1,7 +1,7 @@
 <a href="CLA.en.md"><img src="../images/en.svg" valign="top" align="right"/></a>
 <a href="CLA.md"><img src="../images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
-[![License][license-badge]][my-license-url]
+[![License][license-badge]][license-url]
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->
@@ -36,9 +36,8 @@ Diese Lizenzvereinbarung kann nicht explizit unterzeichnet werden, da ich kein E
 [logo]: ../images/hassio-icon.png
 [project-url]: https://github.com/nixe64/Home-Assistant-Blueprint/
 
-[license-badge]: ../images/lizenz.svg
-[my-license-url]: ../../License.md
-[orig-license-url]: ../License.gpl.md
+[license-badge]: ../images/license.de.svg
+[license-url]: ../../LICENSE.md
 
 [version-badge]: ../images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
@@ -46,10 +45,6 @@ Diese Lizenzvereinbarung kann nicht explizit unterzeichnet werden, da ich kein E
 [issues-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues
 [bugs-badge]: https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/bug.svg?label=Fehlerberichte&color=informational
 [bugs-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug
-
-[contribute-url]: Contributions.md
-[coc-url]: CodeOfConduct.md
-[pr-url]: https://github.com/nixe64/Home-Assistant-Blueprint/pulls
 
 [cc-url]: http://creativecommons.org/licenses/by-sa/3.0/
 [dco-url]: http://elinux.org/Developer_Certificate_Of_Origin

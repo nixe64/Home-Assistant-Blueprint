@@ -36,7 +36,7 @@ This license agreement cannot be signed explicitly as I do not have an Enterpris
 [logo]: ../images/hassio-icon.png
 [project-url]: https://github.com/nixe64/Home-Assistant-Blueprint/
 
-[license-badge]: ../images/license.svg
+[license-badge]: ../images/license.en.svg
 [license-url]: ../../LICENSE.en.md
 
 [version-badge]: ../images/version.svg
@@ -45,10 +45,6 @@ This license agreement cannot be signed explicitly as I do not have an Enterpris
 [issues-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues
 [bugs-badge]: https://img.shields.io/github/issues/nixe64/Home-Assistant-Blueprint/bug.svg?label=Fehlerberichte&color=informational
 [bugs-url]: https://github.com/nixe64/Home-Assistant-Blueprint/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug
-
-[contribute-url]: Contributions.en.md
-[coc-url]: CodeOfConduct.en.md
-[pr-url]: https://github.com/nixe64/Home-Assistant-Blueprint/pulls
 
 [cc-url]: http://creativecommons.org/licenses/by-sa/3.0/
 [dco-url]: http://elinux.org/Developer_Certificate_Of_Origin

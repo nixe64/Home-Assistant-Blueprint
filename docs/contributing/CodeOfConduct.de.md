@@ -1,7 +1,7 @@
 <a href="CodeOfConduct.en.md"><img src="../images/en.svg" valign="top" align="right"/></a>
 <a href="CodeOfConduct.md"><img src="../images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
-[![License][license-badge]][my-license-url]
+[![License][license-badge]][license-url]
 <!--
 [![Bugs][bugs-badge]][bugs-url]
 -->
@@ -240,9 +240,8 @@ Die Verantwortlichen für die Einhaltung und Durchsetzung der Community-Standard
 [logo]: ../images/hassio-icon.png
 [project-url]: https://github.com/nixe64/Home-Assistant-Blueprint/
 
-[license-badge]: ../images/lizenz.svg
-[my-license-url]: ../../License.md
-[orig-license-url]: ../License.gpl.md
+[license-badge]: ../images/license.cc-by-sa.de.svg
+[license-url]: https://creativecommons.org/licenses/by-sa/4.0/
 
 [version-badge]: ../images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

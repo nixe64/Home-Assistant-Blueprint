@@ -33,7 +33,7 @@ whether the reported vulnerability was accepted or rejected.
 [logo]: images/hassio-icon.png
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
-[license-badge]: images/lizenz.svg
+[license-badge]: images/license.en.svg
 [license-url]: ..LICENSE.en.md
 
 [version-badge]: images/version.svg

@@ -47,7 +47,7 @@ Abschliessend muss GitGuardian dann noch als GitHub-App aktiviert werden (zu fin
 
 
 
-[license-badge]: images/lizenz.svg
+[license-badge]: images/license.de.svg
 [license-url]: ../LICENSE.md
 
 [version-badge]: images/version.svg

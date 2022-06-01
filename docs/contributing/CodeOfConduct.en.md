@@ -240,7 +240,7 @@ Community Participation Guidelines Response Lead may amend the guidelines from t
 [project-url]: https://github.com/nixe64/Home-Assistant-Blueprint/
 
 [license-badge]: ../images/lizenz.svg
-[license-url]: ../../LICENSE.md
+[license-url]: https://creativecommons.org/licenses/by-sa/4.0/
 
 [version-badge]: ../images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

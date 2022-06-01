@@ -26,10 +26,5 @@ DIE SOFTWARE WIRD OHNE MÄNGELGEWÄHR UND OHNE JEGLICHE AUSDRÜCKLICHE ODER STIL
 
 ### **Ende Lizenztext.**
 
-[de]: License.mit.md
 [en]: License.mit.en.md
-[english]: images/english.svg
-[german]: images/german-without-badges.svg
-[empty]: images/empty.svg
-
 [wiki]: https://de.wikipedia.org/wiki/MIT-Lizenz
