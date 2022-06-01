@@ -18,7 +18,12 @@ to develop a new Home Assistant Integration (Custom Component).
 
 ### Usage
 
-To use this template for your own project, just use this button ![btn][template-btn] in the repository view on GitHub or clone this repository.
+To use this template for your own project, just use this button ![btn][template-btn] in the repository view on GitHub or clone this repository. Then delete the ``custom_components/DELETE-ME`` file. I included it in this blueprint so that git will automatically create the directory needed to develop a custom Home Assistant integration. In custom_components you then need to create a new folder for your integration, where the source code will go. The name of the folder should be something like your new integration,
+so that it can be recognized and approved as a **new** integration in Home Assistant. (See also the developer documentation at <https://developers.home-assistant.io/> and <https://hacs.xyz/docs/developer/start>).
+
+I use GitGuardian Shield in all repositories to prevent accidentally making sensitive data like credentials for paid services publicly available in the source code on GitHub (especially in implementation tests). I urge you to consider this for your projects as well, because it can be expensive for you if this data falls into the wrong hands. If you don't want this check, delete the file ``.github/workflows/gitguardian.yml`` and adjust the pre-commit checks by removing the "hook" with id ``ggshield`` in the file ``.pre-commit-config.yaml``. If you agree with the check, please read [development environment setup][development-url] next. There, the configuration of the GitGuardian shield and the necessary preparations of the repositories are covered in detail. It is beyond the scope of this ReadMe to go into the details here.
+
+However, all those who have decided against checking through the GitGuardian Shield should also read [Setting up the development environment][development-url] next and then skip the first point.
 
 ### Feature Requests / Bug Reports / Service Requests
 
@@ -43,8 +48,7 @@ Licensed under the [GNU General Public License v3.0][license-url].
 [logo]: images/hassio-icon.png
 [project-url]: https://homeassistant.io
 
-[license-badge]: images/license.svg
-[my-license-url]: ../License.en.md
+[license-badge]: images/license.en.svg
 [license-url]: ../LICENSE.en.md
 
 [version-badge]: images/version.svg
@@ -58,3 +62,6 @@ Licensed under the [GNU General Public License v3.0][license-url].
 [coc-url]: contributing/CodeOfConduct.en.md
 
 [template-btn]: images/template-btn.svg
+
+[support-url]: Support.en.md
+[development-url]: Development.en.md

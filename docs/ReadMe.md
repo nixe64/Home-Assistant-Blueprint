@@ -23,7 +23,7 @@ damit sie als **neue** Integration in Home Assistant erkannt und zugelassen werd
 
 Ich verwende in allen Repositories den GitGuardian Shield, um zu verhindern, dass ich versehentlich sensible Daten wie Zugangsdaten zu bezahlten Diensten im Quellcode auf GitHub öffentlich zugänglich mache (vor allem in den Tests der Implementierung). Ich rate dir dringend, dies für deine Projekte ebenfalls zu erwägen, weil es teuer für dich werden kann, wenn diese Daten in die falschen Hände geraten. Falls du diese Überprüfung nicht wünscht, lösche die Datei ```.github/workflows/gitguardian.yml``` und passe die pre-commit Überprüfungen an, indem du in der Datei ```.pre-commit-config.yaml``` den "Hook" mit der id ```ggshield``` entfernst. Falls du mit der Überprüfung einverstanden bist, lies bitte als nächstes [Einrichtung der Entwicklungsumbebung][development-url]. Dort werden die Konfiguration des GitGuardian Shields und die notwendigen Vorbereitungen der Repositories ausführlich behandelt. Es würde den Rahmen dieser ReadMe sprengen, hier auf die Details einzugehen.
 
-Alle, die sie gegen die Überprüfung durch den GitGuardian Shield entschieden haben, sollten allerdings auch als nächstes [Einrichtung der Entwicklungsumbegung][development-url] lesen und den ersten Punkt dann überspringen.
+Alle, die sie gegen die Überprüfung durch den GitGuardian Shield entschieden haben, sollten allerdings auch als nächstes [Einrichtung der Entwicklungsumgebung][development-url] lesen und den ersten Punkt dann überspringen.
 
 ### Verbesserungsvorschläge / Fehlerberichte / Serviceanfragen
 
@@ -35,7 +35,7 @@ Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum L
 
 ### Danksagungen
 
-Mein Dank gilt allen, die mein Vorhaben unterstützt haben oder noch unterstützen werden und die aktiv an der Realisierung mitwirken oder durch eine neue Sichtweise und Vorschläge für Verbesserungen dazu beitragen oder bereits beigetragen haben, meine anfängliche Idee weiter zu verfeinern und abzurunden. Ebenfalls bedanken möchte ich mich bei allen, deren Vorarbeit ich für die Realisierung dieses Vorhabens verwenden darf. 
+Mein Dank gilt allen, die mein Vorhaben unterstützt haben oder noch unterstützen werden und die aktiv an der Realisierung mitwirken oder durch neue Sichtweisen und Vorschläge für Verbesserungen dazu beitragen oder bereits beigetragen haben, meine anfängliche Idee weiter zu verfeinern und abzurunden. Ebenfalls bedanken möchte ich mich bei allen, deren Vorarbeit ich für die Realisierung dieses Vorhabens verwenden darf. 
 
 Besonders und ausdrücklich möchte ich allerdings meiner Freundin für Ihr Verständnis und Ihre Unterstützung danken, ohne die meine Vision nie Wirklichkeit wird (weil es oft darauf hinaus läuft, das ich bis spät in der Nacht und am Wochenende an der Umsetzung und Verfeinerung meiner Idee sitze und deshalb für gemeinsame Aktivitäten weniger Zeit übrig bleibt, als sie verdient hätte).
 
@@ -48,7 +48,7 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][license-url].
 [logo]: images/hassio-icon.png
 [project-url]: https://homeassistant.io
 
-[license-badge]: images/lizenz.svg
+[license-badge]: images/license.de.svg
 [license-url]: ../LICENSE.md
 
 [version-badge]: images/version.svg
