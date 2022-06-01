@@ -1,5 +1,5 @@
 <a href="Development.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
-<a href="Development.md"><img src="images/de.svg" valign="top" align="right"/></a>
+<a href="Development.de.md"><img src="images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][license-url]
 <!--

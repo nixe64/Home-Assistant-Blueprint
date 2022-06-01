@@ -1,5 +1,5 @@
 <a href="CLA.en.md"><img src="../images/en.svg" valign="top" align="right"/></a>
-<a href="CLA.md"><img src="../images/de.svg" valign="top" align="right"/></a>
+<a href="CLA.de.md"><img src="../images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][license-url]
 <!--
