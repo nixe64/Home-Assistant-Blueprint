@@ -9,9 +9,11 @@
 
 Everyone is permitted to copy and distribute verbatim copies of
 this license document.<br/>
-Changing it is not allowed.
+Changing it is not allowed.<br/>
 This page mirrors the text from
 <https://mit-license.org/>.
+<br/>
+<br/>
 
 ### **Begin license text.**
 
