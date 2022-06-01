@@ -15,6 +15,8 @@ Changing it is not allowed.<br/>
 This page mirrors the text from
 <http://www.gnu.org/licenses/gpl-3.0.html>.
 
+<br/>
+
 ### Preamble
 
 The GNU General Public License is a free, copyleft license for
