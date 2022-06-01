@@ -672,8 +672,7 @@ Verbatim copying and distribution of this entire article is
 permitted in any medium without royalty provided this notice is
 preserved.
 
-<a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" src="images/osi-approved-license.svg" align="right"/></a>
-<a href="License.gpl.en.md"><img src="images/en.svg" valign="bottom" align="right"/></a>
-<a href="License.gpl.de.md"><img src="images/de.svg" valign="bottom" align="right"/></a>
+<a href="LICENSE.md"><img src="docs/images/en.svg" valign="bottom" align="right"/></a>
+<a href="LICENSE.de.md"><img src="docs/images/de.svg" valign="bottom" align="right"/></a>
 
 [lpgl-url]: http://www.gnu.de/documents/lgpl.en.html
