@@ -14,6 +14,8 @@ und unveränderte Kopien zu verbreiten.<br/>
 **Diese Übersetzung ist kein rechtskräftiger Ersatz für die
 [englischsprachige Originalversion][en]!**
 
+<br/>
+
 ### Bedingungen für die Nutzung, Vervielfältigung und Verbreitung
 
 #### 1. Definitionen.
