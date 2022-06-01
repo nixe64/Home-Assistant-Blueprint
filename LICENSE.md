@@ -1,7 +1,7 @@
-<a href="LICENSE.md"><img src="docs/images/en.svg" valign="bottom" align="right"/></a>
-<a href="LICENSE.de.md"><img src="docs/images/de.svg" valign="bottom" align="right"/></a>
 ### GNU General Public License<br/>
 Version 3, 29 June 2007
+<a href="LICENSE.md"><img src="docs/images/en.svg" valign="bottom" align="right"/></a>
+<a href="LICENSE.de.md"><img src="docs/images/de.svg" valign="bottom" align="right"/></a>
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/><br/>
 Everyone is permitted to copy and distribute verbatim copies
