@@ -122,7 +122,7 @@ Long story short: I cannot and will not tolerate this behaviour when contributin
 
 I think naming them is the **least** the members of our shared open source community deserve for the hard work they have put in. As **part of this open source community**, we should be **the first** to respect and acknowledge **the intellectual property of our members**. After all, we want at least the members of our community to recognize and respect our intellectual property as such, although (at least I do) also expect the rest of the world to abide by my terms of free use, and I will enforce (hardly imaginable) violations of the license terms in court if necessary. It was not for nothing a long struggle to establish the right to one's own intellectual property (almost) worldwide. If we do not observe our own rules, we cannot expect anyone else to observe our rules. 
 
-So, in short, this is a concretization of the First and Most Important Section about the expected behavior of members of this community: **Be Respectful**, even if your source is not contributing to this project, they deserve the same respect as contributors. I, at least, consider myself part of the great open source community, where everyone deserves the same respect, no matter what projects they participate in and in what form.
+So, in short, this is a concretization of the First and Most Important Section about the expected behavior of members of this community: **Be Respectful**, even if your source is not contributing to this project, she/he deserve the same respect as contributors. I, at least, consider myself part of the great open source community, where everyone deserves the same respect, no matter what projects they participate in and in what form.
 
 ### Behavior That Will Not Be Tolerated
 
@@ -239,7 +239,7 @@ Community Participation Guidelines Response Lead may amend the guidelines from t
 [logo]: ../images/hassio-icon.png
 [project-url]: https://github.com/nixe64/Home-Assistant-Blueprint/
 
-[license-badge]: ../images/lizenz.svg
+[license-badge]: ../images/license.cc-by-sa.en.svg
 [license-url]: https://creativecommons.org/licenses/by-sa/4.0/
 
 [version-badge]: ../images/version.svg
