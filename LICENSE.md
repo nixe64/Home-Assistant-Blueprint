@@ -87,8 +87,8 @@ Alle verwendeten Shields und Badges<br/>
 Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
 Recht zur freien Nutzung (Public Domain).
 
-[![osi][osi]][osi-url]
-Open Source Initiative - Logo
+[![osi][osi]][osi-url]<br/>
+Open Source Initiative - Logo<br/>
 Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
 Original: Copyright © Open Source Initiative<br/>
 Lizenz unbekannt.
