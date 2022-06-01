@@ -11,7 +11,8 @@
 
 Everyone is permitted to copy and distribute verbatim copies of
 this license document.<br/>
-Changing it is not allowed. This page mirrors the text from
+Changing it is not allowed.<br/>
+This page mirrors the text from
 <http://www.gnu.org/licenses/gpl-3.0.html>.
 
 ### Preamble
