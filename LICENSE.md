@@ -1,8 +1,3 @@
-<!--
-<a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" src="images/osi-approved-license.svg" align="right"/></a>
-<a href="LICENSE.md"><img src="images/en.svg" valign="top" align="right"/></a>
-<a href="LICENSE.de.md"><img src="images/de.svg" valign="top" align="right"/></a>
--->
 ### GNU General Public License
 
 **Version 3, 29 June 2007**
