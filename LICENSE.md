@@ -1,15 +1,9 @@
 ### GNU General Public License<br/>
 Version 3, 29 June 2007
 
-**Copyright © 2007 Free Software Foundation, Inc.
-\(<a href="http://fsf.org">http://fsf.org</a>)**
-
-Everyone is permitted to copy and distribute verbatim copies of
-this license document,<br/>
-but changing it is not allowed.<br/>
-This page mirrors the text from
-<http://www.gnu.org/licenses/gpl-3.0.html>.
-
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/><br/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document,<br/>but changing it is not allowed.
 
 ### Preamble
 
