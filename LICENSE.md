@@ -1,3 +1,5 @@
+<a href="LICENSE.md"><img src="docs/images/en.svg" valign="bottom" align="right"/></a>
+<a href="LICENSE.de.md"><img src="docs/images/de.svg" valign="bottom" align="right"/></a>
 ### GNU General Public License<br/>
 Version 3, 29 June 2007
 
@@ -671,8 +673,5 @@ Copyright notice above.<br/>
 Verbatim copying and distribution of this entire article is
 permitted in any medium without royalty provided this notice is
 preserved.
-
-<a href="LICENSE.md"><img src="docs/images/en.svg" valign="bottom" align="right"/></a>
-<a href="LICENSE.de.md"><img src="docs/images/de.svg" valign="bottom" align="right"/></a>
 
 [lpgl-url]: http://www.gnu.de/documents/lgpl.en.html
