@@ -87,6 +87,12 @@ Alle verwendeten Shields und Badges<br/>
 Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
 Recht zur freien Nutzung (Public Domain).
 
+[![osi][osi]][osi-url]
+Open Source Initiative - Logo
+Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
+Original: Copyright © Open Source Initiative<br/>
+Lizenz unbekannt.
+
 [![ggshield][ggshield]][my-license]<br/>
 GitGuardian Shield - Logo<br/>
 Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
@@ -130,6 +136,9 @@ Veröffentlicht mit Urheberrecht gemäß [GPL][gpl]-Lizenz<br/>
 [usa-url]: https://commons.wikimedia.org/w/index.php?curid=318418
 [en]: docs/images/en.svg
 [fr]: docs/images/fr.svg
+
+[osi]: docs/images/osi-logo.svg
+[osi-url]: https://opensource.org/
 
 [and]: docs/images/and.svg
 [python]: docs/images/python.svg
