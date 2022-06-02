@@ -18,23 +18,31 @@ Durch die Ausübung der lizenzierten Rechte (wie unten definiert) erklären Sie 
 
 #### <a name="s1"></a>Abschnitt 1 – Definitionen
 
-1. <a name="s1a"></a>**Abgewandeltes Material** bezeichnet Material, welches durch Urheberrechte oder ähnliche Rechte geschützt ist und vom lizenzierten Material abgeleitet ist oder darauf aufbaut und in welchem das lizenzierte Material übersetzt, verändert, umarrangiert, umgestaltet oder anderweitig modifiziert in einer Weise enthalten ist, die aufgrund des Urheberrechts oder ähnlicher Rechte des Lizenzgebers eine Zustimmung erfordert. Im Sinne der vorliegenden Public License entsteht immer abgewandeltes Material, wenn das lizenzierte Material ein Musikwerk, eine Darbietung oder eine Tonaufnahme ist und zur Vertonung von Bewegtbildern verwendet wird.
+<ol type="a">
+<li id="s1a">
 
-2. <a name="s1b"></a>**Abwandlungslizenz** bezeichnet die Lizenz, die Sie in Bezug auf Ihr Urheberrecht oder ähnliche Rechte an Ihren Beiträgen zum abgewandelten Material in Übereinstimmng mit den Bedingungen der vorliegenden Public License erteilen.
+**Abgewandeltes Material** bezeichnet Material, welches durch Urheberrechte oder ähnliche Rechte geschützt ist und vom lizenzierten Material abgeleitet ist oder darauf aufbaut und in welchem das lizenzierte Material übersetzt, verändert, umarrangiert, umgestaltet oder anderweitig modifiziert in einer Weise enthalten ist, die aufgrund des Urheberrechts oder ähnlicher Rechte des Lizenzgebers eine Zustimmung erfordert. Im Sinne der vorliegenden Public License entsteht immer abgewandeltes Material, wenn das lizenzierte Material ein Musikwerk, eine Darbietung oder eine Tonaufnahme ist und zur Vertonung von Bewegtbildern verwendet wird.
+</li><li id="s1b">
 
-3. <a name="s1c"></a>**BY-SA-kompatible Lizenz** bezeichnet eine unter [creativecommons.org/compatiblelicenses][cc-compatible] genannte Lizenz, die Creative Commons als der vorliegenden Public License im Wesentlichen gleichwertig anerkannt hat.
+**Abwandlungslizenz** bezeichnet die Lizenz, die Sie in Bezug auf Ihr Urheberrecht oder ähnliche Rechte an Ihren Beiträgen zum abgewandelten Material in Übereinstimmng mit den Bedingungen der vorliegenden Public License erteilen.
+</li><li id="s1c">
 
-4. <a name="s1d"></a>**Urheberrecht und ähnliche Rechte** bezeichnet das Urheberrecht und/oder ähnliche, dem Urheberrecht eng verwandte Rechte, einschließlich insbesondere des Rechts des ausübenden Künstlers, des Rechts zur Sendung, zur Tonaufnahme und des Sui-generis-Datenbankrechts, unabhängig davon, wie diese Rechte genannt oder kategorisiert werden. Im Sinne der vorliegenden Public License werden die in Abschnitt [2(b)(1)-(2)](#s2b) aufgeführten Rechte nicht als Urheberrecht und ähnliche Rechte angesehen.
+**BY-SA-kompatible Lizenz** bezeichnet eine unter [creativecommons.org/compatiblelicenses][cc-compatible] genannte Lizenz, die Creative Commons als der vorliegenden Public License im Wesentlichen gleichwertig anerkannt hat.
+</li><li id="s1d"></a>
 
-5. <a name="s1e"></a>**Wirksame technische Schutzmaßnahmen** bezeichnet solche Maßnahmen, die gemäß gesetzlichen Regelungen auf der Basis des Artikels 11 des WIPO Copyright Treaty vom 20. Dezember 1996 und/oder ähnlicher internationaler Vereinbarungen ohne entsprechende Erlaubnis nicht umgangen werden dürfen.
+**Urheberrecht und ähnliche Rechte** bezeichnet das Urheberrecht und/oder ähnliche, dem Urheberrecht eng verwandte Rechte, einschließlich insbesondere des Rechts des ausübenden Künstlers, des Rechts zur Sendung, zur Tonaufnahme und des Sui-generis-Datenbankrechts, unabhängig davon, wie diese Rechte genannt oder kategorisiert werden. Im Sinne der vorliegenden Public License werden die in Abschnitt [2(b)(1)-(2)](#s2b) aufgeführten Rechte nicht als Urheberrecht und ähnliche Rechte angesehen.
+</li><li id="s1e">
 
-6. <a name="s1f"></a>**Ausnahmen und Beschränkungen** bezeichnet Fair Use, Fair Dealing und/oder jegliche andere Ausnahme oder Beschränkung des Urheberrechts oder ähnlicher Rechte, die auf Ihre Nutzung des lizenzierten Materials Anwendung findet.
+**Wirksame technische Schutzmaßnahmen** bezeichnet solche Maßnahmen, die gemäß gesetzlichen Regelungen auf der Basis des Artikels 11 des WIPO Copyright Treaty vom 20. Dezember 1996 und/oder ähnlicher internationaler Vereinbarungen ohne entsprechende Erlaubnis nicht umgangen werden dürfen.</li><li id="s1f"></a>**Ausnahmen und Beschränkungen** bezeichnet Fair Use, Fair Dealing und/oder jegliche andere Ausnahme oder Beschränkung des Urheberrechts oder ähnlicher Rechte, die auf Ihre Nutzung des lizenzierten Materials Anwendung findet.
+</li><li id="s1f">
 
-7. <a name="s1f"></a>**Lizenzelemente** bezeichnet die Lizenzeigenschaften, die in der Bezeichnung einer Creative Commons Public License aufgeführt werden. Die Lizenzelemente der vorliegenden Public License sind Namensnennung und Share Alike.
+**Lizenzelemente** bezeichnet die Lizenzeigenschaften, die in der Bezeichnung einer Creative Commons Public License aufgeführt werden. Die Lizenzelemente der vorliegenden Public License sind Namensnennung und Share Alike.
+</li><li id="s1h">
 
-8. <a name="s1h"></a>**Lizenziertes Material** bezeichnet das Werk der Literatur oder Kunst, die Datenbank oder das sonstige Material, welches der Lizenzgeber unter die vorliegende Public License gestellt hat.
+**Lizenziertes Material** bezeichnet das Werk der Literatur oder Kunst, die Datenbank oder das sonstige Material, welches der Lizenzgeber unter die vorliegende Public License gestellt hat.
+</li><li id="s1i">
 
-9. <a name="s1i"></a>**Lizenzierte Rechte** bezeichnet die Ihnen unter den Bedingungen der vorliegenden Public License gewährten Rechte, welche auf solche Urheberrechte und ähnlichen Rechte beschränkt sind, die Ihre Nutzung des lizenzierten Materials betreffen und die der Lizenzgeber zu lizenzieren berechtigt ist.
+**Lizenzierte Rechte** bezeichnet die Ihnen unter den Bedingungen der vorliegenden Public License gewährten Rechte, welche auf solche Urheberrechte und ähnlichen Rechte beschränkt sind, die Ihre Nutzung des lizenzierten Materials betreffen und die der Lizenzgeber zu lizenzieren berechtigt ist.
 
 10. <a name="s1j"></a>**Lizenzgeber** bezeichnet die natürliche(n) oder juristische(n) Person(en), die unter der vorliegenden Public License Rechte gewährt (oder gewähren).
 
@@ -43,7 +51,8 @@ Durch die Ausübung der lizenzierten Rechte (wie unten definiert) erklären Sie 
 12. <a name="s1l"></a>**Sui-generis Datenbankrechte** bezeichnet Rechte, die keine Urheberrechte sind, sondern gegründet sind auf die Richtlinie 96/9/EG des Europäischen Parlaments und des Rates vom 11. März 1996 über den rechtlichen Schutz von Datenbanken in der jeweils gültigen Fassung bzw. deren Nachfolgeregelungen, sowie andere im Wesentlichen funktionsgleiche Rechte anderswo auf der Welt.
 
 13. **Sie** bezeichnet die natürliche oder juristische Person, die von lizenzierten Rechten unter der vorliegenden Public License Gebrauch macht. **Ihr bzw. Ihre** hat die entsprechende Bedeutung.
-
+</ol
+>
 #### <a name="s2"></a>Abschnitt 2 – Umfang
 
 1. <a name="s2a"></a>**Lizenzgewährung**
@@ -84,7 +93,7 @@ Ihre Ausübung der lizenzierten Rechte unterliegt ausdrücklich folgenden Beding
         3. <a name="s3a1C"></a>angeben, dass das lizenzierte Material unter der vorliegenden Public License steht, und deren Text oder URI oder einen Hyperlink darauf beifügen.
 
     2. <a name="s3a2"></a>Sie dürfen die Bedingungen des Abschnitts [3(a)(1)](#s3a1) in jeder angemessenen Form erfüllen, je nach Medium, Mittel und Kontext in bzw. mit dem Sie das lizenzierte Material weitergeben. Es kann zum Beispiel angemessen sein, die Bedingungen durch Angabe eines URI oder Hyperlinks auf eine Quelle zu erfüllen, die die erforderlichen Informationen enthält.
-    
+
 <li id="s3a3">Falls der Lizenzgeber es verlangt, müssen Sie die gemäß Abschnitt <a href="#s3a1A">3(a)(1)(A)</a> erforderlichen Informationen entfernen, soweit dies vernünftigerweise praktikabel ist.</li>
 </ol>
 </li>
