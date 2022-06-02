@@ -1,7 +1,7 @@
-<a href="COPYRIGHT.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
-<a href="COPYRIGHT.de.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][gpl]
+<a href="COPYRIGHT.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
+<a href="COPYRIGHT.de.md"><img src="docs/images/de.svg" valign="top" align="right"/><img src="docs/images/lng.svg" align="right"/></a>
 
 ### Home Assistant Blueprint
 
@@ -54,6 +54,12 @@ Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Bluepri
 [Home Assistant Blueprints][project-url]<br/>
 Copyright © home-assistant.io<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][apache].
+<br/><br/>
+
+[![shields-logo][shields]][shields-url]<br/>
+Alle verwnendeten Shields und Badges<br/>
+Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
+Recht zur freien Nutzung (Public Domain)
 
 [![canada][canada]][ca-url]<br/>
 Flagge von Kanada<br/>
@@ -89,17 +95,6 @@ verwendete Flaggen: siehe oben
 Symbol für französiche Übersetzung<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 verwendete Flaggen: siehe oben
-
-[![shields-logo][shields]][shields-url]<br/>
-Shields.io - Logo<br/>
-Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
-[Original][shields-orig]: Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
-Recht zur freien Nutzung (Public Domain)
-
-[![shields][shields]][shields-url]<br/>
-Alle verwendeten Shields und Badges<br/>
-Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
-Recht zur freien Nutzung (Public Domain).
 
 [![osi][osi]][osi-url]<br/>
 Open Source Initiative - Logo<br/>
@@ -141,7 +136,6 @@ Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lize
 
 [shields]: docs/images/shields-logo.svg
 [shields-url]: https://uptimerobot.com/terms/
-[shield-orig]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAABE0lEQVR4AWJkAIKkpCQ7TU3NySIiIlosQMCABejbMWAFf//8YXj77vWn27duZWVGz1nKGBYWZiQkJHSIkZGRmwEPCMxiwAt+/fz3/86VL8EAbuiiAKEoiMLwGcHdCQMBiUAlurDErmJ75tmKP8A3oiJyuF6vAxglws+0C5pv81GJaJdzhlWMMJssaaXM3C0CpmSDLAQtgH3BiCIVB2NRMKWEIoXQMBiLgjHGP9nQ+6ZPLgqGgs9xriDovX8A6Jjgw8ZyIigzn5xz+yZ+6O/tsz7Hy8tb/PLlywPAHMOFT/G3LwRc95fxPyerQCojuKwLDLQAGjoJWIzpAw1mw6bB0guHSYyMDBysnO/5hUTTGvM3rQEAI8qCnLiY3O4AAAAASUVORK5CYII="
 
 [ca-url]: https://commons.wikimedia.org/w/index.php?curid=32276527
 [fr-url]: https://commons.wikimedia.org/w/index.php?curid=343059
