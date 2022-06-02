@@ -1,4 +1,3 @@
-<a href="LICENSE.fr.md"><img src="docs/images/fr.svg" valign="top" align="right"/></a>
 <a href="LICENSE.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
 <a href="LICENSE.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
@@ -9,7 +8,7 @@
 Copyright © 2022, Andreas Nixdorf.
 
 This program is free software: you can redistribute it and/or
-modify it under the terms of the [GNU General Public License]([gpl] as
+modify it under the terms of the [GNU General Public License][gpl] as
 published by the Free Software Foundation, either version 3 of
 the License, or (at your option) any later version.
 
@@ -84,7 +83,7 @@ Free to use (Public Domain).
 [logo]: images/hassio-icon.png
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
-[license-badge]: docs/images/license.svg
+[license-badge]: docs/images/license.en.svg
 [gpl]: LICENSE.en.md
 [apache]: docs/License.apache.de.md
 [mit]: docs/License.mit.de.md
