@@ -34,7 +34,7 @@ ob die gemeldete Schwachstelle akzeptiert oder abgelehnt wurde.
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
 [license-badge]: images/license.de.svg
-[license-url]: ../LICENSE.md
+[license-url]: ../COPYRIGHT.de.md
 
 [version-badge]: images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

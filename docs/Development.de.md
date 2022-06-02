@@ -13,11 +13,7 @@
 [![ggshield][ggshield]][ggshield-url]
 ### GitGuardian Shield einrichten (falls gewünscht)
 
-Um die Überprüfungen von [GitGuardian][ggshield-url] zu verwenden, benötigst du zunächst ein kostenloses Konto. Der Link im vorherigen Satz führt dich direkt auf die Startseite und dort nutze den ```Start for free```-Button. Nachdem du dein Konto eingerichtet hast, kannst du über ```API``` / ```Personal access tokens``` die benötigten persönlichen Zugangstoken erzeugen lassen. Nach dem Drücken von ```Create token``` gib deinem Token einen Namen, damit du später erkennen kannst, wofür du es verwendest und nimm dann die folgenden Einstellungen vor:
-
-- ```Expires:``` Für das Token, das du in deiner Entwicklungsumgebung einsetzen möchtest, empfehle ich eine Ablauffrist von 6 Monaten bis max. 1 Jahr. Für das Token, das du auf GitHub verwendest empfehle ich max. 6 Monate.
-- ```Scope:``` Bitte nur "scan" auswählen.
-
+Um die Überprüfungen von [GitGuardiaLICENSE
 Nachdem du den ```Create token```-Button gedrückt hast, wird dir dein neues Zugangstoken angezeigt (etwas unauffällig ganz oben, grün hinterlegt). Kopier es in eine Datei oder in deinen Passwort-Manager. Du wirst es nie wieder sehen. Nachdem du die beiden Token erzeugt hast, müssen sie "nur noch" an den richtigen Stellen hinterlegt werden, um dann zum Abschluss GitGuardian als GitHub Apps zu aktivieren.
 
 #### Integration von GitGuardian in die pre-commit Überprüfungen
@@ -48,7 +44,7 @@ Abschliessend muss GitGuardian dann noch als GitHub-App aktiviert werden (zu fin
 
 
 [license-badge]: images/license.de.svg
-[license-url]: ../LICENSE.md
+[license-url]: ../COPYRIGHT.de.md
 
 [version-badge]: images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

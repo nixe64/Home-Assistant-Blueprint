@@ -37,7 +37,7 @@ Diese Lizenzvereinbarung kann nicht explizit unterzeichnet werden, da ich kein E
 [project-url]: https://github.com/nixe64/Home-Assistant-Blueprint/
 
 [license-badge]: ../images/license.de.svg
-[license-url]: ../../LICENSE.md
+[license-url]: ../../COPYRIGHT.de.md
 
 [version-badge]: ../images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

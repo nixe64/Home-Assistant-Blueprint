@@ -92,7 +92,7 @@ Licensed under the [GNU General Public License Version, v3][license-url].
 [example-url]: https://www.example.com
 
 [license-badge]: images/license.en.svg
-[license-url]: ../LICENSE.en.md
+[license-url]: ../COPYRIGHT.en.md
 
 [version-badge]: images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases

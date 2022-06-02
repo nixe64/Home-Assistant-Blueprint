@@ -240,7 +240,7 @@ Die Verantwortlichen für die Einhaltung und Durchsetzung der Community-Standard
 [project-url]: https://github.com/nixe64/Home-Assistant-Blueprint/
 
 [license-badge]: ../images/license.cc-by-sa.de.svg
-[license-url]: https://creativecommons.org/licenses/by-sa/4.0/
+[license-url]: ../License.cc-by-sa.de.md
 
 [version-badge]: ../images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
