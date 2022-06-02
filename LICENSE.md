@@ -1,9 +1,15 @@
+<a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" src="docs/images/osi-approved-license.svg" align="right"/></a>
+<a href="LICENSE.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
+<a href="LICENSE.de.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
+<br>
+
 ### GNU General Public License<br/>
 Version 3, 29 June 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/><br/>
 Everyone is permitted to copy and distribute verbatim copies
 of this license document,<br/>but changing it is not allowed.
+<br><br>
 
 ### Preamble
 
@@ -749,8 +755,5 @@ Copyright notice above.<br/>
 Verbatim copying and distribution of this entire article is
 permitted in any medium without royalty provided this notice is
 preserved.
-
-<a href="LICENSE.md"><img src="docs/images/en.svg" valign="bottom" align="right"/></a>
-<a href="LICENSE.de.md"><img src="docs/images/de.svg" valign="bottom" align="right"/></a>
 
 [lpgl-url]: http://www.gnu.de/documents/lgpl.en.html
