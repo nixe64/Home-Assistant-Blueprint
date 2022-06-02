@@ -1,6 +1,6 @@
 <a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" src="docs/images/osi-approved-license.svg" align="right"/></a>
-<a href="LICENSE.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
-<a href="LICENSE.de.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
+<a href="LICENSE.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
+<a href="LICENSE.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 <br>
 
 ### GNU General Public License<br/>
