@@ -83,12 +83,18 @@ Recht zur freien Nutzung (Public Domain).
 [![en][en]][gpl]<br/>
 Symbol für englische Übersetzung<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
-Orignalflaggen siehe oben
+verwendete Flaggen: siehe oben
 
 [![fr][fr]][gpl]<br/>
 Symbol für französiche Übersetzung<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
-Orignalflaggen siehe oben
+verwendete Flaggen: siehe oben
+
+[![shields-logo][shields]][shields-url]<br/>
+Shields.io - Logo<br/>
+Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
+[Original][shields-orig]: Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
+Recht zur freien Nutzung (Public Domain)
 
 [![shields][shields]][shields-url]<br/>
 Alle verwendeten Shields und Badges<br/>
@@ -98,7 +104,7 @@ Recht zur freien Nutzung (Public Domain).
 [![osi][osi]][osi-url]<br/>
 Open Source Initiative - Logo<br/>
 Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
-Original: Copyright © Open Source Initiative<br/>
+[Original][osi-orig]: Copyright © Open Source Initiative<br/>
 Lizenz unbekannt.
 
 [![ggshield][ggshield]][gpl]<br/>
@@ -135,6 +141,7 @@ Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lize
 
 [shields]: docs/images/shields-logo.svg
 [shields-url]: https://uptimerobot.com/terms/
+[shield-orig]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAABE0lEQVR4AWJkAIKkpCQ7TU3NySIiIlosQMCABejbMWAFf//8YXj77vWn27duZWVGz1nKGBYWZiQkJHSIkZGRmwEPCMxiwAt+/fz3/86VL8EAbuiiAKEoiMLwGcHdCQMBiUAlurDErmJ75tmKP8A3oiJyuF6vAxglws+0C5pv81GJaJdzhlWMMJssaaXM3C0CpmSDLAQtgH3BiCIVB2NRMKWEIoXQMBiLgjHGP9nQ+6ZPLgqGgs9xriDovX8A6Jjgw8ZyIigzn5xz+yZ+6O/tsz7Hy8tb/PLlywPAHMOFT/G3LwRc95fxPyerQCojuKwLDLQAGjoJWIzpAw1mw6bB0guHSYyMDBysnO/5hUTTGvM3rQEAI8qCnLiY3O4AAAAASUVORK5CYII="
 
 [ca-url]: https://commons.wikimedia.org/w/index.php?curid=32276527
 [fr-url]: https://commons.wikimedia.org/w/index.php?curid=343059
@@ -146,6 +153,7 @@ Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lize
 
 [osi]: docs/images/osi-logo.svg
 [osi-url]: https://opensource.org/
+[osi-orig]: https://opensource.org/files/OSIApproved_1.png
 
 [and]: docs/images/and.svg
 [python]: docs/images/python.svg
