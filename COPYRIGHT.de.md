@@ -34,7 +34,8 @@ Es besteht keinerlei Gewährleistung für diese Vorlage, soweit dies gesetzlich 
 
 In keinem Fall, außer wenn durch geltendes Recht gefordert oder schriftlich zugesichert, ist irgendein Urheberrechtsinhaber oder irgendein Dritter, der die Vorlage wie oben erlaubt modifiziert oder übertragen hat, Ihnen gegenüber für irgendwelche Schäden haftbar, einschließlich jeglicher allgemeiner oder spezieller Schäden, Schäden durch Seiteneffekte (Nebenwirkungen) oder Folgeschäden, die aus der Benutzung der Vorlage oder der Unbenutzbarkeit der Vorlage folgen (einschließlich – aber nicht beschränkt auf – Datenverluste, fehlerhafte Verarbeitung von Daten, Verluste, die von Ihnen oder anderen getragen werden müssen, oder dem Unvermögen der Vorlage, mit irgendeinem anderen Programm zusammenzuarbeiten), selbst wenn ein Urheberrechtsinhaber oder Dritter über die Möglichkeit solcher Schäden unterrichtet worden war. 
 
-#### Interpretation
+#### Auslegung
+
 Sollten der o.a. Gewährleistungsausschluß und die o.a. Haftungsbegrenzung aufgrund ihrer Bedingungen gemäß lokalem Recht unwirksam sein, sollen Bewertungsgerichte dasjenige lokale Recht anwenden, das einer absoluten Aufhebung jeglicher zivilen Haftung in Zusammenhang mit der Vorlage am nächsten kommt, es sei denn, der Vorlage lag eine entgeltliche Garantieerklärung oder Haftungsübernahme bei. 
 
 ### Urheberrechtslizenzen / Namensnennungen
