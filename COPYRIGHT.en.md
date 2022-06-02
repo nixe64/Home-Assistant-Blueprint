@@ -2,7 +2,7 @@
 <a href="LICENSE.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
 <a href="LICENSE.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
-[![License][license-badge]][orig-license-url]
+[![License][license-badge]][gpl]
 
 ### Home Assistant Blueprint
 
@@ -85,7 +85,7 @@ Free to use (Public Domain).
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
 [license-badge]: docs/images/license.svg
-[gpl]: docs/License.gpl.de.md
+[gpl]: LICENSE.en.md
 [apache]: docs/License.apache.de.md
 [mit]: docs/License.mit.de.md
 [my-license]: LICENSE.md
