@@ -80,12 +80,12 @@ Flagge der Vereinigten Staaten von Amerika<br/>
 Copyright © Dbenbenn, Zscout370, Jacobolus, Trägheit, Technion. - SVG-Umsetzung des U.S. Code: Titel 4, Kapitel 1, Abschnitt 1 [1] (das «Flaggengesetz» der Vereinigten Staaten).<br/>
 Recht zur freien Nutzung (Public Domain).
 
-[![en][en]][my-license]<br/>
+[![en][en]][gpl]<br/>
 Symbol für englische Übersetzung<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 Orignalflaggen siehe oben
 
-[![fr][fr]][my-license]<br/>
+[![fr][fr]][gpl]<br/>
 Symbol für französiche Übersetzung<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 Orignalflaggen siehe oben
@@ -101,16 +101,16 @@ Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
 Original: Copyright © Open Source Initiative<br/>
 Lizenz unbekannt.
 
-[![ggshield][ggshield]][my-license]<br/>
+[![ggshield][ggshield]][gpl]<br/>
 GitGuardian Shield - Logo<br/>
 Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
-Original: Copyright © 2022, GitGuardian<br/>
+[Original][gg-orig]: Copyright © 2022, GitGuardian<br/>
 Veröffentlicht mit Urheberrecht gemäß [MIT][mit]-Lizenz.
 
 [![python][python]][python-url][![and][and]][python-url][![python-logo][python-logo]][python-url]<br/>
 Python - Logos<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
-Original von ™/®Python Software Foundation<br/>
+[Original][python-orig]: Copyright © ™/®Python Software Foundation<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lizenz][gpl]
 
 <!-------------------------------------------------------------------------------------------------------------------------------------->
@@ -151,4 +151,7 @@ Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lize
 [python]: docs/images/python.svg
 [python-logo]: docs/images/python-logo.svg
 [python-url]: https://commons.wikimedia.org/w/index.php?curid=34991637
+[python-orig]: https://www.python.org/static/community_logos/python-logo-inkscape.svg
 [ggshield]: docs/images/gg-logo.svg
+[gg-orig]: https://cdn.jsdelivr.net/gh/gitguardian/ggshield/doc/logo.svg
+
