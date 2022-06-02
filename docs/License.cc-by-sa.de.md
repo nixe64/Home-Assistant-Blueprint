@@ -18,7 +18,7 @@ Durch die Ausübung der lizenzierten Rechte (wie unten definiert) erklären Sie 
 
 #### <a name="s1"></a>Abschnitt 1 – Definitionen
 
-<ol type="a">
+<ol>
 <li id="s1a">
 
 **Abgewandeltes Material** bezeichnet Material, welches durch Urheberrechte oder ähnliche Rechte geschützt ist und vom lizenzierten Material abgeleitet ist oder darauf aufbaut und in welchem das lizenzierte Material übersetzt, verändert, umarrangiert, umgestaltet oder anderweitig modifiziert in einer Weise enthalten ist, die aufgrund des Urheberrechts oder ähnlicher Rechte des Lizenzgebers eine Zustimmung erfordert. Im Sinne der vorliegenden Public License entsteht immer abgewandeltes Material, wenn das lizenzierte Material ein Musikwerk, eine Darbietung oder eine Tonaufnahme ist und zur Vertonung von Bewegtbildern verwendet wird.
@@ -152,7 +152,7 @@ Es sei klargestellt, dass dieser Abschnitt <a href="#s6b">6(b)</a> die Rechte de
 Creative Commons kann kontaktiert werden unter <a href="//creativecommons.org/">creativecommons.org</a>.</p>
 
 <style type="text/css">
-    ol { 
+    ol ol ol { 
         list-style-type: lower-alpha; 
         margin-left: 25px; 
         padding-left: 0; 
@@ -161,7 +161,7 @@ Creative Commons kann kontaktiert werden unter <a href="//creativecommons.org/">
         padding-top: 0; 
         padding-bottom: 0; 
     }
-    ol ol {
+    ol ol ol ol {
         list-style-type: decimal; 
         margin-left: 20px; 
         padding-left: 0; 
@@ -170,7 +170,7 @@ Creative Commons kann kontaktiert werden unter <a href="//creativecommons.org/">
         padding-top: 0; 
         padding-bottom: 0; 
     }
-    ol ol ol {
+    ol ol ol ol ol {
         list-style-type: upper-alpha; 
         margin-left: 20px; 
         padding-left: 0; 
@@ -179,7 +179,7 @@ Creative Commons kann kontaktiert werden unter <a href="//creativecommons.org/">
         padding-top: 0; 
         padding-bottom: 0; 
     }
-    ol ol ol ol {
+    ol ol ol ol ol ol {
         list-style-type: lower-roman; 
         margin-left: 20px; 
         padding-left: 0; 
