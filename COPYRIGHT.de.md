@@ -41,10 +41,9 @@ Sollten der o.a. Gewährleistungsausschluß und die o.a. Haftungsbegrenzung aufg
 
 Diese Repository-Vorlage ist eine Weiterentwicklung eines Home Assistant Blueprints.
 
-
 [Home Assistant Blueprints][project-url]<br/>
 Copyright © home-assistant.io<br/>
-Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][apache]-Lizenz.
+Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][apache].
 
 [![canada][canada]][ca-url]<br/>
 Flagge von Kanada<br/>
@@ -102,10 +101,9 @@ Veröffentlicht mit Urheberrecht gemäß [MIT][mit]-Lizenz.
 Python - Logos<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 Original von ™/®Python Software Foundation<br/>
-Veröffentlicht mit Urheberrecht gemäß [GPL][gpl]-Lizenz<br/> 
-<http://www.python.org/community/logos/>
+Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lizenz][gpl]
 
-
+<!-------------------------------------------------------------------------------------------------------------------------------------->
 
 [canada]: docs/images/canada.svg
 [france]: docs/images/france.svg
