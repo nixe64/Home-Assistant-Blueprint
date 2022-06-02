@@ -774,7 +774,7 @@ irgendeinem anderen Programm zusammenzuarbeiten), selbst wenn ein
 Urheberrechtsinhaber oder Dritter über die Möglichkeit solcher
 Schäden unterrichtet worden war.**
 
-#### 17. Auslegegun von §§ 15 und 16
+#### 17. Auslegegung von §§ 15 und 16
 
 Sollten der o.a. Gewährleistungsausschluß und die o.a.
 Haftungsbegrenzung aufgrund ihrer Bedingungen gemäß lokalem Recht
