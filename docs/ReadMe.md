@@ -49,7 +49,7 @@ Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0][license-url].
 [project-url]: https://homeassistant.io
 
 [license-badge]: images/license.de.svg
-[license-url]: ../LICENSE.md
+[license-url]: ../COPYRIGHT.de.md
 
 [version-badge]: images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
