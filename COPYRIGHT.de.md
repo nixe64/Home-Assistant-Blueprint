@@ -25,11 +25,11 @@ mit diesem Programm erhalten haben. Falls nicht, siehe <http://www.gnu.org/licen
 ##
 <br>
 
-Dies gilt für alle Dokumente und/oder Quellcode-Dateien, die keinen anders lauteten Copyright-Vermerk beinhalten. Zur Zeit wird nur der **Verhaltenscodex für Mitwirkende** abweichend von den Richtlinien der GPLv3 veröffentlicht. Wie *Mozilla's Richtlinien für das Mitwirken in der Community*, die als Basis und Inspiration dienten, wird er gemäß den Richtlinien der Creative Commons Namensnennung - Share Alike 4.0 Internationalen Offentlchen Lizenz veröffentlicht.
+Dies gilt für alle Dokumente und/oder Quellcode-Dateien, die keinen anders lauteten Copyright-Vermerk beinhalten. Zur Zeit wird nur der **Verhaltenscodex für Mitwirkende** abweichend von den Richtlinien der GPLv3 veröffentlicht. Wie *Mozilla's Richtlinien für das Mitwirken in der Community*, die als Basis und Inspiration dienten, wird er gemäß den Richtlinien der [Creative Commons Namensnennung - Share Alike 4.0 Internationalen Offentlchen Lizenz][cc-by-sa] veröffentlicht.
 
 Sie sollten ein Exemplar der Creative Commons Namensnennung - Share Alike Lizenz zusammen
 mit diesem Program erhalten haben. Falls nicht, 
-sie <https://creativecommons.org/licenses/by-sa/4.0/legalcode.de>
+siehe <https://creativecommons.org/licenses/by-sa/4.0/legalcode.de>
 
 ##
 
@@ -128,7 +128,7 @@ Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lize
 [gpl]: LICENSE.md
 [apache]: docs/License.apache.de.md
 [mit]: docs/License.mit.de.md
-[my-license]: docs/LICENSE.de.md
+[cc-by-sa]: docs/License.cc-by-sa.de.md
 
 [version-badge]: docs/images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
