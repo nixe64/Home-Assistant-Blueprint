@@ -116,7 +116,7 @@ Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lize
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
 [license-badge]: docs/images/license.de.svg
-[gpl]: docs/LICENSE.de.md
+[gpl]: LICENSE.md
 [apache]: docs/License.apache.de.md
 [mit]: docs/License.mit.de.md
 [my-license]: docs/LICENSE.de.md
