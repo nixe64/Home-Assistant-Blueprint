@@ -1,5 +1,6 @@
 <a href="License.cc-by-sa.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
 <a href="License.cc-by-sa.de.md"><img src="images/de.svg" valign="top" align="right"/></a>
+<br/>
 
 ### Attribution-ShareAlike 4.0 International
 
