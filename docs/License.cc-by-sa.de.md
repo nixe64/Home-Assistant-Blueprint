@@ -1,3 +1,6 @@
+<a href="License.cc-by-sa.en.md"><img src="images/en.svg" valign="top" align="right"/></a>
+<a href="License.cc-by-sa.de.md"><img src="images/de.svg" valign="top" align="right"/></a>
+
 **Offizielle Übersetzung der Creative Commons Namensnennung - Share Alike 4.0 Internationalen Öffentlichen Lizenz.**<br/>
 [Ein Fehler][cc-errata] in dieser Übersetzung wurde am 26. August 2020 korrigiert.
 
