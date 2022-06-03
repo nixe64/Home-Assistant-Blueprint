@@ -39,9 +39,92 @@ Abschliessend muss GitGuardian dann noch als GitHub-App aktiviert werden (zu fin
 [![python][python]][python-url]
 ### Vorbereitung des virtuellen Python-Environments
 
+Damit in Visual Studio Code (meine favorisierte IDE) die Umschaltung zwischen unterschiedlichen Virtuellen Python-Environments
+funktioniert, müssen alle VENVs unterhalb einen *zentralen" Sammelverzeichnisses liegen. Ich habe mich für ```~/.venv``` entschieden.
+Falls du einen anderen Ort favorisisierst, muss du die Skript-Datei ```script/run-in-env``` an deine Konfiguration anpassen. Ungefähr in der Mitte des Skripts findest du eine for-Schleife ```for venv in venv .venv . **~/.venv**; do```. Dort musst du dann statt des hervorgehobenen zentralen VENV-Verzeichnis in meiner Konfiguration dein zentrales VENV-Verzeichnis eintragen.
 
+Falls du noch kein zentrales Verzeichnis hast, unter dem du alle VENVs "gesammelt" hast, lege bitte ein neues an. Du brauchst Schreibrechte
+in diesem Ordner, also kann es irgendwo in deinem Homeverzeichnis liegen.
 
+Da Home Assistant mit aktuelle mit Python 3.9 entwickelt wird, stell bitte sicher, das du einen passenden Python-Interpreter installiert hast. Prüfen kannst du es mit ```python3.9 --version```. Wenn Python eine Versionsnummer anzeigt (in meinem Fall Python 3.9.5) kannst du fortfahren.
 
+Wechsle bitte in dein neu angelegtes / vorhandenes zentrales VENV-Verzeichnis. Dort gib dann ```python3.9 -m venv 3.9``` ein. Damit wird ein neues virtuelles Verzeichnis für deine Entwicklung einer Home Assistant Integration angelegt. Tip: Ich habe mit in der ~/.bash_aliases einen alias für ```source ~/.venv/3.9/bin/activate``` definiert, so dass ich nur noch p3.9 aufrufen muss, wenn ich mit diesem virtuellen Environment arbeiten möchte.
+
+Falls du deine Integration direkt auf deinem Rechner testen möchtest (z.B. in einem Docker-Container), dann empfehle ich dir, dafür ein zweites 
+virtuelles Environment anzulegen, da Home Assistent alle Bibliotheken, die es verwendet, auf eine feste Version pinnt und so Updates für viele
+Libraries, die du mit pip installierst, von Home Assistant beim nächsten Start wieder rückgängig gemacht werden. Ich habe meine zweite virtuelle
+Python-Umgebung ha-dev genannt, aber auch hier kannst deiner Fantasie wieder freien Lauf lassen, und einen anderen Namen nehmen, falls gewünscht.
+
+Nachdem das/die virtuellen Environment existieren, musst du eventuell noch die Datei ```.python-version``` anpassen. Dort wird der Name des virtuellen Environments eingetragen, das du für die Entwicklung deiner Integration verwenden möchtest.
+
+#### Installation der benötigten Komponenten für pre-commit - Überprüfungen
+
+Da Python leider nicht kompiliert wird, werden syntaktische Fehler ja leider erst erkannt, wenn der Code ausgeführt werden soll.
+Um während der Entwicklung bereits auf tatsächliche oder zumindest potentielle Fehler hingewiesen zu werden, benötigen wir noch
+einige Tools. Einige sind von Home Assistant bzw. von der Home Assistant Community (HACS) vorgeschrieben, einige hielt ich "nur" 
+für sinnvoll und habe sie mit aufgenommen.
+
+Bevor du mit der Installation der Installation der Komponenten beginnst, musst du allerdings zuerst dein virtuelles Environment mit ```source ~/.venv/3.9/bin/activate``` oder deinem entsprchendem Alias aktivieren. Vermutlich wirst du schon wissen, das sich der Prompt ändert und du vor deinem Namen in Klammern das aktivierte virtuelle Environment angezeigt bekommst.
+
+Anfangen möchte ich mit meiner ersten Empfehlung: Der Installation von GitGuardian Shield. Wer sich gegen die Überprüfung mit GGShield entschieden hat, kann diesen Schritt überspringen.
+
+Um den GitGuardian Shield zu installieren, gib bitte den folgenden Befehl in einem Terminal:
+
+```
+pip install -U ggshield
+```
+
+Bei den restlichen Komponenten werde ich jeweils angebeben, ob sie von Home Assistant oder der HACS vorgeschlagen (also optional) oder fest
+vorgeschrieben sind, damit du selbst entscheiden kannst, welche Überprüfungen du ggf. weglassen oder gegen eine aus deiner Sicht bessere Variante der Überprüfung austauschen möchtest.
+
+- pre-commit (Führt sämtliche Tests aus, bevor ein Commit zugelassen wird). Von Home Assistant vorgeschrieben:<br/>
+Installation: ```pip install -U pre-commit```.
+- Black (Quelltext Formatierer): Von Home Assistant und HACS vorgeschrieben. Installation: ```pip install -U black```.
+- ISort (Sortierung der Imports): Von Home Assistant und HACS vorgeschrieben. Installation ```pip install -U isort```.
+- PyLint (Python Linter): Von Home Assistant vorgeschrieben. Installation ```pip install -U pylint```.
+- Prettier (Python Linter): Von Home Assistant empfohlen. Installatin ```pip install -U prettier```.
+- MyPy (Python Linter): Von Home Assistant empfohlen. Installation ```pip install -U mypy```.
+- Flake8 (Python Linter): Von Home Assistant empfohlen. Installation ```pip install -U flake8```.
+- Bandit (Python Linter): Von Home Assistant empfohlen. Installation ```pip install -U bandit```.
+- YAMLint (YAML Linter): Von Home Assistant empfohlen. Installation ```pip install -U yamllint```.
+- Typos (Rechtschreibprüfung (nur englisch)): Von mir empfohlen. Installation folgt später.
+- CodeSpell (Rechtschreibprüfung (nur englisch)): Von Home Assistant empfohlen. Installation ```pip install -U codespell```.
+- PyTest (Überprüfung der Implementierung mit Test-Klassen / -Funktionen): Von Home Assistant empfohlen, von mir dringend empfohlen.<br/>
+Installation: ```pip install -U pytest```.
+
+#### Installation von Typos
+
+Typos findest in den GitHub-Repositores von *crate-ci*. Der Aufwand es zu installieren ist zwar etwas höher als bei CodeSpell, dass von Home Assistant favorisiert wird, aber es ist nach meiner Erfahrung deutlich besser in der Erkennung (weniger falsch-negative Erkennungen) und ist
+deutlich besser zu konfigurieren. Ich habe mir fast die Finger gebrochen, um CodeSpell davon zu überzeugen, die deutschen Versionen meiner Texte
+zu ignorieren und mit Typos war es ein Klacks. Dort kannst du (änlich wie bei den .gitignore Dateien) .ignore-Dateien anlegen und relativ
+einfach eintragen, welche Dateien nicht überprüft werden sollen. Du braucht aus den [Releases][crate-ci] das passende binäre Archiv für dein Betriebssystem. Darin findest du eine Datei mit dem Namen ```typos```.  Die musst du in ein Verzeichnis kopieren, das sich im $PATH befindet (ich habe mich für .local/bin etschieden). Fertig!
+
+[![vscode][vscode]][vscode]
+### Konfiguration von Visual Studio Code
+
+Zunächst brauchen wir ein paar Extensions, um die volle Unterstüzung der IDE für die Python Entwicklung zu erhalten. Dies sind
+**Python** von Microsoft, **Pylance** von Microsoft und ggf. **Remote - Containers** von Microsoft, falls du deine Integration
+auf deinem Entwicklungs-Rechner testen möchtest. Nachdem du die Erweiterung installiert hast, solltest du zur Sicherheit Visual
+Studio Code neu starten.
+
+Anschlißend musst du VS-Code sagen, wo dein zentrales VENV-Verzeichnis liegt. Dazu sucht du am Besten nach *venv*. Falls du nur
+ein zentrales VENV-Verzeichnis hast, kannst du es direkt bei ```Python > **Venv Path**``` eintragen. Solltest du mehrere haben, musst
+du dich dort für eines entscheiden (ich empfehle das zu nehmen, in dem sich dein virtuelle Environment für die HA-Entwicklung befindent).
+Die weiteren zentralen VENV-Verzeichnisse kannst du bei ```Python > **Venv Folders**``` eintragen.
+
+Wenn du nun eine .py-Datei öffnet, wird dich VS-Code fragen, welche Python-Version für die Python-Entwicklung in diesem Projekt
+verwendet werden soll. Wähl bitte das virtuelle Environment, das du für die Entwicklung deiner Integration angelegt hast. Falls
+VS-Code nicht direkt "befragt", kannst du unten rechts in der Statuszeile über "Sprachmodus auswählen" die Auswahl des richtigen
+Python-Interpreters auch selbst starten.
+
+Danach solltest du in den Einstellungen nach *black* suchen und unter ```Python > Formatting: **Provider**``` *black* auswählen,
+da Home Assistant die Code-Formatierung mit Black vorschreibt.
+
+Ggf. solltest du dann noch Pylance (Microsofts Python Language Server), der für die Erkennung von Problemen und IntelliSense
+zuständig ist, an deine Bedürfnisse anpassen. Dann hast du es endlich geschafft.
+
+Mit mir nur zu hoffen, das ich nichts Wichtiges vergessen habe und dir viel Spaß und Erfolg bei der Programmierung deiner
+Integration zu wünschen.
 
 [license-badge]: images/license.de.svg
 [license-url]: ../COPYRIGHT.de.md
@@ -54,3 +137,5 @@ Abschliessend muss GitGuardian dann noch als GitHub-App aktiviert werden (zu fin
 [gg-dash]: https://dashboard.gitguardian.com/
 [python]: images/python-logo.svg
 [python-url]: https://www.python.org/
+[crate-ci]: https://github.com/crate-ci/typos/releases
+[vscode]: images/vscode.svg

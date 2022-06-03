@@ -157,3 +157,4 @@ Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lize
 [ggshield]: docs/images/gg-logo.svg
 [gg-orig]: https://cdn.jsdelivr.net/gh/gitguardian/ggshield/doc/logo.svg
 
+By Microsoft - https://code.visualstudio.com/brand, Public Domain, https://commons.wikimedia.org/w/index.php?curid=79495290
