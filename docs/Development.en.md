@@ -22,32 +22,31 @@ After pressing ``Create token`` give your token a name, so that you can later
 recognize what you used it for, and then make the following settings following 
 settings:
 
-- ``Expires:``` For the token that you want to use in your development 
+- ```Expires:``` For the token that you want to use in your development 
 environment I recommend an expiration period of 6 months to max. 1 year. For 
 the Token you want to use on GitHub, I recommend 6 months max.
-- ```Scope:``` Please select ```scan`` only.
+- ```Scope:``` Please select ```scan``` only.
 
 After pressing the ``Create token`` button, your new access token will be 
 displayed (somewhat inconspicuous at the top, highlighted in green). Copy it 
 into a file or into your password manager. You will never see it again. After 
 you have created the two tokens, they "only" have to be deposited in the 
-correct places to finally activate GitGuardian as GitHub Apps. 
+correct places to finally activate GitGuardian as GitHub App. 
 
 
 #### Integration of GitGuardian in the pre-commit checks
 
-The actual integration of GitGuardian into the pre-commit checks has already 
-been done for you by this blueprint. this Blueprint has already done for you. 
-However, you still need to store your access token in a suitable place and 
-prepare the GitGuardian virtual Python environment to install GitGuardian. The 
-details for the installation can be found in the section 
-**Preparation of the virtual Python environment**. Here we stay first the 
-appropriate place for your access token.
+The actual integration of GitGuardian into the pre-commit checks this 
+Blueprint has already done for you. However, you still need to store your 
+access token in a suitable place and prepare the virtual Python environment 
+and install the GitGuardian Shield. The details for the installation can be 
+found in the section **Preparation of the virtual Python environment**. Here, 
+let's stay at the appropriate places for your access tokens.
 
 You can either store your token in the ``GITGUARDIAN_API_KEY`` environment 
-variable (e.g. by exporting it to ``~/.bashrc``) or you can put it into the 
+variable (e.g. by exporting it in ``~/.bashrc``) or you can put it into the 
 configuration file of GitGuardian ``~/.gitguardian.yml`` (my preferred 
-variant). With the second variant you have the advantage that you can use
+variant). With the second variant you have the advantage that you can configure
 GitGuardian to your personal needs in the same place (see GitGuardian (see 
 GitGuardian documentation) and, even though it is not in the documentation you 
 can also store **your access token** here. (I love it when the docus hide the 
@@ -68,8 +67,8 @@ to go to the ``Settings`` for each repository. There you will find under
 There you can enter your second personal access token. At ``Name`` you have to 
 enter the name **GITGUARDIAN_API_KEY** and for ``Value`` your token. Done!
 
-Finally you have to activate GitGuardian as a GitHub app (you can find it under 
-under your account settings / Applications). However, the process must be 
+Finally you have to activate GitGuardian as a GitHub App (you can find it under
+your GitHub account settings / Applications). However, the process must be 
 **initiated on GitGuardian**. To do this, go to [Dashboard][gg-dash] and click on 
 ``INTEGRATIONS``. Under *VCS Integrations* you will find GitHub and there you 
 just need to and there you have to press the ``Install`` button and make the 
@@ -185,6 +184,8 @@ operating system from the [releases][crate-ci]. In it you will find a file
 named ```typos```.  You have to copy it into a directory that is in the **$PATH** 
 (I chose .local/bin). Ready!
 
+##
+
 [![vscode][vscode]][vscode]
 ### Configuring Visual Studio Code
 
@@ -196,21 +197,20 @@ development. These are:
 - **Remote Containers** from Microsoft, if you want to test on your development 
 computer. 
 
-After you have installed the extensions, you should check Visual for security
-Restart Studio Code.
+After you have installed the extensions, you should restart Visual Studio Code.
 
-Then you have to tell VS code where your central VENV directory is located. The 
+Then you have to tell VS Code where your central VENV directory is located. The 
 best way to do this is to search for *venv* in the settings. If you have only 
 one central VENV directory, you can enter it directly at 
 *”Python > **Venv Path**”*. If you have more than one, you must decide for one 
-thing there (I recommend taking the one where your virtual environment was for 
-the development of your integration). You can enter the other central VENV 
-directories at *”Python > **Venv Folders**”*. 
+thing there (I recommend taking the one where your virtual environment for the 
+development of your integration is located). You can enter the other central 
+ENV directories at *”Python > **Venv Folders**”*. 
 
-I haven’t made it yet to "teach" VS code to use the used extensions and tools 
-from the virtual environment, unless I activate the environment beforehand 
-(e.g. in a shell script). If you know a solution to this little problem, I’d 
-be happy and grateful if you could share your knowledge with me. At the moment, 
+I haven’t made it yet to "teach" VS Code to use the extensions and tools from 
+the virtual environment, unless I activate the environment beforehand (e.g. in 
+a shell script). If you know a solution to this little problem, I’d be happy 
+and grateful if you could share your knowledge with me. At the moment, 
 therefore, the tools are started via a shell script ```(script/run-in-env.sh)``` 
 that activates the correct environment before executing the tool.
 
@@ -218,8 +218,7 @@ If you now open or create a .py file, VS code will ask you which Python version
 for Python development in this project should be used. Please select the 
 virtual environment you have created for the development of your integration. 
 If VS Code does not “ask” you by itself, you can select the right one in the 
-bottom right of the status line via “Select language mode” to start the 
-selection of the Python interpreter yourself.
+bottom right of the status line via “Select language mode”.
 
 Then you should search for *black* in the settings and select 
 *”Python > Formatting: **Provider**”* **black**, because Home Assistant 
@@ -229,8 +228,8 @@ If necessary, you should also adapt Pylance (Microsoft’s Python Language Serve
 to your needs, which is responsible for troubleshooting and IntelliSense. Then 
 you finally did it.
 
-I can only hope that I have not forgotten anything important and wish you a lot 
-of fun and success in programming your Integration.
+I hope that I have not forgotten anything important and wish you a lot of fun 
+and success in programming your Integration.
 
 [license-badge]: images/license.de.svg
 [license-url]: ../COPYRIGHT.de.md

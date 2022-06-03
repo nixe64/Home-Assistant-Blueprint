@@ -31,7 +31,7 @@ Nachdem du den ```Create token```-Button gedrückt hast, wird dir dein neues
 Zugangstoken angezeigt (etwas unauffällig ganz oben, grün hinterlegt). Kopier 
 es in eine Datei oder in deinen Passwort-Manager. Du wirst es nie wieder sehen. 
 Nachdem du die beiden Token erzeugt hast, müssen sie "nur noch" an den richtigen 
-Stellen hinterlegt werden, um dann zum Abschluss GitGuardian als GitHub Apps zu 
+Stellen hinterlegt werden, um dann zum Abschluss GitGuardian als GitHub App zu 
 aktivieren.
 
 #### Integration von GitGuardian in die pre-commit Überprüfungen
@@ -42,7 +42,7 @@ Zugangstoken an geeigneter Stelle hinterlegen und bei der Vorbereitung des
 virtuellen Python-Environment GitGuardian installieren. Die Details für die
 Installation erfährst du im Abschnitt 
 **Vorbereitung des virtuellen Python-Environments**. Hier bleiben wir erst
-einmal bei der geeigneten Stelle für dein Zugangstoken.
+einmal bei den geeigneten Stellen für deine Zugangstoken.
 
 Du kannst dein Token entweder in der Umgebungsvariablen ```GITGUARDIAN_API_KEY```
 speichern (z.B. indem des es in ```~/.bashrc``` exportierst) oder es in die 
@@ -196,13 +196,15 @@ binäre Archiv für dein Betriebssystem. Darin findest du eine Datei mit dem
 Namen ```typos```.  Die musst du in ein Verzeichnis kopieren, das sich im 
 **$PATH** befindet (ich habe mich für .local/bin etschieden). Fertig!
 
+##
+
 [![vscode][vscode]][vscode]
 ### Konfiguration von Visual Studio Code
 
 Zunächst brauchst du ein paar Erweiterungen, um die volle Unterstüzung der IDE 
 für die Python Entwicklung zu erhalten. Dies sind:
 
-- *Python** von Microsoft, 
+- **Python** von Microsoft, 
 - **Pylance** von Microsoft und ggf. 
 - **Remote - Containers** von Microsoft, falls du deine Integration auf deinem 
 Entwicklungs-Rechner testen möchtest. 
