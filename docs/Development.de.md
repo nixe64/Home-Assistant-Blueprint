@@ -107,14 +107,14 @@ Zunächst brauchen wir ein paar Extensions, um die volle Unterstüzung der IDE f
 auf deinem Entwicklungs-Rechner testen möchtest. Nachdem du die Erweiterung installiert hast, solltest du zur Sicherheit Visual
 Studio Code neu starten.
 
-Anschlißend musst du VS-Code sagen, wo dein zentrales VENV-Verzeichnis liegt. Dazu sucht du am Besten nach *venv*. Falls du nur
+Anschließend musst du VS-Code sagen, wo dein zentrales VENV-Verzeichnis liegt. Dazu sucht du am Besten nach *venv*. Falls du nur
 ein zentrales VENV-Verzeichnis hast, kannst du es direkt bei ```Python > **Venv Path**``` eintragen. Solltest du mehrere haben, musst
-du dich dort für eines entscheiden (ich empfehle das zu nehmen, in dem sich dein virtuelle Environment für die HA-Entwicklung befindent).
+du dich dort für eines entscheiden (ich empfehle das zu nehmen, in dem sich dein virtuelle Environment für die Entwicklung deiner Integration befindent).
 Die weiteren zentralen VENV-Verzeichnisse kannst du bei ```Python > **Venv Folders**``` eintragen.
 
 Wenn du nun eine .py-Datei öffnet, wird dich VS-Code fragen, welche Python-Version für die Python-Entwicklung in diesem Projekt
 verwendet werden soll. Wähl bitte das virtuelle Environment, das du für die Entwicklung deiner Integration angelegt hast. Falls
-VS-Code nicht direkt "befragt", kannst du unten rechts in der Statuszeile über "Sprachmodus auswählen" die Auswahl des richtigen
+VS-Code dich nicht von selbst "befragt", kannst du unten rechts in der Statuszeile über "Sprachmodus auswählen" die Auswahl des richtigen
 Python-Interpreters auch selbst starten.
 
 Danach solltest du in den Einstellungen nach *black* suchen und unter ```Python > Formatting: **Provider**``` *black* auswählen,
@@ -123,7 +123,7 @@ da Home Assistant die Code-Formatierung mit Black vorschreibt.
 Ggf. solltest du dann noch Pylance (Microsofts Python Language Server), der für die Erkennung von Problemen und IntelliSense
 zuständig ist, an deine Bedürfnisse anpassen. Dann hast du es endlich geschafft.
 
-Mit mir nur zu hoffen, das ich nichts Wichtiges vergessen habe und dir viel Spaß und Erfolg bei der Programmierung deiner
+Bleibt mir nur zu hoffen, das ich nichts Wichtiges vergessen habe und dir viel Spaß und Erfolg bei der Programmierung deiner
 Integration zu wünschen.
 
 [license-badge]: images/license.de.svg
