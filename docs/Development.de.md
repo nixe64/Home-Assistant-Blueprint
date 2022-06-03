@@ -108,16 +108,16 @@ auf deinem Entwicklungs-Rechner testen möchtest. Nachdem du die Erweiterung ins
 Studio Code neu starten.
 
 Anschließend musst du VS-Code sagen, wo dein zentrales VENV-Verzeichnis liegt. Dazu sucht du am Besten nach *venv*. Falls du nur
-ein zentrales VENV-Verzeichnis hast, kannst du es direkt bei ```Python > **Venv Path**``` eintragen. Solltest du mehrere haben, musst
+ein zentrales VENV-Verzeichnis hast, kannst du es direkt bei *Python > **Venv Path*** eintragen. Solltest du mehrere haben, musst
 du dich dort für eines entscheiden (ich empfehle das zu nehmen, in dem sich dein virtuelle Environment für die Entwicklung deiner Integration befindent).
-Die weiteren zentralen VENV-Verzeichnisse kannst du bei ```Python > **Venv Folders**``` eintragen.
+Die weiteren zentralen VENV-Verzeichnisse kannst du bei *Python > **Venv Folders*** eintragen.
 
 Wenn du nun eine .py-Datei öffnet, wird dich VS-Code fragen, welche Python-Version für die Python-Entwicklung in diesem Projekt
 verwendet werden soll. Wähl bitte das virtuelle Environment, das du für die Entwicklung deiner Integration angelegt hast. Falls
 VS-Code dich nicht von selbst "befragt", kannst du unten rechts in der Statuszeile über "Sprachmodus auswählen" die Auswahl des richtigen
 Python-Interpreters auch selbst starten.
 
-Danach solltest du in den Einstellungen nach *black* suchen und unter ```Python > Formatting: **Provider**``` *black* auswählen,
+Danach solltest du in den Einstellungen nach *black* suchen und unter *Python > Formatting: **Provider*** **black** auswählen,
 da Home Assistant die Code-Formatierung mit Black vorschreibt.
 
 Ggf. solltest du dann noch Pylance (Microsofts Python Language Server), der für die Erkennung von Problemen und IntelliSense
