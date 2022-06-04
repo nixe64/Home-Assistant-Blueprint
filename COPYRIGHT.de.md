@@ -58,7 +58,7 @@ Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][apache]
 
 <div style="padding-bottom: 30px;">
 <p align="left"><a href="https://opensource.org/"><img src="docs/images/osi-logo.svg" align="left"/></a></p>
-<p valgin="center" style="margin-left: 50px;">
+<p valgin="center" margin-left="50">
 <br/>
 Open Source Initiative - Logo<br/>
 Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
