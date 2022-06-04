@@ -1,4 +1,4 @@
-<a href="COPYRIGHT.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
+<img src="docs/images/en.svg" valign="top" align="right"/>
 <a href="COPYRIGHT.de.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][gpl]
@@ -8,18 +8,18 @@
 Copyright © 2022, Andreas Nixdorf.
 
 This program is free software: you can redistribute it and/or
-modify it under the terms of the [GNU General Public License][gpl] as
+modify it under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of
 the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful,
-but **without any warranty**; without even the implied warranty of
-**merchantability** or **fitness for a particular purpose**.  See the GNU
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 General Public License for more details.
 
 You should have received a copy of the GNU General Public
-License along with this program.  If not, see 
-<http://www.gnu.org/licenses/>.
+License along with this program.  If not, see
+http://www.gnu.org/licenses/.
 
 ##
 <br>
@@ -56,31 +56,92 @@ This repository template is a derivative of a Home Assistant Blueprint.
 
 [Home Assistant Blueprints][project-url]<br/>
 Copyright © home-assistant.io<br/>
-Distributed with copyright under the [Apache license version 2.0](docs/License.apache.en.md).
+Distributed with copyright under the [Apache License Version 2.0][apache].
+<br/><br/>
 
-[![canada][canada]][ca-url] Flag of Canada<br/>
-Copyright © Wikimedia Commons. The current SVG encoding is a rewrite performed by MapGrid. - This vector image is generated programmatically from geometry defined in File:Flag of Canada (construction sheet - leaf geometry).<br/>
-Free to use (Public Domain).
+<p ><a href="https://opensource.org/"><img src="docs/images/osi-logo.svg" align="left"/></a></p>
+<p><br/>
+Open Source Initiative - Logo<br/>
+Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
+<a href="https://opensource.org/files/OSIApproved_1.png">Original</a>: Copyright © Open Source Initiative<br/>
+License unknown.
+</p><br/>
 
-[![france][france]][fr-url] Flag of the French Republic<br/>
-Copyright © SKopp. 
-Free to use (Public Domain).
+[![shields-logo][shields]][shields-url]<br/>
+All used Shields and Badges<br/>
+Copyright © Uptime Robot Service Provider Ltd. as operator of Shields.io.<br/>
+Public Domain.
+<br/><br/>
 
-[![germany][germany]][germany-url] Flag of the Federal Republic of Germany<br/>
-Copyright © SKopp, Madden and other users - Own Work.<br/>
-Free to use (Public Domain).
+[![canada][canada]][ca-url]<br/>
+Flag of Canada<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+[Original][ca-orig]: Copyright © Wikimedia Commons.<br/>
+Public Domain.
+<br/><br/>
 
-[![uk][uk]][uk-url] Flag of the United Kingdom<br/>
-Copyright © Acts of Union 1800 Vector: Zscout370 - Own Work, based on: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute.<br/>
-Free to use (Public Domain).
+[![france][france]][fr-url]<br/>
+Flag of the French Republic<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+[Original][fr-orig]: Copyright © SKopp - Own Work.<br/>
+Public Domain.
+<br/><br/>
 
-[![usa][usa]][usa-url] Flag of the United States of America<br/>
-Copyright © Dbenbenn, Zscout370, Jacobolus, Indolences, Technion. - SVG implementation of U.S. Code: Title 4, Chapter 1, Section 1 [1] (the United States Federal "Flag Law").<br/>
-Free to use (Public Domain).
+[![germany][germany]][de-url]<br/>
+Flag of the Federal Republic of Germany<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+[Original][de-orig]: Copyright © SKopp, Madden and others - Own Work.<br/>
+Public Domain.
+<br/><br/>
 
-[![shields][shields]][shields-url] All used shields and badges<br/>
-Copyright © Uptime Robot Service Provider Ltd. as the operator of Shields.io.<br/>
-Free to use (Public Domain).
+[![uk][uk]][uk-url]<br/>
+Flag of the United Kingdom<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+[Original][uk-orig]: Copyright © Acts of Union 1800 Vector: Zscout370 – Own Work.<br/>
+Public Domain.
+<br/><br/>
+
+[![usa][usa]][usa-url]<br/>
+Flag of the United States of America<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+[Original][usa-orig]: Copyright © Dbenbenn, Zscout370, Jacobolus, Trägheit, Technion. - Own Work.<br/>
+Public Domain.
+<br/><br/>
+
+[![en][en]][gpl]<br/>
+English Translation Icon<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+flags used: see above.
+<br/><br/>
+
+[![fr][fr]][gpl]<br/>
+French Translation Icon<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+flags used: see above.
+<br/><br/>
+
+[![ggshield][ggshield]][gpl]<br/>
+GitGuardian Shield - Logo<br/>
+Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
+[Original][gg-orig]: Copyright © 2022, GitGuardian<br/>
+Distributed with copyright under the [MIT][mit]-License.
+<br/><br/>
+
+[![python][python]][python-url][![and][and]][python-url][![python-logo][python-logo]][python-url]<br/>
+Python - Logos<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+[Original][python-orig]: Copyright © ™/®Python Software Foundation<br/>
+Distributed with copyright under the [GNU General Public License][gpl], Version 3.
+<br/><br/>
+
+[![code][code]][code-url]<br/>
+Visual Studio Code - Logo<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+[Original][code-orig]: Copyright © Microsoft<br/>
+<https://code.visualstudio.com/brand>.<br/>
+ Public Domain.
+
+<!-------------------------------------------------------------------------------------------------------------------------------------->
 
 [canada]: docs/images/canada.svg
 [france]: docs/images/france.svg
@@ -91,11 +152,11 @@ Free to use (Public Domain).
 [logo]: images/hassio-icon.png
 [project-url]: https://www.home-assistant.io/docs/automation/using_blueprints/
 
-[license-badge]: docs/images/license.en.svg
-[gpl]: LICENSE.en.md
+[license-badge]: docs/images/license.de.svg
+[gpl]: LICENSE.md
 [apache]: docs/License.apache.de.md
 [mit]: docs/License.mit.de.md
-[my-license]: LICENSE.md
+[cc-by-sa]: docs/License.cc-by-sa.de.md
 
 [version-badge]: docs/images/version.svg
 [version-url]: https://github.com/nixe64/Home-Assistant-Blueprint/releases
@@ -104,7 +165,28 @@ Free to use (Public Domain).
 [shields-url]: https://uptimerobot.com/terms/
 
 [ca-url]: https://commons.wikimedia.org/w/index.php?curid=32276527
+[ca-orig]: https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg
 [fr-url]: https://commons.wikimedia.org/w/index.php?curid=343059
-[germany-url]: https://commons.wikimedia.org/w/index.php?curid=343071
+[fr-orig]: https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg
+[de-url]: https://commons.wikimedia.org/w/index.php?curid=343071
+[de-orig]: https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg
 [uk-url]: https://commons.wikimedia.org/w/index.php?curid=347935
+[uk-orig]: https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg
 [usa-url]: https://commons.wikimedia.org/w/index.php?curid=318418
+[usa-orig]: https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg
+[en]: docs/images/en.svg
+[fr]: docs/images/fr.svg
+
+[osi]: docs/images/osi-logo.svg
+[osi-url]: https://opensource.org/
+[osi-orig]: https://opensource.org/files/OSIApproved_1.png
+[and]: docs/images/and.svg
+[python]: docs/images/python.svg
+[python-logo]: docs/images/python-logo.svg
+[python-url]: https://commons.wikimedia.org/w/index.php?curid=34991637
+[python-orig]: https://www.python.org/static/community_logos/python-logo-inkscape.svg
+[ggshield]: docs/images/gg-logo.svg
+[gg-orig]: https://cdn.jsdelivr.net/gh/gitguardian/ggshield/doc/logo.svg
+[code]: docs/images/vscode.svg
+[code-url]: https://commons.wikimedia.org/w/index.php?curid=79495290
+[code-orig]: https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg

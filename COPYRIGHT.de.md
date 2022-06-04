@@ -1,7 +1,7 @@
+<a href="COPYRIGHT.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
+<img src="docs/images/de.svg" valign="top" align="right"/>
 [![Version][version-badge]][version-url]
 [![License][license-badge]][gpl]
-<a href="COPYRIGHT.en.md"><img src="docs/images/en.svg" valign="top" align="right"/></a>
-<a href="COPYRIGHT.de.md"><img src="docs/images/de.svg" valign="top" align="right"/></a>
 
 ### Home Assistant Blueprint
 
@@ -67,49 +67,54 @@ Lizenz unbekannt.
 [![shields-logo][shields]][shields-url]<br/>
 Alle verwnendeten Shields und Badges<br/>
 Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
-Recht zur freien Nutzung (Public Domain)
+Recht zur freien Nutzung (Public Domain).
 <br/><br/>
 
 [![canada][canada]][ca-url]<br/>
 Flagge von Kanada<br/>
-Copyright © Wikimedia Commons. Die aktuelle SVG-Kodierung wurde von MapGrid neu geschrieben. - Dieses Vektorbild wird programmatisch aus der in File:Flagge von Kanada definierten Geometrie generiert (Konstruktionsblatt – Blattgeometrie).<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+[Original][ca-orig]: Copyright © Wikimedia Commons.<br/>
 Recht zur freien Nutzung (Public Domain).
 <br/><br/>
 
 [![france][france]][fr-url]<br/>
 Flagge der Französischen Republik<br/>
-Copyright © SKopp.<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+[Original][fr-orig]: Copyright © SKopp - Eigenes Werk.<br/>
 Recht zur freien Nutzung (Public Domain).
 <br/><br/>
 
-[![germany][germany]][germany-url]<br/>
+[![germany][germany]][de-url]<br/>
 Flagge der Bundesrepublik Deutschland<br/>
-Copyright © SKopp, Madden und andere - Eigenes Werk.<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+[Original][de-orig]: Copyright © SKopp, Madden und andere - Eigenes Werk.<br/>
 Recht zur freien Nutzung (Public Domain).
 <br/><br/>
 
 [![uk][uk]][uk-url]<br/>
 Flagge des Vereinigten Königreichs<br/>
-Copyright © Acts of Union 1800 Vektor: Zscout370 – Eigenes Werk, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute.<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+[Original][uk-orig]: Copyright © Acts of Union 1800 Vektor: Zscout370 – Eigenes Werk.<br/>
 Recht zur freien Nutzung (Public Domain).
 <br/><br/>
 
 [![usa][usa]][usa-url]<br/>
 Flagge der Vereinigten Staaten von Amerika<br/>
-Copyright © Dbenbenn, Zscout370, Jacobolus, Trägheit, Technion. - SVG-Umsetzung des U.S. Code: Titel 4, Kapitel 1, Abschnitt 1 [1] (das «Flaggengesetz» der Vereinigten Staaten).<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+[Original][usa-orig]: Copyright © Dbenbenn, Zscout370, Jacobolus, Trägheit, Technion. - Eigenes Werk.<br/>
 Recht zur freien Nutzung (Public Domain).
 <br/><br/>
 
 [![en][en]][gpl]<br/>
 Symbol für englische Übersetzung<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
-verwendete Flaggen: siehe oben
+verwendete Flaggen: siehe oben.
 <br/><br/>
 
 [![fr][fr]][gpl]<br/>
 Symbol für französiche Übersetzung<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
-verwendete Flaggen: siehe oben
+verwendete Flaggen: siehe oben.
 <br/><br/>
 
 [![ggshield][ggshield]][gpl]<br/>
@@ -123,8 +128,15 @@ Veröffentlicht mit Urheberrecht gemäß [MIT][mit]-Lizenz.
 Python - Logos<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 [Original][python-orig]: Copyright © ™/®Python Software Foundation<br/>
-Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lizenz][gpl]
+Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lizenz][gpl].
 <br/><br/>
+
+[![code][code]][code-url]<br/>
+Visual Studio Code - Logo<br/>
+Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
+[Original][code-orig]: Copyright © Microsoft<br/>
+<https://code.visualstudio.com/brand>.<br/>
+ Recht zur freien Nutzung (Public Domain).
 
 <!-------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -150,17 +162,21 @@ Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lize
 [shields-url]: https://uptimerobot.com/terms/
 
 [ca-url]: https://commons.wikimedia.org/w/index.php?curid=32276527
+[ca-orig]: https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg
 [fr-url]: https://commons.wikimedia.org/w/index.php?curid=343059
-[germany-url]: https://commons.wikimedia.org/w/index.php?curid=343071
+[fr-orig]: https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg
+[de-url]: https://commons.wikimedia.org/w/index.php?curid=343071
+[de-orig]: https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg
 [uk-url]: https://commons.wikimedia.org/w/index.php?curid=347935
+[uk-orig]: https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg
 [usa-url]: https://commons.wikimedia.org/w/index.php?curid=318418
+[usa-orig]: https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg
 [en]: docs/images/en.svg
 [fr]: docs/images/fr.svg
 
 [osi]: docs/images/osi-logo.svg
 [osi-url]: https://opensource.org/
 [osi-orig]: https://opensource.org/files/OSIApproved_1.png
-
 [and]: docs/images/and.svg
 [python]: docs/images/python.svg
 [python-logo]: docs/images/python-logo.svg
@@ -168,5 +184,6 @@ Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lize
 [python-orig]: https://www.python.org/static/community_logos/python-logo-inkscape.svg
 [ggshield]: docs/images/gg-logo.svg
 [gg-orig]: https://cdn.jsdelivr.net/gh/gitguardian/ggshield/doc/logo.svg
-
-By Microsoft - https://code.visualstudio.com/brand, Public Domain, https://commons.wikimedia.org/w/index.php?curid=79495290
+[code]: docs/images/vscode.svg
+[code-url]: https://commons.wikimedia.org/w/index.php?curid=79495290
+[code-orig]: https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg
