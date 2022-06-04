@@ -56,15 +56,13 @@ Copyright © home-assistant.io<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][apache].
 <br/><br/>
 
-<div style="padding-bottom: 30px;">
-<p align="left"><a href="https://opensource.org/"><img src="docs/images/osi-logo.svg" align="left"/></a></p>
-<p valgin="center" margin-left="50">
-<br/>
+<p align="left"><a href="https://opensource.org/"><img src="docs/images/osi-logo.svg"/></a></p>
+<p><br/>
 Open Source Initiative - Logo<br/>
 Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
 <a href="https://opensource.org/files/OSIApproved_1.png">Original</a>: Copyright © Open Source Initiative<br/>
 Lizenz unbekannt.
-</p></div><br/>
+</p><br/>
 
 [![shields-logo][shields]][shields-url]<br/>
 Alle verwnendeten Shields und Badges<br/>
