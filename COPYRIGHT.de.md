@@ -60,59 +60,72 @@ Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][apache]
 Alle verwnendeten Shields und Badges<br/>
 Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
 Recht zur freien Nutzung (Public Domain)
+<br/><br/>
 
 [![canada][canada]][ca-url]<br/>
 Flagge von Kanada<br/>
 Copyright © Wikimedia Commons. Die aktuelle SVG-Kodierung wurde von MapGrid neu geschrieben. - Dieses Vektorbild wird programmatisch aus der in File:Flagge von Kanada definierten Geometrie generiert (Konstruktionsblatt – Blattgeometrie).<br/>
 Recht zur freien Nutzung (Public Domain).
+<br/><br/>
 
 [![france][france]][fr-url]<br/>
 Flagge der Französischen Republik<br/>
 Copyright © SKopp.<br/>
 Recht zur freien Nutzung (Public Domain).
+<br/><br/>
 
 [![germany][germany]][germany-url]<br/>
 Flagge der Bundesrepublik Deutschland<br/>
 Copyright © SKopp, Madden und andere - Eigenes Werk.<br/>
 Recht zur freien Nutzung (Public Domain).
+<br/><br/>
 
 [![uk][uk]][uk-url]<br/>
 Flagge des Vereinigten Königreichs<br/>
 Copyright © Acts of Union 1800 Vektor: Zscout370 – Eigenes Werk, basierend auf: United Kingdom at Flag of the World, United Kingdom Flag at the Flag Institute.<br/>
 Recht zur freien Nutzung (Public Domain).
+<br/><br/>
 
 [![usa][usa]][usa-url]<br/>
 Flagge der Vereinigten Staaten von Amerika<br/>
 Copyright © Dbenbenn, Zscout370, Jacobolus, Trägheit, Technion. - SVG-Umsetzung des U.S. Code: Titel 4, Kapitel 1, Abschnitt 1 [1] (das «Flaggengesetz» der Vereinigten Staaten).<br/>
 Recht zur freien Nutzung (Public Domain).
+<br/><br/>
 
 [![en][en]][gpl]<br/>
 Symbol für englische Übersetzung<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 verwendete Flaggen: siehe oben
+<br/><br/>
 
 [![fr][fr]][gpl]<br/>
 Symbol für französiche Übersetzung<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 verwendete Flaggen: siehe oben
+<br/><br/>
 
-[![osi][osi]][osi-url]<br/>
+<p align="left"><a href="https://opensource.org/"><img src="docs/images/osi-logo.svg" align="left"/></a></p>
+<p valgin="center" style="margin-left: 30px;">
+<br/>
 Open Source Initiative - Logo<br/>
 Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
-[Original][osi-orig]: Copyright © Open Source Initiative<br/>
+<a href="https://opensource.org/files/OSIApproved_1.png">Original</a>: Copyright © Open Source Initiative<br/>
 Lizenz unbekannt.
+</p><br/><br/>
 
 [![ggshield][ggshield]][gpl]<br/>
 GitGuardian Shield - Logo<br/>
 Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
 [Original][gg-orig]: Copyright © 2022, GitGuardian<br/>
 Veröffentlicht mit Urheberrecht gemäß [MIT][mit]-Lizenz.
+<br/><br/>
 
 [![python][python]][python-url][![and][and]][python-url][![python-logo][python-logo]][python-url]<br/>
 Python - Logos<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 [Original][python-orig]: Copyright © ™/®Python Software Foundation<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Allgemeinen Öffentlichen GNU Lizenz][gpl]
+<br/><br/>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------->
 
