@@ -56,7 +56,7 @@ Copyright © home-assistant.io<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][apache].
 <br/><br/>
 
-<p align="left"><a href="https://opensource.org/"><img src="docs/images/osi-logo.svg"/></a></p>
+<p ><a href="https://opensource.org/"><img src="docs/images/osi-logo.svg" align="left"/></a></p>
 <p><br/>
 Open Source Initiative - Logo<br/>
 Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
