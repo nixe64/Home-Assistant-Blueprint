@@ -56,6 +56,15 @@ Copyright © home-assistant.io<br/>
 Veröffentlicht mit Urheberrecht gemäß der [Apache Lizenz Version 2.0][apache].
 <br/><br/>
 
+<p align="left"><a href="https://opensource.org/"><img src="docs/images/osi-logo.svg" align="left"/></a></p>
+<p valgin="center" style="margin-left: 30px;">
+<br/>
+Open Source Initiative - Logo<br/>
+Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
+<a href="https://opensource.org/files/OSIApproved_1.png">Original</a>: Copyright © Open Source Initiative<br/>
+Lizenz unbekannt.
+</p><br/>
+
 [![shields-logo][shields]][shields-url]<br/>
 Alle verwnendeten Shields und Badges<br/>
 Copyright © Uptime Robot Service Provider Ltd. als Betreiber von Shields.io.<br/>
@@ -103,15 +112,6 @@ Symbol für französiche Übersetzung<br/>
 Copyright ©  2022, Andreas Nixdorf, GPLv3<br/>
 verwendete Flaggen: siehe oben
 <br/><br/>
-
-<p align="left"><a href="https://opensource.org/"><img src="docs/images/osi-logo.svg" align="left"/></a></p>
-<p valgin="center" style="margin-left: 30px;">
-<br/>
-Open Source Initiative - Logo<br/>
-Copyright © 2022, Andreas Nixdorf, GPLv3<br/>
-<a href="https://opensource.org/files/OSIApproved_1.png">Original</a>: Copyright © Open Source Initiative<br/>
-Lizenz unbekannt.
-</p><br/><br/>
 
 [![ggshield][ggshield]][gpl]<br/>
 GitGuardian Shield - Logo<br/>
